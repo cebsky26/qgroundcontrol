@@ -7,25 +7,25 @@
       <extracomment>.QGC.MetaData.Facts[Scale].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/RCToParamDialog.FactMetaData.json"/>
       <source>Scale the RC range</source>
-      <translation type="unfinished">Scale the RC range</translation>
+      <translation>縮放遙控器範圍</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[CenterValue].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/RCToParamDialog.FactMetaData.json"/>
       <source>Parameter value when RC output is 0</source>
-      <translation type="unfinished">Parameter value when RC output is 0</translation>
+      <translation>遙控器輸出為 0 時的參數值</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[MinValue].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/RCToParamDialog.FactMetaData.json"/>
       <source>Minimum parameter value</source>
-      <translation type="unfinished">Minimum parameter value</translation>
+      <translation>參數最小值</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[MaxValue].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/RCToParamDialog.FactMetaData.json"/>
       <source>Maximum parameter value</source>
-      <translation type="unfinished">Maximum parameter value</translation>
+      <translation>參數最大值</translation>
     </message>
   </context>
   <context>
@@ -34,74 +34,74 @@
       <extracomment>.QGC.MetaData.Facts[Latitude].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/TransformPositionController.FactMetaData.json"/>
       <source>Latitude of item position</source>
-      <translation type="unfinished">Latitude of item position</translation>
+      <translation>項目位置的緯度</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[Longitude].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/TransformPositionController.FactMetaData.json"/>
       <source>Longitude of item position</source>
-      <translation type="unfinished">Longitude of item position</translation>
+      <translation>項目位置的經度</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[Easting].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/TransformPositionController.FactMetaData.json"/>
       <source>Easting of item position</source>
-      <translation type="unfinished">Easting of item position</translation>
+      <translation>項目位置的東距</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[Northing].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/TransformPositionController.FactMetaData.json"/>
       <source>Northing of item position</source>
-      <translation type="unfinished">Northing of item position</translation>
+      <translation>項目位置的北距</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[Zone].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/TransformPositionController.FactMetaData.json"/>
       <source>UTM zone</source>
-      <translation type="unfinished">UTM zone</translation>
+      <translation>UTM 分區</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[Hemisphere].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/TransformPositionController.FactMetaData.json"/>
       <source>Hemisphere for position</source>
-      <translation type="unfinished">Hemisphere for position</translation>
+      <translation>位置所在的半球</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[Hemisphere].enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/TransformPositionController.FactMetaData.json"/>
       <source>North,South</source>
-      <translation type="unfinished">North,South</translation>
+      <translation>北半球,南半球</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[MGRS].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/TransformPositionController.FactMetaData.json"/>
       <source>MGRS coordinate</source>
-      <translation type="unfinished">MGRS coordinate</translation>
+      <translation>MGRS 座標</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[OffsetEast].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/TransformPositionController.FactMetaData.json"/>
       <source>East offset</source>
-      <translation type="unfinished">East offset</translation>
+      <translation>東向偏移</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[OffsetNorth].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/TransformPositionController.FactMetaData.json"/>
       <source>North offset</source>
-      <translation type="unfinished">North offset</translation>
+      <translation>北向偏移</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[OffsetUp].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/TransformPositionController.FactMetaData.json"/>
       <source>Up offset</source>
-      <translation type="unfinished">Up offset</translation>
+      <translation>向上偏移</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[RotateDegreesCW].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/TransformPositionController.FactMetaData.json"/>
       <source>Clockwise rotation</source>
-      <translation type="unfinished">Clockwise rotation</translation>
+      <translation>順時針旋轉</translation>
     </message>
   </context>
   <context>
@@ -110,7 +110,7 @@
       <extracomment>.QGC.MetaData.Facts[Radius].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/QmlControls/QGCMapCircle.Facts.json"/>
       <source>Radius for geofence circle.</source>
-      <translation type="unfinished">Radius for geofence circle.</translation>
+      <translation>圓形地理圍籬的半徑。</translation>
     </message>
   </context>
   <context>
@@ -119,51 +119,51 @@
       <extracomment>.QGC.MetaData.Facts[CameraAction].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSection.FactMetaData.json"/>
       <source>Specify whether the camera should take photos or video</source>
-      <translation type="unfinished">Specify whether the camera should take photos or video</translation>
+      <translation>指定相機要拍攝照片或影像</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[CameraAction].enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSection.FactMetaData.json"/>
       <source>No change,Take photo,Take photos (time),Take photos (distance),Stop taking photos,Start recording video,Stop recording video</source>
-      <translation type="unfinished">No change,Take photo,Take photos (time),Take photos (distance),Stop taking photos,Start recording video,Stop recording video</translation>
+      <translation>不變更,拍照,定時拍照,定距拍照,停止拍照,開始錄製影像,停止錄製影像</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[CameraPhotoIntervalDistance].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSection.FactMetaData.json"/>
       <source>Specify the distance between each photo</source>
-      <translation type="unfinished">Specify the distance between each photo</translation>
+      <translation>指定每張照片之間的距離</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[CameraPhotoIntervalTime].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSection.FactMetaData.json"/>
       <source>Specify the time between each photo</source>
-      <translation type="unfinished">Specify the time between each photo</translation>
+      <translation>指定每張照片之間的時間間隔</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[GimbalPitch].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSection.FactMetaData.json"/>
       <source>Gimbal pitch rotation.</source>
-      <translation type="unfinished">Gimbal pitch rotation.</translation>
+      <translation>雲台俯仰旋轉。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[GimbalYaw].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSection.FactMetaData.json"/>
       <source>Gimbal yaw rotation.</source>
-      <translation type="unfinished">Gimbal yaw rotation.</translation>
+      <translation>雲台偏航旋轉。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[CameraMode].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSection.FactMetaData.json"/>
       <source>Specify whether the camera should switch to Photo, Video or Survey mode</source>
-      <translation type="unfinished">Specify whether the camera should switch to Photo, Video or Survey mode</translation>
+      <translation>指定相機要切換為照片、影像或測繪模式</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[CameraMode].enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSection.FactMetaData.json"/>
       <source>Photo,Video,Survey</source>
-      <translation type="unfinished">Photo,Video,Survey</translation>
+      <translation>照片,影像,測繪</translation>
     </message>
   </context>
   <context>
@@ -172,43 +172,43 @@
       <extracomment>.QGC.MetaData.Facts[TurnAroundDistance].shortDesc, .QGC.MetaData.Facts[TurnAroundDistanceMultiRotor].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/TransectStyle.SettingsGroup.json"/>
       <source>Amount of additional distance to add outside the survey area for vehicle turn around.</source>
-      <translation type="unfinished">Amount of additional distance to add outside the survey area for vehicle turn around.</translation>
+      <translation>在測繪區域外為載具迴轉所增加的額外距離。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[CameraTriggerInTurnAround].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/TransectStyle.SettingsGroup.json"/>
       <source>Camera continues taking images in turn arounds.</source>
-      <translation type="unfinished">Camera continues taking images in turn arounds.</translation>
+      <translation>相機在迴轉時持續拍照。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[HoverAndCapture].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/TransectStyle.SettingsGroup.json"/>
       <source>Stop and Hover at each image point before taking image</source>
-      <translation type="unfinished">Stop and Hover at each image point before taking image</translation>
+      <translation>在每個拍照點停止並懸停後再拍照</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[Refly90Degrees].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/TransectStyle.SettingsGroup.json"/>
       <source>Refly the pattern at a 90 degree angle</source>
-      <translation type="unfinished">Refly the pattern at a 90 degree angle</translation>
+      <translation>以 90 度角重飛航線樣式</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[TerrainAdjustTolerance].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/TransectStyle.SettingsGroup.json"/>
       <source>Additional waypoints within the transect will be added if the terrain altitude difference grows larger than this tolerance.</source>
-      <translation type="unfinished">Additional waypoints within the transect will be added if the terrain altitude difference grows larger than this tolerance.</translation>
+      <translation>若地形高度差超過此容許誤差，會在測線內加入額外航點。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[TerrainAdjustMaxClimbRate].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/TransectStyle.SettingsGroup.json"/>
       <source>The maximum climb rate from one waypoint to another when adjusting for terrain. Set to 0 for no max.</source>
-      <translation type="unfinished">The maximum climb rate from one waypoint to another when adjusting for terrain. Set to 0 for no max.</translation>
+      <translation>依地形調整時，航點之間的最大爬升速率。設為 0 表示不限制。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[TerrainAdjustMaxDescentRate].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/TransectStyle.SettingsGroup.json"/>
       <source>The maximum descent rate from one waypoint to another when adjusting for terrain. Set to 0 for no max.</source>
-      <translation type="unfinished">The maximum descent rate from one waypoint to another when adjusting for terrain. Set to 0 for no max.</translation>
+      <translation>依地形調整時，航點之間的最大下降速率。設為 0 表示不限制。</translation>
     </message>
   </context>
   <context>
@@ -217,31 +217,31 @@
       <extracomment>.QGC.MetaData.Facts[Altitude].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CorridorScan.SettingsGroup.json"/>
       <source>Altitude for the bottom layer of the structure scan.</source>
-      <translation type="unfinished">Altitude for the bottom layer of the structure scan.</translation>
+      <translation>結構物掃描最下層的高度。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[CorridorWidth].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CorridorScan.SettingsGroup.json"/>
       <source>Corridor width. Specify 0 width for a single pass scan.</source>
-      <translation type="unfinished">Corridor width. Specify 0 width for a single pass scan.</translation>
+      <translation>廊道寬度。寬度設為 0 時為單趟掃描。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[Trigger distance].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CorridorScan.SettingsGroup.json"/>
       <source>Distance between each triggering of the camera. 0 specifies not camera trigger.</source>
-      <translation type="unfinished">Distance between each triggering of the camera. 0 specifies not camera trigger.</translation>
+      <translation>相機每次觸發之間的距離。設為 0 表示不觸發相機。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[GridSpacing].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CorridorScan.SettingsGroup.json"/>
       <source>Amount of spacing in between parallel grid lines.</source>
-      <translation type="unfinished">Amount of spacing in between parallel grid lines.</translation>
+      <translation>平行網格線之間的間距。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[TurnaroundDistance].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CorridorScan.SettingsGroup.json"/>
       <source>Amount of additional distance to add outside the survey area for vehicle turnaround.</source>
-      <translation type="unfinished">Amount of additional distance to add outside the survey area for vehicle turnaround.</translation>
+      <translation>在測繪區域外為載具迴轉所增加的額外距離。</translation>
     </message>
   </context>
   <context>
@@ -250,7 +250,7 @@
       <extracomment>.QGC.MetaData.Facts[FlightSpeed].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/SpeedSection.FactMetaData.json"/>
       <source>Set the current flight speed</source>
-      <translation type="unfinished">Set the current flight speed</translation>
+      <translation>設定目前的飛行速度</translation>
     </message>
   </context>
   <context>
@@ -259,37 +259,37 @@
       <extracomment>.QGC.MetaData.Facts[CameraName].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraCalc.FactMetaData.json"/>
       <source>Camera name.</source>
-      <translation type="unfinished">Camera name.</translation>
+      <translation>相機名稱。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[ValueSetIsDistance].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraCalc.FactMetaData.json"/>
       <source>Value specified is distance to surface.</source>
-      <translation type="unfinished">Value specified is distance to surface.</translation>
+      <translation>指定的數值為與地表的距離。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[DistanceToSurface].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraCalc.FactMetaData.json"/>
       <source>Distance vehicle is away from surface.</source>
-      <translation type="unfinished">Distance vehicle is away from surface.</translation>
+      <translation>載具與地表的距離。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[ImageDensity].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraCalc.FactMetaData.json"/>
       <source>Image desity at surface.</source>
-      <translation type="unfinished">Image desity at surface.</translation>
+      <translation>地表上的影像密度。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[FrontalOverlap].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraCalc.FactMetaData.json"/>
       <source>Amount of overlap between images in the forward facing direction.</source>
-      <translation type="unfinished">Amount of overlap between images in the forward facing direction.</translation>
+      <translation>前進方向上影像之間的重疊率。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[SideOverlap].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraCalc.FactMetaData.json"/>
       <source>Amount of overlap between images in the side facing direction.</source>
-      <translation type="unfinished">Amount of overlap between images in the side facing direction.</translation>
+      <translation>側向影像之間的重疊率。</translation>
     </message>
   </context>
   <context>
@@ -298,7 +298,7 @@
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_TAKEOFF].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoFixedWing.json"/>
       <source>Pitch</source>
-      <translation type="unfinished">Pitch</translation>
+      <translation>俯仰</translation>
     </message>
   </context>
   <context>
@@ -307,79 +307,79 @@
       <extracomment>.QGC.MetaData.Facts[LandingDistance].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/FWLandingPattern.FactMetaData.json"/>
       <source>Distance between approach and land points.</source>
-      <translation type="unfinished">Distance between approach and land points.</translation>
+      <translation>進場點與降落點之間的距離。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[LandingHeading].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/FWLandingPattern.FactMetaData.json"/>
       <source>Heading from approach to land point.</source>
-      <translation type="unfinished">Heading from approach to land point.</translation>
+      <translation>從進場點到降落點的航向。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[FinalApproachAltitude].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/FWLandingPattern.FactMetaData.json"/>
       <source>Altitude to begin landing approach from.</source>
-      <translation type="unfinished">Altitude to begin landing approach from.</translation>
+      <translation>開始降落進場的高度。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[UseDoChangeSpeed].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/FWLandingPattern.FactMetaData.json"/>
       <source>Command a specific speed for the approach, useful for reducing energy before the glide slope.</source>
-      <translation type="unfinished">Command a specific speed for the approach, useful for reducing energy before the glide slope.</translation>
+      <translation>為進場指定特定速度，有助於在進入下滑軌跡前降低能量。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[FinalApproachSpeed].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/FWLandingPattern.FactMetaData.json"/>
       <source>Speed to perform the approach at.</source>
-      <translation type="unfinished">Speed to perform the approach at.</translation>
+      <translation>執行進場時的速度。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[LoiterRadius].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/FWLandingPattern.FactMetaData.json"/>
       <source>Loiter radius.</source>
-      <translation type="unfinished">Loiter radius.</translation>
+      <translation>盤旋半徑。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[LoiterClockwise].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/FWLandingPattern.FactMetaData.json"/>
       <source>Loiter clockwise around the final approach point.</source>
-      <translation type="unfinished">Loiter clockwise around the final approach point.</translation>
+      <translation>繞最後進場點順時針盤旋。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[LandingAltitude].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/FWLandingPattern.FactMetaData.json"/>
       <source>Altitude for landing point.</source>
-      <translation type="unfinished">Altitude for landing point.</translation>
+      <translation>降落點的高度。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[GlideSlope].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/FWLandingPattern.FactMetaData.json"/>
       <source>The glide slope between the loiter and landing point.</source>
-      <translation type="unfinished">The glide slope between the loiter and landing point.</translation>
+      <translation>盤旋點與降落點之間的下滑角。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[ValueSetIsDistance].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/FWLandingPattern.FactMetaData.json"/>
       <source>Value controller approach point is distance</source>
-      <translation type="unfinished">Value controller approach point is distance</translation>
+      <translation>以距離設定進場點</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[UseLoiterToAlt].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/FWLandingPattern.FactMetaData.json"/>
       <source>Use a loiter to altitude item for final appoach. Otherwise use a regular waypoint.</source>
-      <translation type="unfinished">Use a loiter to altitude item for final appoach. Otherwise use a regular waypoint.</translation>
+      <translation>最後進場使用「盤旋至高度」項目，否則使用一般航點。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[StopTakingPhotos].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/FWLandingPattern.FactMetaData.json"/>
       <source>Stop taking photos</source>
-      <translation type="unfinished">Stop taking photos</translation>
+      <translation>停止拍照</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[StopTakingVideo].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/FWLandingPattern.FactMetaData.json"/>
       <source>Stop taking video</source>
-      <translation type="unfinished">Stop taking video</translation>
+      <translation>停止錄影</translation>
     </message>
   </context>
   <context>
@@ -388,19 +388,19 @@
       <extracomment>.QGC.MetaData.Facts[GridAngle].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/Survey.SettingsGroup.json"/>
       <source>Angle for parallel lines of grid.</source>
-      <translation type="unfinished">Angle for parallel lines of grid.</translation>
+      <translation>網格平行線的角度。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[FlyAlternateTransects].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/Survey.SettingsGroup.json"/>
       <source>Fly every other transect in each pass.</source>
-      <translation type="unfinished">Fly every other transect in each pass.</translation>
+      <translation>每趟隔一條測線飛行。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[SplitConcavePolygons].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/Survey.SettingsGroup.json"/>
       <source>Split mission concave polygons into separate regular, convex polygons.</source>
-      <translation type="unfinished">Split mission concave polygons into separate regular, convex polygons.</translation>
+      <translation>將任務中的凹多邊形分割成個別的規則凸多邊形。</translation>
     </message>
   </context>
   <context>
@@ -409,19 +409,19 @@
       <extracomment>.QGC.MetaData.Facts[Latitude].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/RallyPoint.FactMetaData.json"/>
       <source>Latitude</source>
-      <translation type="unfinished">Latitude</translation>
+      <translation>緯度</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[Longitude].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/RallyPoint.FactMetaData.json"/>
       <source>Longitude</source>
-      <translation type="unfinished">Longitude</translation>
+      <translation>經度</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[RelativeAltitude].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/RallyPoint.FactMetaData.json"/>
       <source>Altitude (rel)</source>
-      <translation type="unfinished">Altitude (rel)</translation>
+      <translation>高度（相對）</translation>
     </message>
   </context>
   <context>
@@ -430,19 +430,19 @@
       <extracomment>.QGC.MetaData.Facts[Latitude].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/BreachReturn.FactMetaData.json"/>
       <source>Latitude of breach return point position</source>
-      <translation type="unfinished">Latitude of breach return point position</translation>
+      <translation>越界返回點的緯度</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[Longitude].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/BreachReturn.FactMetaData.json"/>
       <source>Longitude of breach return point position</source>
-      <translation type="unfinished">Longitude of breach return point position</translation>
+      <translation>越界返回點的經度</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[Altitude].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/BreachReturn.FactMetaData.json"/>
       <source>Altitude of breach return point position (Rel)</source>
-      <translation type="unfinished">Altitude of breach return point position (Rel)</translation>
+      <translation>越界返回點的高度（相對）</translation>
     </message>
   </context>
   <context>
@@ -451,55 +451,55 @@
       <extracomment>.QGC.MetaData.Facts[Name].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSpec.FactMetaData.json"/>
       <source>Camera name.</source>
-      <translation type="unfinished">Camera name.</translation>
+      <translation>相機名稱。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[SensorWidth].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSpec.FactMetaData.json"/>
       <source>Width of camera image sensor.</source>
-      <translation type="unfinished">Width of camera image sensor.</translation>
+      <translation>相機影像感測器寬度。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[SensorHeight].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSpec.FactMetaData.json"/>
       <source>Height of camera image sensor.</source>
-      <translation type="unfinished">Height of camera image sensor.</translation>
+      <translation>相機影像感測器高度。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[ImageWidth].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSpec.FactMetaData.json"/>
       <source>Camera image resolution width.</source>
-      <translation type="unfinished">Camera image resolution width.</translation>
+      <translation>相機影像解析度寬度。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[ImageHeight].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSpec.FactMetaData.json"/>
       <source>Camera image resolution height.</source>
-      <translation type="unfinished">Camera image resolution height.</translation>
+      <translation>相機影像解析度高度。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[FocalLength].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSpec.FactMetaData.json"/>
       <source>Focal length of camera lens.</source>
-      <translation type="unfinished">Focal length of camera lens.</translation>
+      <translation>相機鏡頭焦距。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[Landscape].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSpec.FactMetaData.json"/>
       <source>Camera on vehicle is in landscape orientation.</source>
-      <translation type="unfinished">Camera on vehicle is in landscape orientation.</translation>
+      <translation>載具上的相機為橫向安裝。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[FixedOrientation].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSpec.FactMetaData.json"/>
       <source>Camera orientation ix fixed and cannot be changed.</source>
-      <translation type="unfinished">Camera orientation ix fixed and cannot be changed.</translation>
+      <translation>相機方向為固定，無法變更。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[MinTriggerInterval].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/CameraSpec.FactMetaData.json"/>
       <source>Minimum amount of time between each camera trigger.</source>
-      <translation type="unfinished">Minimum amount of time between each camera trigger.</translation>
+      <translation>相機每次觸發之間的最短時間。</translation>
     </message>
   </context>
   <context>
@@ -508,37 +508,37 @@
       <extracomment>.QGC.MetaData.Facts[GimbalPitch].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/StructureScan.SettingsGroup.json"/>
       <source>Gimbal pitch rotation.</source>
-      <translation type="unfinished">Gimbal pitch rotation.</translation>
+      <translation>雲台俯仰旋轉。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[EntranceAltitude].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/StructureScan.SettingsGroup.json"/>
       <source>Vehicle will fly to/from the structure at this altitude.</source>
-      <translation type="unfinished">Vehicle will fly to/from the structure at this altitude.</translation>
+      <translation>載具會以此高度飛往及飛離結構物。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[ScanBottomAlt].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/StructureScan.SettingsGroup.json"/>
       <source>Altitude for the bottomost covered area of the scan. You can adjust this value such that the Bottom Layer Alt will fly above obstacles on the ground.</source>
-      <translation type="unfinished">Altitude for the bottomost covered area of the scan. You can adjust this value such that the Bottom Layer Alt will fly above obstacles on the ground.</translation>
+      <translation>掃描涵蓋範圍最底部的高度。可調整此值，讓最下層高度飛越地面障礙物上方。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[Layers].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/StructureScan.SettingsGroup.json"/>
       <source>Number of scan layers.</source>
-      <translation type="unfinished">Number of scan layers.</translation>
+      <translation>掃描層數。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[StructureHeight].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/StructureScan.SettingsGroup.json"/>
       <source>Height of structure being scanned.</source>
-      <translation type="unfinished">Height of structure being scanned.</translation>
+      <translation>要掃描的結構物高度。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[StartFromTop].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/StructureScan.SettingsGroup.json"/>
       <source>Start scanning from top of structure.</source>
-      <translation type="unfinished">Start scanning from top of structure.</translation>
+      <translation>從結構物頂部開始掃描。</translation>
     </message>
   </context>
   <context>
@@ -547,1589 +547,1589 @@
       <extracomment>.mavCmdInfo[HomeRaw].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Home Position</source>
-      <translation type="unfinished">Home Position</translation>
+      <translation>返航點</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[HomeRaw].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Planned home position for mission.</source>
-      <translation type="unfinished">Planned home position for mission.</translation>
+      <translation>任務的預定返航點。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[HomeRaw].category, .mavCmdInfo[MAV_CMD_NAV_WAYPOINT].category, .mavCmdInfo[MAV_CMD_NAV_RETURN_TO_LAUNCH].category, .mavCmdInfo[MAV_CMD_NAV_LAND].category, .mavCmdInfo[MAV_CMD_NAV_TAKEOFF].category, .mavCmdInfo[MAV_CMD_NAV_SPLINE_WAYPOINT].category, .mavCmdInfo[MAV_CMD_NAV_VTOL_TAKEOFF].category, .mavCmdInfo[MAV_CMD_NAV_VTOL_LAND].category, .mavCmdInfo[MAV_CMD_CONDITION_DELAY].category</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Basic</source>
-      <translation type="unfinished">Basic</translation>
+      <translation>基本</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[HomeRaw].param5.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Latitude</source>
-      <translation type="unfinished">Latitude</translation>
+      <translation>緯度</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[HomeRaw].param6.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Longitude</source>
-      <translation type="unfinished">Longitude</translation>
+      <translation>經度</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_WAYPOINT].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Waypoint</source>
-      <translation type="unfinished">Waypoint</translation>
+      <translation>航點</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_WAYPOINT].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Travel to a position in 3D space.</source>
-      <translation type="unfinished">Travel to a position in 3D space.</translation>
+      <translation>前往三維空間中的位置。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_WAYPOINT].param1.label, .mavCmdInfo[MAV_CMD_NAV_SPLINE_WAYPOINT].param1.label, .mavCmdInfo[MAV_CMD_NAV_DELAY].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Hold</source>
-      <translation type="unfinished">Hold</translation>
+      <translation>停留時間</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_WAYPOINT].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Acceptance</source>
-      <translation type="unfinished">Acceptance</translation>
+      <translation>到達半徑</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_WAYPOINT].param3.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Pass Radius</source>
-      <translation type="unfinished">Pass Radius</translation>
+      <translation>通過半徑</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_WAYPOINT].param4.label, .mavCmdInfo[MAV_CMD_NAV_LOITER_UNLIM].param4.label, .mavCmdInfo[MAV_CMD_NAV_LAND].param4.label, .mavCmdInfo[MAV_CMD_NAV_VTOL_TAKEOFF].param4.label, .mavCmdInfo[MAV_CMD_NAV_VTOL_LAND].param4.label, .mavCmdInfo[MAV_CMD_DO_GIMBAL_MANAGER_PITCHYAW].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Yaw</source>
-      <translation type="unfinished">Yaw</translation>
+      <translation>偏航</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LOITER_UNLIM].friendlyName, .mavCmdInfo[MAV_CMD_NAV_LOITER_UNLIM].category, .mavCmdInfo[MAV_CMD_NAV_LOITER_TURNS].category, .mavCmdInfo[MAV_CMD_NAV_LOITER_TIME].category, .mavCmdInfo[MAV_CMD_NAV_LOITER_TO_ALT].category</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Loiter</source>
-      <translation type="unfinished">Loiter</translation>
+      <translation>盤旋</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LOITER_UNLIM].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Travel to a position and Loiter around the specified position indefinitely.</source>
-      <translation type="unfinished">Travel to a position and Loiter around the specified position indefinitely.</translation>
+      <translation>飛往指定位置，並繞該位置持續盤旋，不限時間。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LOITER_UNLIM].param3.label, .mavCmdInfo[MAV_CMD_NAV_LOITER_TURNS].param3.label, .mavCmdInfo[MAV_CMD_NAV_LOITER_TIME].param3.label, .mavCmdInfo[MAV_CMD_NAV_LOITER_TO_ALT].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Radius</source>
-      <translation type="unfinished">Radius</translation>
+      <translation>半徑</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LOITER_TURNS].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Loiter (turns)</source>
-      <translation type="unfinished">Loiter (turns)</translation>
+      <translation>盤旋（圈數）</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LOITER_TURNS].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Travel to a position and Loiter around the specified position for a number of turns.</source>
-      <translation type="unfinished">Travel to a position and Loiter around the specified position for a number of turns.</translation>
+      <translation>飛往指定位置，並繞該位置盤旋指定圈數。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LOITER_TURNS].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Turns</source>
-      <translation type="unfinished">Turns</translation>
+      <translation>圈數</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LOITER_TURNS].param2.label, .mavCmdInfo[MAV_CMD_NAV_LOITER_TIME].param2.label, .mavCmdInfo[MAV_CMD_NAV_LOITER_TO_ALT].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Leave Loiter</source>
-      <translation type="unfinished">Leave Loiter</translation>
+      <translation>離開盤旋</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LOITER_TURNS].param2.enumStrings, .mavCmdInfo[MAV_CMD_NAV_LOITER_TO_ALT].param1.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Direction of next waypoint,Any direction</source>
-      <translation type="unfinished">Direction of next waypoint,Any direction</translation>
+      <translation>朝下一航點方向,任意方向</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LOITER_TURNS].param4.label, .mavCmdInfo[MAV_CMD_NAV_LOITER_TIME].param4.label, .mavCmdInfo[MAV_CMD_NAV_LOITER_TO_ALT].param4.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Exit loiter from</source>
-      <translation type="unfinished">Exit loiter from</translation>
+      <translation>退出盤旋於</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LOITER_TURNS].param4.enumStrings, .mavCmdInfo[MAV_CMD_NAV_LOITER_TIME].param4.enumStrings, .mavCmdInfo[MAV_CMD_NAV_LOITER_TO_ALT].param4.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Center,Tangent</source>
-      <translation type="unfinished">Center,Tangent</translation>
+      <translation>中心,切線</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LOITER_TIME].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Loiter (time)</source>
-      <translation type="unfinished">Loiter (time)</translation>
+      <translation>盤旋（時間）</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LOITER_TIME].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Travel to a position and Loiter around the specified position for an amount of time.</source>
-      <translation type="unfinished">Travel to a position and Loiter around the specified position for an amount of time.</translation>
+      <translation>飛往指定位置，並繞該位置盤旋一段指定時間。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LOITER_TIME].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Loiter Time</source>
-      <translation type="unfinished">Loiter Time</translation>
+      <translation>盤旋時間</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LOITER_TIME].param2.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Direction of next waypoint,Current direction</source>
-      <translation type="unfinished">Direction of next waypoint,Current direction</translation>
+      <translation>朝下一航點方向,目前方向</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_RETURN_TO_LAUNCH].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Return To Launch</source>
-      <translation type="unfinished">Return To Launch</translation>
+      <translation>返航</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_RETURN_TO_LAUNCH].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Send the vehicle back to the launch position.</source>
-      <translation type="unfinished">Send the vehicle back to the launch position.</translation>
+      <translation>使載具返回起飛位置。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LAND].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Land</source>
-      <translation type="unfinished">Land</translation>
+      <translation>降落</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LAND].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Land vehicle at the specified location.</source>
-      <translation type="unfinished">Land vehicle at the specified location.</translation>
+      <translation>使載具在指定位置降落。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LAND].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Abort Alt</source>
-      <translation type="unfinished">Abort Alt</translation>
+      <translation>中止高度</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LAND].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Precision Land</source>
-      <translation type="unfinished">Precision Land</translation>
+      <translation>精準降落</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LAND].param2.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Disabled,Opportunistic,Required</source>
-      <translation type="unfinished">Disabled,Opportunistic,Required</translation>
+      <translation>停用,伺機使用,必須使用</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_TAKEOFF].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Takeoff</source>
-      <translation type="unfinished">Takeoff</translation>
+      <translation>起飛</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_TAKEOFF].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Launch from the ground and travel towards the specified takeoff position.</source>
-      <translation type="unfinished">Launch from the ground and travel towards the specified takeoff position.</translation>
+      <translation>從地面起飛，並飛往指定的起飛位置。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LAND_LOCAL].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Land local</source>
-      <translation type="unfinished">Land local</translation>
+      <translation>本地座標降落</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_TAKEOFF_LOCAL].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Takeoff local</source>
-      <translation type="unfinished">Takeoff local</translation>
+      <translation>本地座標起飛</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_FOLLOW].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Nav follow</source>
-      <translation type="unfinished">Nav follow</translation>
+      <translation>導航跟隨</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_CONTINUE_AND_CHANGE_ALT].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Change Altitude</source>
-      <translation type="unfinished">Change Altitude</translation>
+      <translation>變更高度</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_CONTINUE_AND_CHANGE_ALT].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Continue on the current course and climb/descend to specified altitude. When the altitude is reached continue to the next command.</source>
-      <translation type="unfinished">Continue on the current course and climb/descend to specified altitude. When the altitude is reached continue to the next command.</translation>
+      <translation>沿目前航線繼續飛行，並爬升或下降至指定高度。到達該高度後，繼續執行下一個命令。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_CONTINUE_AND_CHANGE_ALT].category, .mavCmdInfo[MAV_CMD_DO_CHANGE_SPEED].category, .mavCmdInfo[MAV_CMD_DO_LAND_START].category, .mavCmdInfo[MAV_CMD_DO_INVERTED_FLIGHT].category</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Flight control</source>
-      <translation type="unfinished">Flight control</translation>
+      <translation>飛行控制</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_CONTINUE_AND_CHANGE_ALT].param1.label, .mavCmdInfo[MAV_CMD_DO_SET_MODE].param1.label, .mavCmdInfo[MAV_CMD_DO_SET_HOME].param1.label, .mavCmdInfo[MAV_CMD_DO_SET_ROI].param1.label, .mavCmdInfo[MAV_CMD_DO_DIGICAM_CONFIGURE].param1.label, .mavCmdInfo[MAV_CMD_DO_MOUNT_CONFIGURE].param1.label, .mavCmdInfo[MAV_CMD_DO_MOUNT_CONTROL].param7.label, .mavCmdInfo[MAV_CMD_SET_CAMERA_MODE].param2.label, .mavCmdInfo[MAV_CMD_DO_VTOL_TRANSITION].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Mode</source>
-      <translation type="unfinished">Mode</translation>
+      <translation>模式</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_CONTINUE_AND_CHANGE_ALT].param1.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Climb,Neutral,Descend</source>
-      <translation type="unfinished">Climb,Neutral,Descend</translation>
+      <translation>爬升,持平,下降</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LOITER_TO_ALT].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Loiter (altitude)</source>
-      <translation type="unfinished">Loiter (altitude)</translation>
+      <translation>盤旋（高度）</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_LOITER_TO_ALT].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Loiter at specified position until altitude reached.</source>
-      <translation type="unfinished">Loiter at specified position until altitude reached.</translation>
+      <translation>在指定位置盤旋，直到到達指定高度。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_FOLLOW].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Follow Me</source>
-      <translation type="unfinished">Follow Me</translation>
+      <translation>跟隨我</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_FOLLOW_REPOSITION].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Vehicle reposition</source>
-      <translation type="unfinished">Vehicle reposition</translation>
+      <translation>載具重新定位</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_PATHPLANNING].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Path planning</source>
-      <translation type="unfinished">Path planning</translation>
+      <translation>路徑規劃</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_PATHPLANNING].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Control autonomous path planning.</source>
-      <translation type="unfinished">Control autonomous path planning.</translation>
+      <translation>控制自主路徑規劃。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_PATHPLANNING].category, .mavCmdInfo[MAV_CMD_DO_SET_MODE].category, .mavCmdInfo[MAV_CMD_DO_JUMP].category, .mavCmdInfo[MAV_CMD_DO_SET_HOME].category, .mavCmdInfo[MAV_CMD_DO_SET_REVERSE].category, .mavCmdInfo[MAV_CMD_DO_MOUNT_CONFIGURE].category, .mavCmdInfo[MAV_CMD_DO_MOUNT_CONTROL].category, .mavCmdInfo[MAV_CMD_DO_GIMBAL_MANAGER_PITCHYAW].category, .mavCmdInfo[MAV_CMD_DO_GRIPPER].category, .mavCmdInfo[MAV_CMD_DO_AUTOTUNE_ENABLE].category</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>進階</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_PATHPLANNING].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Local planning</source>
-      <translation type="unfinished">Local planning</translation>
+      <translation>局部規劃</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_PATHPLANNING].param1.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Disable,Enable,Enable+reset</source>
-      <translation type="unfinished">Disable,Enable,Enable+reset</translation>
+      <translation>停用,啟用,啟用並重設</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_PATHPLANNING].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Full planning</source>
-      <translation type="unfinished">Full planning</translation>
+      <translation>完整規劃</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_PATHPLANNING].param2.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Disable,Enable,Enable+reset,Enable+reset route only</source>
-      <translation type="unfinished">Disable,Enable,Enable+reset,Enable+reset route only</translation>
+      <translation>停用,啟用,啟用並重設,啟用並僅重設路線</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_PATHPLANNING].param4.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Heading goal</source>
-      <translation type="unfinished">Heading goal</translation>
+      <translation>目標航向</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_SPLINE_WAYPOINT].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Spline waypoint</source>
-      <translation type="unfinished">Spline waypoint</translation>
+      <translation>曲線航點</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_SPLINE_WAYPOINT].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Travel to a position in 3D space using spline path.</source>
-      <translation type="unfinished">Travel to a position in 3D space using spline path.</translation>
+      <translation>沿曲線路徑前往三維空間中的位置。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_ALTITUDE_WAIT].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Altitude wait</source>
-      <translation type="unfinished">Altitude wait</translation>
+      <translation>高度等待</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_VTOL_TAKEOFF].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>VTOL takeoff</source>
-      <translation type="unfinished">VTOL takeoff</translation>
+      <translation>垂直起降模式起飛</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_VTOL_TAKEOFF].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Hover straight up to specified altitude, transition to fixed-wing and fly to the specified takeoff location.</source>
-      <translation type="unfinished">Hover straight up to specified altitude, transition to fixed-wing and fly to the specified takeoff location.</translation>
+      <translation>以懸停方式垂直爬升至指定高度，轉換為固定翼模式，再飛往指定的起飛位置。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_VTOL_TAKEOFF].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Transition Heading</source>
-      <translation type="unfinished">Transition Heading</translation>
+      <translation>轉換航向</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_VTOL_TAKEOFF].param2.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Default,Next waypoint,Takeoff,Specified,Any</source>
-      <translation type="unfinished">Default,Next waypoint,Takeoff,Specified,Any</translation>
+      <translation>預設,下一航點,起飛,指定,任意</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_VTOL_LAND].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>VTOL land</source>
-      <translation type="unfinished">VTOL land</translation>
+      <translation>垂直起降模式降落</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_VTOL_LAND].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Fly to specified location at current altitude, transition to multi-rotor and land.</source>
-      <translation type="unfinished">Fly to specified location at current altitude, transition to multi-rotor and land.</translation>
+      <translation>以目前高度飛往指定位置，轉換為多旋翼模式後降落。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_VTOL_LAND].param3.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Approach Alt</source>
-      <translation type="unfinished">Approach Alt</translation>
+      <translation>進場高度</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_GUIDED_ENABLE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Guided enable</source>
-      <translation type="unfinished">Guided enable</translation>
+      <translation>啟用導引</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_GUIDED_ENABLE].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Enable/Disabled guided mode.</source>
-      <translation type="unfinished">Enable/Disabled guided mode.</translation>
+      <translation>啟用／停用導引模式。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_GUIDED_ENABLE].param1.label, .mavCmdInfo[MAV_CMD_DO_FENCE_ENABLE].param1.label, .mavCmdInfo[MAV_CMD_DO_AUTOTUNE_ENABLE].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Enable</source>
-      <translation type="unfinished">Enable</translation>
+      <translation>啟用</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_GUIDED_ENABLE].param1.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>On,Off</source>
-      <translation type="unfinished">On,Off</translation>
+      <translation>開啟,關閉</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_DELAY].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Delay until</source>
-      <translation type="unfinished">Delay until</translation>
+      <translation>延遲至</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_DELAY].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Delay until the specified time is reached.</source>
-      <translation type="unfinished">Delay until the specified time is reached.</translation>
+      <translation>延遲至指定時間。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_DELAY].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Hour (utc)</source>
-      <translation type="unfinished">Hour (utc)</translation>
+      <translation>時（UTC）</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_DELAY].param3.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Min (utc)</source>
-      <translation type="unfinished">Min (utc)</translation>
+      <translation>分（UTC）</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_DELAY].param4.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Sec (utc)</source>
-      <translation type="unfinished">Sec (utc)</translation>
+      <translation>秒（UTC）</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_DELAY].friendlyName, .mavCmdInfo[MAV_CMD_CONDITION_DELAY].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Delay</source>
-      <translation type="unfinished">Delay</translation>
+      <translation>延遲</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_DELAY].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Delay the mission for the number of seconds.</source>
-      <translation type="unfinished">Delay the mission for the number of seconds.</translation>
+      <translation>將任務延遲指定的秒數。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_CHANGE_ALT].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Wait for altitude</source>
-      <translation type="unfinished">Wait for altitude</translation>
+      <translation>等待到達高度</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_CHANGE_ALT].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Delay the mission until the specified altitide is reached.</source>
-      <translation type="unfinished">Delay the mission until the specified altitide is reached.</translation>
+      <translation>延遲任務，直到到達指定高度。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_CHANGE_ALT].category, .mavCmdInfo[MAV_CMD_CONDITION_DISTANCE].category, .mavCmdInfo[MAV_CMD_CONDITION_YAW].category, .mavCmdInfo[MAV_CMD_CONDITION_GATE].category</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Conditionals</source>
-      <translation type="unfinished">Conditionals</translation>
+      <translation>條件命令</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_CHANGE_ALT].param1.label, .mavCmdInfo[MAV_CMD_CONDITION_YAW].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Rate</source>
-      <translation type="unfinished">Rate</translation>
+      <translation>速率</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_CHANGE_ALT].param7.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Target</source>
-      <translation type="unfinished">Target</translation>
+      <translation>目標高度</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_DISTANCE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Wait for distance</source>
-      <translation type="unfinished">Wait for distance</translation>
+      <translation>等待到達距離</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_DISTANCE].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Delay the mission until within the specified distance of the next waypoint.</source>
-      <translation type="unfinished">Delay the mission until within the specified distance of the next waypoint.</translation>
+      <translation>延遲任務，直到與下一航點的距離小於指定值。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_DISTANCE].param1.label, .mavCmdInfo[MAV_CMD_DO_SET_CAM_TRIGG_DIST].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Distance</source>
-      <translation type="unfinished">Distance</translation>
+      <translation>距離</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_YAW].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Wait for Yaw</source>
-      <translation type="unfinished">Wait for Yaw</translation>
+      <translation>等待偏航</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_YAW].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Delay the mission until the specified heading is reached.</source>
-      <translation type="unfinished">Delay the mission until the specified heading is reached.</translation>
+      <translation>延遲任務，直到到達指定航向。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_YAW].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Heading</source>
-      <translation type="unfinished">Heading</translation>
+      <translation>航向</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_YAW].param3.label, .mavCmdInfo[MAV_CMD_DO_SET_REVERSE].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Direction</source>
-      <translation type="unfinished">Direction</translation>
+      <translation>方向</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_YAW].param3.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Clockwise,Shortest,Counter-Clockwise</source>
-      <translation type="unfinished">Clockwise,Shortest,Counter-Clockwise</translation>
+      <translation>順時針,最短路徑,逆時針</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_YAW].param4.label, .mavCmdInfo[MAV_CMD_DO_CHANGE_SPEED].param4.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>偏移方式</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_YAW].param4.enumStrings, .mavCmdInfo[MAV_CMD_DO_CHANGE_SPEED].param4.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Relative,Absolute</source>
-      <translation type="unfinished">Relative,Absolute</translation>
+      <translation>相對,絕對</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_MODE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set mode</source>
-      <translation type="unfinished">Set mode</translation>
+      <translation>設定模式</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_MODE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set flight mode</source>
-      <translation type="unfinished">Set flight mode</translation>
+      <translation>設定飛行模式</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_MODE].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set flight mode.</source>
-      <translation type="unfinished">Set flight mode.</translation>
+      <translation>設定飛行模式。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_MODE].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Custom Mode</source>
-      <translation type="unfinished">Custom Mode</translation>
+      <translation>自訂模式</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_MODE].param3.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Sub Mode</source>
-      <translation type="unfinished">Sub Mode</translation>
+      <translation>子模式</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_JUMP].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Jump to item</source>
-      <translation type="unfinished">Jump to item</translation>
+      <translation>跳至項目</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_JUMP].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Mission will continue at the specified item.</source>
-      <translation type="unfinished">Mission will continue at the specified item.</translation>
+      <translation>任務將從指定的項目繼續執行。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_JUMP].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Item #</source>
-      <translation type="unfinished">Item #</translation>
+      <translation>項目編號</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_JUMP].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Repeat</source>
-      <translation type="unfinished">Repeat</translation>
+      <translation>重複次數</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_CHANGE_SPEED].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Change speed</source>
-      <translation type="unfinished">Change speed</translation>
+      <translation>變更速度</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_CHANGE_SPEED].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Change speed and/or throttle set points.</source>
-      <translation type="unfinished">Change speed and/or throttle set points.</translation>
+      <translation>變更速度及／或油門設定值。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_CHANGE_SPEED].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>類型</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_CHANGE_SPEED].param1.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Airspeed,Ground Speed,Ascend Speed,Descend Speed</source>
-      <translation type="unfinished">Airspeed,Ground Speed,Ascend Speed,Descend Speed</translation>
+      <translation>空速,地速,爬升速度,下降速度</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_CHANGE_SPEED].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Speed</source>
-      <translation type="unfinished">Speed</translation>
+      <translation>速度</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_CHANGE_SPEED].param3.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Throttle</source>
-      <translation type="unfinished">Throttle</translation>
+      <translation>油門</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_HOME].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set launch location</source>
-      <translation type="unfinished">Set launch location</translation>
+      <translation>設定起飛位置</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_HOME].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Changes the launch location either to the current location or a specified location.</source>
-      <translation type="unfinished">Changes the launch location either to the current location or a specified location.</translation>
+      <translation>將起飛位置變更為目前位置或指定位置。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_HOME].param1.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Vehicle position,Specified position</source>
-      <translation type="unfinished">Vehicle position,Specified position</translation>
+      <translation>載具位置,指定位置</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_PARAMETER].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set Parameter</source>
-      <translation type="unfinished">Set Parameter</translation>
+      <translation>設定參數</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_RELAY].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set relay</source>
-      <translation type="unfinished">Set relay</translation>
+      <translation>設定繼電器</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_RELAY].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set relay to a condition.</source>
-      <translation type="unfinished">Set relay to a condition.</translation>
+      <translation>將繼電器設為指定狀態。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_RELAY].param1.label, .mavCmdInfo[MAV_CMD_DO_REPEAT_RELAY].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Relay #</source>
-      <translation type="unfinished">Relay #</translation>
+      <translation>繼電器編號</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_RELAY].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>值</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_REPEAT_RELAY].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Cycle relay</source>
-      <translation type="unfinished">Cycle relay</translation>
+      <translation>循環切換繼電器</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_REPEAT_RELAY].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Cycle relay on/off for desired cycles/time.</source>
-      <translation type="unfinished">Cycle relay on/off for desired cycles/time.</translation>
+      <translation>依指定次數／時間循環開關繼電器。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_REPEAT_RELAY].param2.label, .mavCmdInfo[MAV_CMD_DO_REPEAT_SERVO].param3.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Cycles</source>
-      <translation type="unfinished">Cycles</translation>
+      <translation>次數</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_REPEAT_RELAY].param3.label, .mavCmdInfo[MAV_CMD_DO_REPEAT_SERVO].param4.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Time</source>
-      <translation type="unfinished">Time</translation>
+      <translation>時間</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_SERVO].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set servo</source>
-      <translation type="unfinished">Set servo</translation>
+      <translation>設定伺服</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_SERVO].description, .mavCmdInfo[MAV_CMD_DO_REPEAT_SERVO].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set servo to specified PWM value.</source>
-      <translation type="unfinished">Set servo to specified PWM value.</translation>
+      <translation>將伺服設為指定的 PWM 值。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_SERVO].param1.label, .mavCmdInfo[MAV_CMD_DO_REPEAT_SERVO].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Servo</source>
-      <translation type="unfinished">Servo</translation>
+      <translation>伺服馬達</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_SERVO].param2.label, .mavCmdInfo[MAV_CMD_DO_REPEAT_SERVO].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>PWM</source>
-      <translation type="unfinished">PWM</translation>
+      <translation>PWM</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_REPEAT_SERVO].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Cycle servo</source>
-      <translation type="unfinished">Cycle servo</translation>
+      <translation>循環切換伺服</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ACTUATOR].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set actuator</source>
-      <translation type="unfinished">Set actuator</translation>
+      <translation>設定致動器</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ACTUATOR].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set actuator to specified output value (range [-1, 1]).</source>
-      <translation type="unfinished">Set actuator to specified output value (range [-1, 1]).</translation>
+      <translation>將致動器設為指定的輸出值（範圍 [-1, 1]）。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ACTUATOR].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Actuator 1</source>
-      <translation type="unfinished">Actuator 1</translation>
+      <translation>致動器 1</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ACTUATOR].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Actuator 2</source>
-      <translation type="unfinished">Actuator 2</translation>
+      <translation>致動器 2</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ACTUATOR].param3.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Actuator 3</source>
-      <translation type="unfinished">Actuator 3</translation>
+      <translation>致動器 3</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ACTUATOR].param4.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Actuator 4</source>
-      <translation type="unfinished">Actuator 4</translation>
+      <translation>致動器 4</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_FLIGHTTERMINATION].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Flight termination</source>
-      <translation type="unfinished">Flight termination</translation>
+      <translation>終止飛行</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_LAND_START].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Land start</source>
-      <translation type="unfinished">Land start</translation>
+      <translation>降落起點</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_LAND_START].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Marker to indicate start of landing sequence.</source>
-      <translation type="unfinished">Marker to indicate start of landing sequence.</translation>
+      <translation>標示降落程序的起點。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_RALLY_LAND].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Rally land</source>
-      <translation type="unfinished">Rally land</translation>
+      <translation>集結點降落</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GO_AROUND].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Go around</source>
-      <translation type="unfinished">Go around</translation>
+      <translation>重飛</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_REPOSITION].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Reposition</source>
-      <translation type="unfinished">Reposition</translation>
+      <translation>重新定位</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_PAUSE_CONTINUE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Pause/Continue</source>
-      <translation type="unfinished">Pause/Continue</translation>
+      <translation>暫停／繼續</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_REVERSE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set moving direction</source>
-      <translation type="unfinished">Set moving direction</translation>
+      <translation>設定行進方向</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_REVERSE].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set moving direction to forward or reverse.</source>
-      <translation type="unfinished">Set moving direction to forward or reverse.</translation>
+      <translation>將行進方向設為前進或倒車。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_REVERSE].param1.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Forward,Reverse</source>
-      <translation type="unfinished">Forward,Reverse</translation>
+      <translation>前進,倒車</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ROI_LOCATION].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Region of interest (ROI)</source>
-      <translation type="unfinished">Region of interest (ROI)</translation>
+      <translation>興趣點（ROI）</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ROI_LOCATION].description, .mavCmdInfo[MAV_CMD_DO_SET_ROI].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Sets the region of interest for cameras.</source>
-      <translation type="unfinished">Sets the region of interest for cameras.</translation>
+      <translation>設定相機的興趣點。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ROI_LOCATION].category, .mavCmdInfo[MAV_CMD_DO_SET_ROI_WPNEXT_OFFSET].category, .mavCmdInfo[MAV_CMD_DO_SET_ROI_NONE].category, .mavCmdInfo[MAV_CMD_DO_SET_ROI].category, .mavCmdInfo[MAV_CMD_DO_DIGICAM_CONFIGURE].category, .mavCmdInfo[MAV_CMD_DO_DIGICAM_CONTROL].category, .mavCmdInfo[MAV_CMD_DO_SET_CAM_TRIGG_DIST].category, .mavCmdInfo[MAV_CMD_SET_CAMERA_MODE].category, .mavCmdInfo[MAV_CMD_IMAGE_START_CAPTURE].category, .mavCmdInfo[MAV_CMD_IMAGE_STOP_CAPTURE].category, .mavCmdInfo[MAV_CMD_VIDEO_START_CAPTURE].category, .mavCmdInfo[MAV_CMD_VIDEO_STOP_CAPTURE].category</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Camera</source>
-      <translation type="unfinished">Camera</translation>
+      <translation>相機</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ROI_WPNEXT_OFFSET].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>ROI to next waypoint</source>
-      <translation type="unfinished">ROI to next waypoint</translation>
+      <translation>興趣點對準下一航點</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ROI_WPNEXT_OFFSET].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Sets the region of interest to point towards the next waypoint with optional offsets.</source>
-      <translation type="unfinished">Sets the region of interest to point towards the next waypoint with optional offsets.</translation>
+      <translation>將興趣點設為指向下一航點，並可加上偏移量。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ROI_WPNEXT_OFFSET].param5.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Pitch offset</source>
-      <translation type="unfinished">Pitch offset</translation>
+      <translation>俯仰偏移</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ROI_WPNEXT_OFFSET].param6.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Roll offset</source>
-      <translation type="unfinished">Roll offset</translation>
+      <translation>橫滾偏移</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ROI_WPNEXT_OFFSET].param7.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Yaw offset</source>
-      <translation type="unfinished">Yaw offset</translation>
+      <translation>偏航偏移</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ROI_NONE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Cancel ROI</source>
-      <translation type="unfinished">Cancel ROI</translation>
+      <translation>取消興趣點</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ROI_NONE].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Cancels the region of interest.</source>
-      <translation type="unfinished">Cancels the region of interest.</translation>
+      <translation>取消興趣點（ROI）。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_CONTROL_VIDEO].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Control video</source>
-      <translation type="unfinished">Control video</translation>
+      <translation>控制影像</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ROI].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Region of interest</source>
-      <translation type="unfinished">Region of interest</translation>
+      <translation>興趣點</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ROI].param1.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>None,Next waypoint,Mission item,Location,ROI item</source>
-      <translation type="unfinished">None,Next waypoint,Mission item,Location,ROI item</translation>
+      <translation>無,下一航點,任務項目,位置,興趣點項目</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ROI].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Mission Index</source>
-      <translation type="unfinished">Mission Index</translation>
+      <translation>任務項目索引</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_ROI].param3.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>ROI Index</source>
-      <translation type="unfinished">ROI Index</translation>
+      <translation>興趣點索引</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_DIGICAM_CONFIGURE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Camera config</source>
-      <translation type="unfinished">Camera config</translation>
+      <translation>相機設定</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_DIGICAM_CONFIGURE].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Configure onboard camera controller.</source>
-      <translation type="unfinished">Configure onboard camera controller.</translation>
+      <translation>設定機載相機控制器。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_DIGICAM_CONFIGURE].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Shutter spd</source>
-      <translation type="unfinished">Shutter spd</translation>
+      <translation>快門速度</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_DIGICAM_CONFIGURE].param3.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Aperture</source>
-      <translation type="unfinished">Aperture</translation>
+      <translation>光圈</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_DIGICAM_CONFIGURE].param4.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>ISO</source>
-      <translation type="unfinished">ISO</translation>
+      <translation>ISO</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_DIGICAM_CONFIGURE].param5.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Exposure</source>
-      <translation type="unfinished">Exposure</translation>
+      <translation>曝光</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_DIGICAM_CONFIGURE].param6.label, .mavCmdInfo[MAV_CMD_DO_DIGICAM_CONTROL].param5.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Command</source>
-      <translation type="unfinished">Command</translation>
+      <translation>命令</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_DIGICAM_CONFIGURE].param7.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Cut off</source>
-      <translation type="unfinished">Cut off</translation>
+      <translation>引擎停機時間</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_DIGICAM_CONTROL].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Camera control</source>
-      <translation type="unfinished">Camera control</translation>
+      <translation>相機控制</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_DIGICAM_CONTROL].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Control onboard camera.</source>
-      <translation type="unfinished">Control onboard camera.</translation>
+      <translation>控制機載相機。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_DIGICAM_CONTROL].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Session</source>
-      <translation type="unfinished">Session</translation>
+      <translation>工作階段</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_DIGICAM_CONTROL].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>變焦</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_DIGICAM_CONTROL].param3.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Step</source>
-      <translation type="unfinished">Step</translation>
+      <translation>步進</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_DIGICAM_CONTROL].param4.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Focus lock</source>
-      <translation type="unfinished">Focus lock</translation>
+      <translation>對焦鎖定</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_DIGICAM_CONTROL].param6.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Id</source>
-      <translation type="unfinished">Id</translation>
+      <translation>ID</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_MOUNT_CONFIGURE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Configure Mount</source>
-      <translation type="unfinished">Configure Mount</translation>
+      <translation>設定掛載</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_MOUNT_CONFIGURE].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Configure the vehicle mount (e.g. gimbal).</source>
-      <translation type="unfinished">Configure the vehicle mount (e.g. gimbal).</translation>
+      <translation>設定載具的掛載裝置（例如雲台）。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_MOUNT_CONFIGURE].param1.enumStrings, .mavCmdInfo[MAV_CMD_DO_MOUNT_CONTROL].param7.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Retract,Neutral,Mavlink Targeting,RC Targeting,GPS Point</source>
-      <translation type="unfinished">Retract,Neutral,Mavlink Targeting,RC Targeting,GPS Point</translation>
+      <translation>收回,中立,MAVLink 指向,遙控器指向,GPS 點</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_MOUNT_CONFIGURE].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Stabilize Roll</source>
-      <translation type="unfinished">Stabilize Roll</translation>
+      <translation>穩定橫滾</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_MOUNT_CONFIGURE].param2.enumStrings, .mavCmdInfo[MAV_CMD_DO_MOUNT_CONFIGURE].param3.enumStrings, .mavCmdInfo[MAV_CMD_DO_MOUNT_CONFIGURE].param4.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>No,Yes</source>
-      <translation type="unfinished">No,Yes</translation>
+      <translation>否,是</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_MOUNT_CONFIGURE].param3.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Stabilize Pitch</source>
-      <translation type="unfinished">Stabilize Pitch</translation>
+      <translation>穩定俯仰</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_MOUNT_CONFIGURE].param4.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Stabilize Yaw</source>
-      <translation type="unfinished">Stabilize Yaw</translation>
+      <translation>穩定偏航</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_MOUNT_CONTROL].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Control Mount</source>
-      <translation type="unfinished">Control Mount</translation>
+      <translation>控制掛載</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_MOUNT_CONTROL].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Control the vehicle mount (e.g. gimbal).</source>
-      <translation type="unfinished">Control the vehicle mount (e.g. gimbal).</translation>
+      <translation>控制載具的掛載裝置（例如雲台）。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_MOUNT_CONTROL].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Lat/Pitch</source>
-      <translation type="unfinished">Lat/Pitch</translation>
+      <translation>緯度／俯仰</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_MOUNT_CONTROL].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Lon/Roll</source>
-      <translation type="unfinished">Lon/Roll</translation>
+      <translation>經度／橫滾</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_MOUNT_CONTROL].param3.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Alt/Yaw</source>
-      <translation type="unfinished">Alt/Yaw</translation>
+      <translation>高度／偏航</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GIMBAL_MANAGER_PITCHYAW].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Gimbal Manager PitchYaw</source>
-      <translation type="unfinished">Gimbal Manager PitchYaw</translation>
+      <translation>雲台管理器俯仰／偏航</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GIMBAL_MANAGER_PITCHYAW].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Control the gimbal during the mission</source>
-      <translation type="unfinished">Control the gimbal during the mission</translation>
+      <translation>在任務期間控制雲台</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GIMBAL_MANAGER_PITCHYAW].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Pitch</source>
-      <translation type="unfinished">Pitch</translation>
+      <translation>俯仰</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GIMBAL_MANAGER_PITCHYAW].param3.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Pitch rate</source>
-      <translation type="unfinished">Pitch rate</translation>
+      <translation>俯仰速率</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GIMBAL_MANAGER_PITCHYAW].param4.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Yaw rate</source>
-      <translation type="unfinished">Yaw rate</translation>
+      <translation>偏航速率</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GIMBAL_MANAGER_PITCHYAW].param5.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Follow yaw</source>
-      <translation type="unfinished">Follow yaw</translation>
+      <translation>跟隨偏航</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GIMBAL_MANAGER_PITCHYAW].param5.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Follow yaw, Lock yaw</source>
-      <translation type="unfinished">Follow yaw, Lock yaw</translation>
+      <translation>跟隨偏航,鎖定偏航</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GIMBAL_MANAGER_PITCHYAW].param7.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Gimbal</source>
-      <translation type="unfinished">Gimbal</translation>
+      <translation>雲台</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GIMBAL_MANAGER_PITCHYAW].param7.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Primary,first gimbal,second gimbal</source>
-      <translation type="unfinished">Primary,first gimbal,second gimbal</translation>
+      <translation>主要,第一雲台,第二雲台</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_CAM_TRIGG_DIST].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Camera trigger distance</source>
-      <translation type="unfinished">Camera trigger distance</translation>
+      <translation>相機觸發距離</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_CAM_TRIGG_DIST].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set camera trigger distance.</source>
-      <translation type="unfinished">Set camera trigger distance.</translation>
+      <translation>設定相機觸發距離。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_CAM_TRIGG_DIST].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Shutter</source>
-      <translation type="unfinished">Shutter</translation>
+      <translation>快門時間</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_CAM_TRIGG_DIST].param3.label, .mavCmdInfo[MAV_CMD_DO_PARACHUTE].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Trigger</source>
-      <translation type="unfinished">Trigger</translation>
+      <translation>觸發</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_SET_CAM_TRIGG_DIST].param3.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>No Trigger,Once Immediately</source>
-      <translation type="unfinished">No Trigger,Once Immediately</translation>
+      <translation>不觸發,立即觸發一次</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_FENCE_ENABLE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Enable geofence</source>
-      <translation type="unfinished">Enable geofence</translation>
+      <translation>啟用地理圍籬</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_FENCE_ENABLE].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Enable/Disable geofence.</source>
-      <translation type="unfinished">Enable/Disable geofence.</translation>
+      <translation>啟用／停用地理圍籬。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_FENCE_ENABLE].category, .mavCmdInfo[MAV_CMD_DO_PARACHUTE].category</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Safety</source>
-      <translation type="unfinished">Safety</translation>
+      <translation>安全</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_FENCE_ENABLE].param1.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Disable,Disable floor only,Enable</source>
-      <translation type="unfinished">Disable,Disable floor only,Enable</translation>
+      <translation>停用,僅停用高度下限,啟用</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_PARACHUTE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Trigger parachute</source>
-      <translation type="unfinished">Trigger parachute</translation>
+      <translation>觸發降落傘</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_PARACHUTE].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Enable/Disable auto-release or Release a parachute</source>
-      <translation type="unfinished">Enable/Disable auto-release or Release a parachute</translation>
+      <translation>啟用／停用自動釋放，或釋放降落傘</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_PARACHUTE].param1.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Disable,Enable,Release</source>
-      <translation type="unfinished">Disable,Enable,Release</translation>
+      <translation>停用,啟用,釋放</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_MOTOR_TEST].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Motor test</source>
-      <translation type="unfinished">Motor test</translation>
+      <translation>馬達測試</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_INVERTED_FLIGHT].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Inverted flight</source>
-      <translation type="unfinished">Inverted flight</translation>
+      <translation>倒飛</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_INVERTED_FLIGHT].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Change to/from inverted flight.</source>
-      <translation type="unfinished">Change to/from inverted flight.</translation>
+      <translation>切換進入或退出倒飛。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_INVERTED_FLIGHT].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Inverted</source>
-      <translation type="unfinished">Inverted</translation>
+      <translation>倒飛</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_INVERTED_FLIGHT].param1.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Normal,Inverted</source>
-      <translation type="unfinished">Normal,Inverted</translation>
+      <translation>正常,倒飛</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GRIPPER].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Gripper Action</source>
-      <translation type="unfinished">Gripper Action</translation>
+      <translation>夾爪動作</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GRIPPER].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Control a gripper mechanism.</source>
-      <translation type="unfinished">Control a gripper mechanism.</translation>
+      <translation>控制夾爪機構。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GRIPPER].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Gripper id</source>
-      <translation type="unfinished">Gripper id</translation>
+      <translation>夾爪 ID</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GRIPPER].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Action</source>
-      <translation type="unfinished">Action</translation>
+      <translation>動作</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GRIPPER].param2.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Release,Grab</source>
-      <translation type="unfinished">Release,Grab</translation>
+      <translation>釋放,夾取</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_AUTOTUNE_ENABLE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>AutoTune Enable</source>
-      <translation type="unfinished">AutoTune Enable</translation>
+      <translation>啟用自動調校</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_AUTOTUNE_ENABLE].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>AutoTune Enable.</source>
-      <translation type="unfinished">AutoTune Enable.</translation>
+      <translation>啟用自動調校。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_AUTOTUNE_ENABLE].param1.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Enable,Disable</source>
-      <translation type="unfinished">Enable,Disable</translation>
+      <translation>啟用,停用</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GUIDED_LIMITS].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Guided limits</source>
-      <translation type="unfinished">Guided limits</translation>
+      <translation>導引限制</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GUIDED_LIMITS].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set limits for external control</source>
-      <translation type="unfinished">Set limits for external control</translation>
+      <translation>設定外部控制的限制</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GUIDED_LIMITS].param1.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Timeout</source>
-      <translation type="unfinished">Timeout</translation>
+      <translation>逾時</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GUIDED_LIMITS].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Min Alt</source>
-      <translation type="unfinished">Min Alt</translation>
+      <translation>最小高度</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GUIDED_LIMITS].param3.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Max Alt</source>
-      <translation type="unfinished">Max Alt</translation>
+      <translation>最大高度</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_GUIDED_LIMITS].param4.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>H Limit</source>
-      <translation type="unfinished">H Limit</translation>
+      <translation>水平限制</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_PREFLIGHT_CALIBRATION].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Calibration</source>
-      <translation type="unfinished">Calibration</translation>
+      <translation>校正</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_PREFLIGHT_SET_SENSOR_OFFSETS].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set sensor offsets</source>
-      <translation type="unfinished">Set sensor offsets</translation>
+      <translation>設定感測器偏移量</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_PREFLIGHT_UAVCAN].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>UAVCAN configure</source>
-      <translation type="unfinished">UAVCAN configure</translation>
+      <translation>UAVCAN 設定</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_PREFLIGHT_STORAGE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Store parameters</source>
-      <translation type="unfinished">Store parameters</translation>
+      <translation>儲存參數</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_PREFLIGHT_REBOOT_SHUTDOWN].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Reboot/Shutdown vehicle</source>
-      <translation type="unfinished">Reboot/Shutdown vehicle</translation>
+      <translation>重新啟動／關閉載具</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_OVERRIDE_GOTO].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Override goto</source>
-      <translation type="unfinished">Override goto</translation>
+      <translation>覆寫前往指令</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_MISSION_START].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Mission start</source>
-      <translation type="unfinished">Mission start</translation>
+      <translation>開始任務</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_COMPONENT_ARM_DISARM].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Arm/Disarm</source>
-      <translation type="unfinished">Arm/Disarm</translation>
+      <translation>解鎖／上鎖</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_GET_HOME_POSITION].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Get launch position</source>
-      <translation type="unfinished">Get launch position</translation>
+      <translation>取得起飛位置</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_START_RX_PAIR].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Bind Spektrum receiver</source>
-      <translation type="unfinished">Bind Spektrum receiver</translation>
+      <translation>Spektrum 接收機對頻</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_GET_MESSAGE_INTERVAL].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Get message interval</source>
-      <translation type="unfinished">Get message interval</translation>
+      <translation>取得訊息間隔</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_SET_MESSAGE_INTERVAL].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set message interval</source>
-      <translation type="unfinished">Set message interval</translation>
+      <translation>設定訊息間隔</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_REQUEST_AUTOPILOT_CAPABILITIES].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Get capabilities</source>
-      <translation type="unfinished">Get capabilities</translation>
+      <translation>取得飛控功能</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_SET_CAMERA_MODE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set camera modes</source>
-      <translation type="unfinished">Set camera modes</translation>
+      <translation>設定相機模式</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_SET_CAMERA_MODE].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Set camera photo, video modes.</source>
-      <translation type="unfinished">Set camera photo, video modes.</translation>
+      <translation>設定相機的拍照、錄影模式。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_SET_CAMERA_MODE].param2.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Take photos,Record video,Survey photo mode</source>
-      <translation type="unfinished">Take photos,Record video,Survey photo mode</translation>
+      <translation>拍照,錄影,測繪拍照模式</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_IMAGE_START_CAPTURE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Start image capture</source>
-      <translation type="unfinished">Start image capture</translation>
+      <translation>開始拍照</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_IMAGE_START_CAPTURE].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Start taking one or more photos.</source>
-      <translation type="unfinished">Start taking one or more photos.</translation>
+      <translation>開始拍攝一張或多張照片。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_IMAGE_START_CAPTURE].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Interval</source>
-      <translation type="unfinished">Interval</translation>
+      <translation>間隔</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_IMAGE_START_CAPTURE].param3.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Photo count</source>
-      <translation type="unfinished">Photo count</translation>
+      <translation>照片張數</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_IMAGE_STOP_CAPTURE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Stop image capture</source>
-      <translation type="unfinished">Stop image capture</translation>
+      <translation>停止拍照</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_IMAGE_STOP_CAPTURE].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Stop taking photos.</source>
-      <translation type="unfinished">Stop taking photos.</translation>
+      <translation>停止拍照。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_TRIGGER_CONTROL].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Trigger control</source>
-      <translation type="unfinished">Trigger control</translation>
+      <translation>觸發控制</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_VIDEO_START_CAPTURE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Start video capture</source>
-      <translation type="unfinished">Start video capture</translation>
+      <translation>開始錄影</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_VIDEO_START_CAPTURE].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Start video capture.</source>
-      <translation type="unfinished">Start video capture.</translation>
+      <translation>開始錄影。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_VIDEO_START_CAPTURE].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Status Frequency</source>
-      <translation type="unfinished">Status Frequency</translation>
+      <translation>狀態頻率</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_VIDEO_STOP_CAPTURE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Stop video capture</source>
-      <translation type="unfinished">Stop video capture</translation>
+      <translation>停止錄影</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_VIDEO_STOP_CAPTURE].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Stop video capture.</source>
-      <translation type="unfinished">Stop video capture.</translation>
+      <translation>停止錄影。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONTROL_HIGH_LATENCY].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Control high latency link</source>
-      <translation type="unfinished">Control high latency link</translation>
+      <translation>控制高延遲連結</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_PANORAMA_CREATE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Create panorama</source>
-      <translation type="unfinished">Create panorama</translation>
+      <translation>拍攝全景</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_VTOL_TRANSITION].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>VTOL Transition</source>
-      <translation type="unfinished">VTOL Transition</translation>
+      <translation>垂直起降轉換</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_VTOL_TRANSITION].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Perform flight mode transition.</source>
-      <translation type="unfinished">Perform flight mode transition.</translation>
+      <translation>執行飛行模式轉換。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_VTOL_TRANSITION].category</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>VTOL</source>
-      <translation type="unfinished">VTOL</translation>
+      <translation>垂直起降</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_DO_VTOL_TRANSITION].param1.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Multi Rotor,Fixed Wing</source>
-      <translation type="unfinished">Multi Rotor,Fixed Wing</translation>
+      <translation>多旋翼,固定翼</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_GATE].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Condition Gate</source>
-      <translation type="unfinished">Condition Gate</translation>
+      <translation>閘門條件</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_GATE].description</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Delay mission state machine until gate has been reached.</source>
-      <translation type="unfinished">Delay mission state machine until gate has been reached.</translation>
+      <translation>延遲任務狀態機，直到通過閘門為止。</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_GATE].param2.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Ignore Alt</source>
-      <translation type="unfinished">Ignore Alt</translation>
+      <translation>忽略高度</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_CONDITION_GATE].param2.enumStrings</extracomment>
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>False,True</source>
-      <translation type="unfinished">False,True</translation>
+      <translation>否,是</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_PAYLOAD_PREPARE_DEPLOY].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Payload prepare deploy</source>
-      <translation type="unfinished">Payload prepare deploy</translation>
+      <translation>酬載部署準備</translation>
     </message>
     <message>
       <extracomment>.mavCmdInfo[MAV_CMD_PAYLOAD_CONTROL_DEPLOY].friendlyName</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoCommon.json"/>
       <source>Payload control deploy</source>
-      <translation type="unfinished">Payload control deploy</translation>
+      <translation>酬載部署控制</translation>
     </message>
   </context>
   <context>
@@ -2138,7 +2138,7 @@
       <extracomment>.QGC.MetaData.Facts[PlannedHomePositionAltitude].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MissionSettings.FactMetaData.json"/>
       <source>Launch position altitude</source>
-      <translation type="unfinished">Launch position altitude</translation>
+      <translation>起飛位置高度</translation>
     </message>
   </context>
   <context>
@@ -2147,67 +2147,67 @@
       <extracomment>.QGC.MetaData.Facts[LandingDistance].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/VTOLLandingPattern.FactMetaData.json"/>
       <source>Distance between approach and land points.</source>
-      <translation type="unfinished">Distance between approach and land points.</translation>
+      <translation>進場點與降落點之間的距離。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[LandingHeading].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/VTOLLandingPattern.FactMetaData.json"/>
       <source>Heading from approach to land point.</source>
-      <translation type="unfinished">Heading from approach to land point.</translation>
+      <translation>從進場點到降落點的航向。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[FinalApproachAltitude].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/VTOLLandingPattern.FactMetaData.json"/>
       <source>Altitude to begin landing approach from.</source>
-      <translation type="unfinished">Altitude to begin landing approach from.</translation>
+      <translation>開始降落進場的高度。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[UseDoChangeSpeed].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/VTOLLandingPattern.FactMetaData.json"/>
       <source>Command a specific speed for the approach, useful for reducing energy before the glide slope.</source>
-      <translation type="unfinished">Command a specific speed for the approach, useful for reducing energy before the glide slope.</translation>
+      <translation>為進場指定特定速度，有助於在進入下滑軌跡前降低能量。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[FinalApproachSpeed].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/VTOLLandingPattern.FactMetaData.json"/>
       <source>Speed to perform the approach at.</source>
-      <translation type="unfinished">Speed to perform the approach at.</translation>
+      <translation>執行進場時的速度。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[LoiterRadius].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/VTOLLandingPattern.FactMetaData.json"/>
       <source>Loiter radius.</source>
-      <translation type="unfinished">Loiter radius.</translation>
+      <translation>盤旋半徑。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[LoiterClockwise].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/VTOLLandingPattern.FactMetaData.json"/>
       <source>Loiter clockwise around the final approach point.</source>
-      <translation type="unfinished">Loiter clockwise around the final approach point.</translation>
+      <translation>繞最後進場點順時針盤旋。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[LandingAltitude].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/VTOLLandingPattern.FactMetaData.json"/>
       <source>Altitude for landing point on ground.</source>
-      <translation type="unfinished">Altitude for landing point on ground.</translation>
+      <translation>地面降落點的高度。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[UseLoiterToAlt].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/VTOLLandingPattern.FactMetaData.json"/>
       <source>Use a loiter to altitude item for final appoach. Otherwise use a regular waypoint.</source>
-      <translation type="unfinished">Use a loiter to altitude item for final appoach. Otherwise use a regular waypoint.</translation>
+      <translation>最後進場使用「盤旋至高度」項目，否則使用一般航點。</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[StopTakingPhotos].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/VTOLLandingPattern.FactMetaData.json"/>
       <source>Stop taking photos</source>
-      <translation type="unfinished">Stop taking photos</translation>
+      <translation>停止拍照</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[StopTakingVideo].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/VTOLLandingPattern.FactMetaData.json"/>
       <source>Stop taking video</source>
-      <translation type="unfinished">Stop taking video</translation>
+      <translation>停止錄影</translation>
     </message>
   </context>
   <context>
@@ -2216,7 +2216,7 @@
       <extracomment>.mavCmdInfo[MAV_CMD_NAV_TAKEOFF].param4.label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/MissionManager/MavCmdInfoMultiRotor.json"/>
       <source>Yaw</source>
-      <translation type="unfinished">Yaw</translation>
+      <translation>偏航</translation>
     </message>
   </context>
   <context>
@@ -2225,19 +2225,19 @@
       <extracomment>.QGC.MetaData.Facts[angle].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/APMFollowComponent.FactMetaData.json"/>
       <source>Angle from ground station to vehicle</source>
-      <translation type="unfinished">Angle from ground station to vehicle</translation>
+      <translation>地面站到載具的角度</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[distance].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/APMFollowComponent.FactMetaData.json"/>
       <source>Horizontal distance from ground station to vehicle</source>
-      <translation type="unfinished">Horizontal distance from ground station to vehicle</translation>
+      <translation>地面站到載具的水平距離</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[height].shortDesc</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/APMFollowComponent.FactMetaData.json"/>
       <source>Vertical distance from Launch (home) position to vehicle</source>
-      <translation type="unfinished">Vertical distance from Launch (home) position to vehicle</translation>
+      <translation>起飛位置（返航點）到載具的垂直距離</translation>
     </message>
   </context>
   <context>
@@ -2246,187 +2246,187 @@
       <extracomment>.sections[Flight Response].title</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>Flight Response</source>
-      <translation type="unfinished">Flight Response</translation>
+      <translation>飛行反應</translation>
     </message>
     <message>
       <extracomment>.sections[Flight Response].keywords[0]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>tuning</source>
-      <translation type="unfinished">tuning</translation>
+      <translation>調校</translation>
     </message>
     <message>
       <extracomment>.sections[Flight Response].keywords[1]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>pid</source>
-      <translation type="unfinished">pid</translation>
+      <translation>pid</translation>
     </message>
     <message>
       <extracomment>.sections[Flight Response].keywords[2]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>roll</source>
-      <translation type="unfinished">roll</translation>
+      <translation>橫滾</translation>
     </message>
     <message>
       <extracomment>.sections[Flight Response].keywords[3]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>pitch</source>
-      <translation type="unfinished">pitch</translation>
+      <translation>俯仰</translation>
     </message>
     <message>
       <extracomment>.sections[Flight Response].keywords[4]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>climb</source>
-      <translation type="unfinished">climb</translation>
+      <translation>爬升</translation>
     </message>
     <message>
       <extracomment>.sections[Flight Response].keywords[5]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>sensitivity</source>
-      <translation type="unfinished">sensitivity</translation>
+      <translation>靈敏度</translation>
     </message>
     <message>
       <extracomment>.sections[Flight Response].keywords[6]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>thrust</source>
-      <translation type="unfinished">thrust</translation>
+      <translation>推力</translation>
     </message>
     <message>
       <extracomment>.sections[Flight Response].keywords[7]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>motor</source>
-      <translation type="unfinished">motor</translation>
+      <translation>馬達</translation>
     </message>
     <message>
       <extracomment>.sections[Flight Response].controls[0].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>Roll/Pitch Sensitivity</source>
-      <translation type="unfinished">Roll/Pitch Sensitivity</translation>
+      <translation>橫滾／俯仰靈敏度</translation>
     </message>
     <message>
       <extracomment>.sections[Flight Response].controls[1].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>Climb Sensitivity</source>
-      <translation type="unfinished">Climb Sensitivity</translation>
+      <translation>爬升靈敏度</translation>
     </message>
     <message>
       <extracomment>.sections[Flight Response].controls[2].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>RC Roll/Pitch Feel</source>
-      <translation type="unfinished">RC Roll/Pitch Feel</translation>
+      <translation>遙控器橫滾／俯仰手感</translation>
     </message>
     <message>
       <extracomment>.sections[Flight Response].controls[3].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>Spin While Armed</source>
-      <translation type="unfinished">Spin While Armed</translation>
+      <translation>解鎖時轉速</translation>
     </message>
     <message>
       <extracomment>.sections[Flight Response].controls[4].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>Minimum Thrust</source>
-      <translation type="unfinished">Minimum Thrust</translation>
+      <translation>最小推力</translation>
     </message>
     <message>
       <extracomment>.sections[AutoTune].title</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>AutoTune</source>
-      <translation type="unfinished">AutoTune</translation>
+      <translation>自動調校</translation>
     </message>
     <message>
       <extracomment>.sections[AutoTune].keywords[0]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>autotune</source>
-      <translation type="unfinished">autotune</translation>
+      <translation>自動調校</translation>
     </message>
     <message>
       <extracomment>.sections[AutoTune].keywords[1]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>auto tune</source>
-      <translation type="unfinished">auto tune</translation>
+      <translation>自動調校</translation>
     </message>
     <message>
       <extracomment>.sections[AutoTune].keywords[2]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>axes</source>
-      <translation type="unfinished">axes</translation>
+      <translation>軸向</translation>
     </message>
     <message>
       <extracomment>.sections[AutoTune].keywords[3]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>channel</source>
-      <translation type="unfinished">channel</translation>
+      <translation>通道</translation>
     </message>
     <message>
       <extracomment>.sections[AutoTune].keywords[4]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>switch</source>
-      <translation type="unfinished">switch</translation>
+      <translation>開關</translation>
     </message>
     <message>
       <extracomment>.sections[AutoTune].controls[0].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>Axes to AutoTune</source>
-      <translation type="unfinished">Axes to AutoTune</translation>
+      <translation>自動調校軸向</translation>
     </message>
     <message>
       <extracomment>.sections[AutoTune].controls[2].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>Aggressiveness</source>
-      <translation type="unfinished">Aggressiveness</translation>
+      <translation>積極程度</translation>
     </message>
     <message>
       <extracomment>.sections[AutoTune].controls[3].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>Minimum D gain</source>
-      <translation type="unfinished">Minimum D gain</translation>
+      <translation>最小 D 增益</translation>
     </message>
     <message>
       <extracomment>.sections[In Flight Tuning].title</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>In Flight Tuning</source>
-      <translation type="unfinished">In Flight Tuning</translation>
+      <translation>飛行中調校</translation>
     </message>
     <message>
       <extracomment>.sections[In Flight Tuning].keywords[0]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>in flight tuning</source>
-      <translation type="unfinished">in flight tuning</translation>
+      <translation>飛行中調校</translation>
     </message>
     <message>
       <extracomment>.sections[In Flight Tuning].keywords[1]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>tune</source>
-      <translation type="unfinished">tune</translation>
+      <translation>調整</translation>
     </message>
     <message>
       <extracomment>.sections[In Flight Tuning].keywords[2]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>channel 6</source>
-      <translation type="unfinished">channel 6</translation>
+      <translation>通道 6</translation>
     </message>
     <message>
       <extracomment>.sections[In Flight Tuning].keywords[3]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>rc tuning</source>
-      <translation type="unfinished">rc tuning</translation>
+      <translation>遙控器調校</translation>
     </message>
     <message>
       <extracomment>.sections[In Flight Tuning].controls[0].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>RC Channel 6 Option (Tuning)</source>
-      <translation type="unfinished">RC Channel 6 Option (Tuning)</translation>
+      <translation>遙控器通道 6 選項（調校）</translation>
     </message>
     <message>
       <extracomment>.sections[In Flight Tuning].controls[1].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>Min</source>
-      <translation type="unfinished">Min</translation>
+      <translation>最小</translation>
     </message>
     <message>
       <extracomment>.sections[In Flight Tuning].controls[2].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMTuningCopter.VehicleConfig.json"/>
       <source>Max</source>
-      <translation type="unfinished">Max</translation>
+      <translation>最大</translation>
     </message>
   </context>
   <context>
@@ -2435,97 +2435,97 @@
       <extracomment>.sections[Battery].title</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMPower.VehicleConfig.json"/>
       <source>Battery</source>
-      <translation type="unfinished">Battery</translation>
+      <translation>電池</translation>
     </message>
     <message>
       <extracomment>.sections[Battery].keywords[0]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMPower.VehicleConfig.json"/>
       <source>battery</source>
-      <translation type="unfinished">battery</translation>
+      <translation>電池</translation>
     </message>
     <message>
       <extracomment>.sections[Battery].keywords[1]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMPower.VehicleConfig.json"/>
       <source>voltage</source>
-      <translation type="unfinished">voltage</translation>
+      <translation>電壓</translation>
     </message>
     <message>
       <extracomment>.sections[Battery].keywords[2]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMPower.VehicleConfig.json"/>
       <source>current</source>
-      <translation type="unfinished">current</translation>
+      <translation>電流</translation>
     </message>
     <message>
       <extracomment>.sections[Battery].keywords[3]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMPower.VehicleConfig.json"/>
       <source>power module</source>
-      <translation type="unfinished">power module</translation>
+      <translation>電源模組</translation>
     </message>
     <message>
       <extracomment>.sections[Battery].keywords[4]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMPower.VehicleConfig.json"/>
       <source>sensor</source>
-      <translation type="unfinished">sensor</translation>
+      <translation>感測器</translation>
     </message>
     <message>
       <extracomment>.sections[Battery].keywords[5]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMPower.VehicleConfig.json"/>
       <source>capacity</source>
-      <translation type="unfinished">capacity</translation>
+      <translation>容量</translation>
     </message>
     <message>
       <extracomment>.sections[Battery].keywords[6]</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMPower.VehicleConfig.json"/>
       <source>amps</source>
-      <translation type="unfinished">amps</translation>
+      <translation>安培</translation>
     </message>
     <message>
       <extracomment>.sections[Battery].repeat.disabledSection.heading</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMPower.VehicleConfig.json"/>
       <source>Disabled Batteries</source>
-      <translation type="unfinished">Disabled Batteries</translation>
+      <translation>已停用的電池</translation>
     </message>
     <message>
       <extracomment>.sections[Battery].controls[0].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMPower.VehicleConfig.json"/>
       <source>Battery monitor</source>
-      <translation type="unfinished">Battery monitor</translation>
+      <translation>電池監測器</translation>
     </message>
     <message>
       <extracomment>.sections[Battery].controls[1].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMPower.VehicleConfig.json"/>
       <source>Battery capacity</source>
-      <translation type="unfinished">Battery capacity</translation>
+      <translation>電池容量</translation>
     </message>
     <message>
       <extracomment>.sections[Battery].controls[2].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMPower.VehicleConfig.json"/>
       <source>Minimum arming voltage</source>
-      <translation type="unfinished">Minimum arming voltage</translation>
+      <translation>最低解鎖電壓</translation>
     </message>
     <message>
       <extracomment>.sections[Battery].controls[3].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMPower.VehicleConfig.json"/>
       <source>Voltage multiplier</source>
-      <translation type="unfinished">Voltage multiplier</translation>
+      <translation>電壓倍率</translation>
     </message>
     <message>
       <extracomment>.sections[Battery].controls[3].dialogButton.text, .sections[Battery].controls[4].dialogButton.text</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMPower.VehicleConfig.json"/>
       <source>Calculate</source>
-      <translation type="unfinished">Calculate</translation>
+      <translation>計算</translation>
     </message>
     <message>
       <extracomment>.sections[Battery].controls[4].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMPower.VehicleConfig.json"/>
       <source>Amps per volt</source>
-      <translation type="unfinished">Amps per volt</translation>
+      <translation>每伏特安培數</translation>
     </message>
     <message>
       <extracomment>.sections[Battery].controls[5].label</extracomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/AutoPilotPlugins/APM/VehicleConfig/APMPower.VehicleConfig.json"/>
       <source>Amps offset</source>
-      <translation type="unfinished">Amps offset</translation>
+      <translation>電流偏移量</translation>
     </message>
   </context>
   <context>
