@@ -38,7 +38,7 @@ AppSettings::LanguageInfo_t AppSettings::_rgLanguageInfo[] = {
     { QLocale::AnyLanguage,     "System" },                     // Must be first
     { QLocale::Azerbaijani,     "Azerbaijani (Azerbaijani)" },
     { QLocale::Bulgarian,       "български (Bulgarian)" },
-    { QLocale::Chinese,         "中文 (Chinese)" },
+    { QLocale::Chinese,         "繁體中文 (Traditional Chinese)" },  // zh_TW build: see QGCApplication::setLanguage()
     { QLocale::Dutch,           "Nederlands (Dutch)" },
     { QLocale::English,         "English" },
     { QLocale::Finnish,         "Suomi (Finnish)" },

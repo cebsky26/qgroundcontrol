@@ -69,6 +69,10 @@ QString ScreenToolsController::normalFontFamily()
     if (langID == QLocale::Korean) {
         return QStringLiteral("NanumGothic");
     }
+    if (langID == QLocale::Chinese) {
+        // Bundled font loaded by QGCApplication::setLanguage() for Traditional Chinese
+        return QStringLiteral("Noto Sans TC");
+    }
 
     return QStringLiteral("Open Sans");
 }

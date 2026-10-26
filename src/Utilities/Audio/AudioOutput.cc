@@ -5,6 +5,7 @@
 
 #include <QtCore/QRegularExpression>
 #include <QtCore/QApplicationStatic>
+#include <QtCore/QCoreApplication>
 #include <QtCore/QTimer>
 #include <QtTextToSpeech/QTextToSpeech>
 #include <QtTextToSpeech/QVoice>
@@ -184,9 +185,28 @@ void AudioOutput::_applyEngineSettings()
         return;
     }
 
-    const QLocale defaultLocale("en_US");
-    if (_engine->availableLocales().contains(defaultLocale)) {
-        _engine->setLocale(defaultLocale);
+    // Speak in the UI language when a voice for it is installed. Chinese text falls back to a
+    // Mandarin voice of the other script before US English, which cannot read Chinese.
+    // QGCApplication::setLanguage() publishes the UI locale as the "qgcUiLocale" application property.
+    QList<QLocale> preferredLocales;
+    const QVariant uiLocaleProperty = QCoreApplication::instance() ? QCoreApplication::instance()->property("qgcUiLocale") : QVariant();
+    const QLocale uiLocale = uiLocaleProperty.isValid() ? uiLocaleProperty.toLocale() : QLocale();
+    if (uiLocale.language() == QLocale::Chinese) {
+        preferredLocales << uiLocale
+                         << QLocale(QLocale::Chinese, QLocale::TraditionalHanScript, QLocale::Taiwan)
+                         << QLocale(QLocale::Chinese, QLocale::SimplifiedHanScript, QLocale::China);
+    }
+    preferredLocales << QLocale("en_US");
+    const QList<QLocale> availableLocales = _engine->availableLocales();
+    for (const QLocale &candidate : preferredLocales) {
+        const auto match = std::find_if(availableLocales.cbegin(), availableLocales.cend(), [&candidate](const QLocale &locale) {
+            return (locale.language() == candidate.language()) && (locale.territory() == candidate.territory());
+        });
+        if (match != availableLocales.cend()) {
+            _engine->setLocale(*match);
+            qCDebug(AudioOutputLog) << "TTS locale:" << *match;
+            break;
+        }
     }
 
     // Pin an explicit voice so output doesn't depend on the engine's per-OS default.

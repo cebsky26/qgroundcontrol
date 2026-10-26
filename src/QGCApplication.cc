@@ -181,7 +181,21 @@ void QGCApplication::setLanguage()
 
     QLocale::Language possibleLocale = AppSettings::_qLocaleLanguageEarlyAccess();
     if (possibleLocale != QLocale::AnyLanguage) {
-        _locale = QLocale(possibleLocale);
+        if (possibleLocale == QLocale::Chinese) {
+            // The Chinese menu entry selects Traditional Chinese (Taiwan) in this build
+            _locale = QLocale(QLocale::Chinese, QLocale::TraditionalHanScript, QLocale::Taiwan);
+        } else {
+            _locale = QLocale(possibleLocale);
+        }
+    }
+    //-- Bundled Noto Sans TC for Traditional Chinese, so glyphs do not depend on installed system fonts
+    if ((_locale.language() == QLocale::Chinese) && (_locale.script() == QLocale::TraditionalHanScript)) {
+        qCDebug(QGCApplicationLog) << "Loading Traditional Chinese fonts" << _locale.name();
+        for (const QString &font : {QStringLiteral(":/fonts/NotoSansTC-Regular"), QStringLiteral(":/fonts/NotoSansTC-Bold")}) {
+            if (QFontDatabase::addApplicationFont(font) < 0) {
+                qCWarning(QGCApplicationLog) << "Could not load" << font << "font";
+            }
+        }
     }
     //-- We have specific fonts for Korean
     if (_locale == QLocale::Korean) {
@@ -220,6 +234,8 @@ void QGCApplication::setLanguage()
         _qmlAppEngine->retranslate();
     }
 
+    // Lets modules without access to QGCApplication (e.g. AudioOutput's voice choice) see the UI locale
+    setProperty("qgcUiLocale", _locale);
     emit languageChanged(_locale);
 }
 
