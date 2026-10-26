@@ -13132,67 +13132,112 @@ VTOL</source>
     <message>
       <location filename="../src/AppSettings/MockLinkSettings.qml" line="78"/>
       <source>Send Status Text and Voice</source>
-      <translation type="unfinished">Send Status Text and Voice</translation>
+      <translation>傳送狀態文字與語音</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/MockLinkSettings.qml" line="85"/>
       <source>Enable Camera</source>
-      <translation type="unfinished">Enable Camera</translation>
+      <translation>啟用相機</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/MockLinkSettings.qml" line="92"/>
       <source>Enable Gimbal</source>
-      <translation type="unfinished">Enable Gimbal</translation>
+      <translation>啟用雲台</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/MockLinkSettings.qml" line="99"/>
       <source>Increment Vehicle Id</source>
-      <translation type="unfinished">Increment Vehicle Id</translation>
+      <translation>遞增載具 ID</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/MockLinkSettings.qml" line="106"/>
       <source>Firmware Type</source>
-      <translation type="unfinished">Firmware Type</translation>
+      <translation>韌體類型</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/MockLinkSettings.qml" line="107"/>
       <source>PX4 Pro</source>
-      <translation type="unfinished">PX4 Pro</translation>
+      <translation>PX4 Pro</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/MockLinkSettings.qml" line="107"/>
       <source>ArduPilot</source>
-      <translation type="unfinished">ArduPilot</translation>
+      <translation>ArduPilot</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/MockLinkSettings.qml" line="107"/>
       <source>Generic MAVLink</source>
-      <translation type="unfinished">Generic MAVLink</translation>
+      <translation>通用 MAVLink</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/MockLinkSettings.qml" line="115"/>
       <source>Vehicle Type</source>
-      <translation type="unfinished">Vehicle Type</translation>
+      <translation>載具類型</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/MockLinkSettings.qml" line="116"/>
       <source>ArduCopter</source>
-      <translation type="unfinished">ArduCopter</translation>
+      <translation>ArduCopter</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/MockLinkSettings.qml" line="116"/>
       <source>ArduPlane</source>
-      <translation type="unfinished">ArduPlane</translation>
+      <translation>ArduPlane</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/MockLinkSettings.qml" line="122"/>
       <source>Camera Capabilities</source>
-      <translation type="unfinished">Camera Capabilities</translation>
+      <translation>相機功能</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/MockLinkSettings.qml" line="200"/>
       <source>Gimbal Capabilities</source>
-      <translation type="unfinished">Gimbal Capabilities</translation>
+      <translation>雲台功能</translation>
+    </message>
+    <message>
+      <location filename="../src/AppSettings/MockLinkSettings.qml" line="168"/>
+      <source>Disabled</source>
+      <translation>已停用</translation>
+    </message>
+    <message>
+      <location filename="../src/AppSettings/MockLinkSettings.qml" line="92"/>
+      <source>Enable Proximity Sensors</source>
+      <translation>啟用近接感測器</translation>
+    </message>
+    <message>
+      <location filename="../src/AppSettings/MockLinkSettings.qml" line="173"/>
+      <source>MPEG-TS (TCP)</source>
+      <translation>MPEG-TS (TCP)</translation>
+    </message>
+    <message>
+      <location filename="../src/AppSettings/MockLinkSettings.qml" line="172"/>
+      <source>MPEG-TS (UDP)</source>
+      <translation>MPEG-TS (UDP)</translation>
+    </message>
+    <message>
+      <location filename="../src/AppSettings/MockLinkSettings.qml" line="169"/>
+      <source>RTP/UDP H.264</source>
+      <translation>RTP/UDP H.264</translation>
+    </message>
+    <message>
+      <location filename="../src/AppSettings/MockLinkSettings.qml" line="170"/>
+      <source>RTP/UDP H.265</source>
+      <translation>RTP/UDP H.265</translation>
+    </message>
+    <message>
+      <location filename="../src/AppSettings/MockLinkSettings.qml" line="171"/>
+      <source>RTSP (H.264)</source>
+      <translation>RTSP (H.264)</translation>
+    </message>
+    <message>
+      <location filename="../src/AppSettings/MockLinkSettings.qml" line="165"/>
+      <source>Served Video Stream</source>
+      <translation>提供的影像串流</translation>
+    </message>
+    <message>
+      <location filename="../src/AppSettings/MockLinkSettings.qml" line="136"/>
+      <source>Start With Fresh Firmware Parameters (Setup Required)</source>
+      <translation>以全新韌體參數啟動（需要設定）</translation>
     </message>
   </context>
   <context>
@@ -13202,21 +13247,21 @@ VTOL</source>
       <source>&lt;br /&gt;No motors are assigned yet.
 By saying yes, all motors will be assigned to the first %1 channels of the selected output (%2)
  (you can also first assign all motors, then start the identification).&lt;br /&gt;</source>
-      <translation type="unfinished">&lt;br /&gt;No motors are assigned yet.
-By saying yes, all motors will be assigned to the first %1 channels of the selected output (%2)
- (you can also first assign all motors, then start the identification).&lt;br /&gt;</translation>
+      <translation>&lt;br /&gt;尚未指派任何馬達。
+選擇「是」後，所有馬達將指派至所選輸出（%2）的前 %1 個通道
+（您也可以先指派所有馬達，再開始辨識）。&lt;br /&gt;</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Actuators/MotorAssignment.cc" line="78"/>
       <source>&lt;br /&gt;Motors are currently assigned to a different output.
 By saying yes, all motors will be reassigned to the first %1 channels of the selected output (%2).&lt;br /&gt;</source>
-      <translation type="unfinished">&lt;br /&gt;Motors are currently assigned to a different output.
-By saying yes, all motors will be reassigned to the first %1 channels of the selected output (%2).&lt;br /&gt;</translation>
+      <translation>&lt;br /&gt;目前馬達已指派至其他輸出。
+選擇「是」後，所有馬達將重新指派至所選輸出（%2）的前 %1 個通道。&lt;br /&gt;</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Actuators/MotorAssignment.cc" line="84"/>
       <source>Not all motors are assigned yet. Either clear all existing assignments or assign all motors to an output.</source>
-      <translation type="unfinished">Not all motors are assigned yet. Either clear all existing assignments or assign all motors to an output.</translation>
+      <translation>尚未指派所有馬達。請清除所有現有指派，或將所有馬達指派至輸出。</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Actuators/MotorAssignment.cc" line="89"/>
@@ -13231,22 +13276,22 @@ The procedure is as following:&lt;br /&gt;
 - The motor output functions will automatically be reassigned by the selected order.&lt;br /&gt;
 &lt;br /&gt;
 Do you wish to proceed?</source>
-      <translation type="unfinished">This will automatically spin individual motors at 15% thrust.&lt;br /&gt;&lt;br /&gt;
-&lt;b&gt;Warning: Only proceed if you removed all propellers&lt;/b&gt;.&lt;br /&gt;
+      <translation>這會自動以 15% 推力逐一轉動馬達。&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;警告：僅在已拆下所有螺旋槳時才可繼續&lt;/b&gt;。&lt;br /&gt;
 %1
 &lt;br /&gt;
-The procedure is as following:&lt;br /&gt;
-- After confirming, the first motor starts to spin for 0.5 seconds.&lt;br /&gt;
-- Then click on the motor that was spinning.&lt;br /&gt;
-- The above steps are repeated for all motors.&lt;br /&gt;
-- The motor output functions will automatically be reassigned by the selected order.&lt;br /&gt;
+程序如下：&lt;br /&gt;
+- 確認後，第一個馬達會開始轉動 0.5 秒。&lt;br /&gt;
+- 接著按一下剛才轉動的馬達。&lt;br /&gt;
+- 針對所有馬達重複上述步驟。&lt;br /&gt;
+- 馬達輸出功能將依所選順序自動重新指派。&lt;br /&gt;
 &lt;br /&gt;
-Do you wish to proceed?</translation>
+是否繼續？</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Actuators/MotorAssignment.cc" line="207"/>
       <source>Actuator test command failed</source>
-      <translation type="unfinished">Actuator test command failed</translation>
+      <translation>致動器測試命令失敗</translation>
     </message>
   </context>
   <context>
@@ -13254,52 +13299,52 @@ Do you wish to proceed?</translation>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/MotorComponent.qml" line="39"/>
       <source>Warning: Unable to determine motor count</source>
-      <translation type="unfinished">Warning: Unable to determine motor count</translation>
+      <translation>警告：無法判定馬達數量</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/MotorComponent.qml" line="52"/>
       <source>Throttle</source>
-      <translation type="unfinished">Throttle</translation>
+      <translation>油門</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/MotorComponent.qml" line="57"/>
       <source>%</source>
-      <translation type="unfinished">%</translation>
+      <translation>%</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/MotorComponent.qml" line="65"/>
       <source>Make sure you remove all props.</source>
-      <translation type="unfinished">Make sure you remove all props.</translation>
+      <translation>請務必拆下所有螺旋槳。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/MotorComponent.qml" line="89"/>
       <source>All</source>
-      <translation type="unfinished">All</translation>
+      <translation>全部</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/MotorComponent.qml" line="99"/>
       <source>Stop</source>
-      <translation type="unfinished">Stop</translation>
+      <translation>停止</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/MotorComponent.qml" line="123"/>
       <source>Careful : Motors are enabled</source>
-      <translation type="unfinished">Careful : Motors are enabled</translation>
+      <translation>注意：馬達已啟用</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/MotorComponent.qml" line="123"/>
       <source>Propellers are removed - Enable slider and motors</source>
-      <translation type="unfinished">Propellers are removed - Enable slider and motors</translation>
+      <translation>已拆下螺旋槳－啟用滑桿與馬達</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/MotorComponent.cc" line="5"/>
       <source>Motors</source>
-      <translation type="unfinished">Motors</translation>
+      <translation>馬達</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/MotorComponent.h" line="14"/>
       <source>Motors Setup is used to manually test motor control and direction.</source>
-      <translation type="unfinished">Motors Setup is used to manually test motor control and direction.</translation>
+      <translation>馬達設定，用於手動測試馬達的控制和方向。</translation>
     </message>
   </context>
   <context>
@@ -13307,77 +13352,77 @@ Do you wish to proceed?</translation>
     <message>
       <location filename="../src/FlyView/MultiRotorChecklist.qml" line="14"/>
       <source>Multirotor Initial Checks</source>
-      <translation type="unfinished">Multirotor Initial Checks</translation>
+      <translation>多旋翼初始檢查</translation>
     </message>
     <message>
       <location filename="../src/FlyView/MultiRotorChecklist.qml" line="17"/>
       <source>Hardware</source>
-      <translation type="unfinished">Hardware</translation>
+      <translation>硬體</translation>
     </message>
     <message>
       <location filename="../src/FlyView/MultiRotorChecklist.qml" line="18"/>
       <source>Props mounted and secured?</source>
-      <translation type="unfinished">Props mounted and secured?</translation>
+      <translation>螺旋槳已安裝並固定？</translation>
     </message>
     <message>
       <location filename="../src/FlyView/MultiRotorChecklist.qml" line="39"/>
       <source>Please arm the vehicle here</source>
-      <translation type="unfinished">Please arm the vehicle here</translation>
+      <translation>請在此解鎖載具</translation>
     </message>
     <message>
       <location filename="../src/FlyView/MultiRotorChecklist.qml" line="42"/>
       <source>Motors</source>
-      <translation type="unfinished">Motors</translation>
+      <translation>馬達</translation>
     </message>
     <message>
       <location filename="../src/FlyView/MultiRotorChecklist.qml" line="43"/>
       <source>Propellers free? Then throttle up gently. Working properly?</source>
-      <translation type="unfinished">Propellers free? Then throttle up gently. Working properly?</translation>
+      <translation>螺旋槳周圍是否有足夠的空間？輕推油門，觀察是否一切正常？</translation>
     </message>
     <message>
       <location filename="../src/FlyView/MultiRotorChecklist.qml" line="47"/>
       <source>Mission</source>
-      <translation type="unfinished">Mission</translation>
+      <translation>任務</translation>
     </message>
     <message>
       <location filename="../src/FlyView/MultiRotorChecklist.qml" line="48"/>
       <source>Please confirm mission is valid (waypoints valid, no terrain collision).</source>
-      <translation type="unfinished">Please confirm mission is valid (waypoints valid, no terrain collision).</translation>
+      <translation>請確認任務有效（航點有效，且不會撞上地形）。</translation>
     </message>
     <message>
       <location filename="../src/FlyView/MultiRotorChecklist.qml" line="56"/>
       <source>Last preparations before launch</source>
-      <translation type="unfinished">Last preparations before launch</translation>
+      <translation>起飛前的最後準備工作</translation>
     </message>
     <message>
       <location filename="../src/FlyView/MultiRotorChecklist.qml" line="60"/>
       <source>Payload</source>
-      <translation type="unfinished">Payload</translation>
+      <translation>酬載</translation>
     </message>
     <message>
       <location filename="../src/FlyView/MultiRotorChecklist.qml" line="61"/>
       <source>Configured and started? Payload lid closed?</source>
-      <translation type="unfinished">Configured and started? Payload lid closed?</translation>
+      <translation>已設定並啟動？酬載艙蓋已關閉？</translation>
     </message>
     <message>
       <location filename="../src/FlyView/MultiRotorChecklist.qml" line="65"/>
       <source>Wind &amp; weather</source>
-      <translation type="unfinished">Wind &amp; weather</translation>
+      <translation>風況與天氣</translation>
     </message>
     <message>
       <location filename="../src/FlyView/MultiRotorChecklist.qml" line="66"/>
       <source>OK for your platform?</source>
-      <translation type="unfinished">OK for your platform?</translation>
+      <translation>是否適合您的載具？</translation>
     </message>
     <message>
       <location filename="../src/FlyView/MultiRotorChecklist.qml" line="70"/>
       <source>Flight area</source>
-      <translation type="unfinished">Flight area</translation>
+      <translation>飛行區域</translation>
     </message>
     <message>
       <location filename="../src/FlyView/MultiRotorChecklist.qml" line="71"/>
       <source>Launch area and path free of obstacles/people?</source>
-      <translation type="unfinished">Launch area and path free of obstacles/people?</translation>
+      <translation>起飛區域與路徑是否沒有障礙物及人員？</translation>
     </message>
   </context>
   <context>
@@ -13385,12 +13430,12 @@ Do you wish to proceed?</translation>
     <message>
       <location filename="../src/FlyView/MultiVehicleList.qml" line="186"/>
       <source>Armed</source>
-      <translation type="unfinished">Armed</translation>
+      <translation>已解鎖</translation>
     </message>
     <message>
       <location filename="../src/FlyView/MultiVehicleList.qml" line="186"/>
       <source>Disarmed</source>
-      <translation type="unfinished">Disarmed</translation>
+      <translation>已上鎖</translation>
     </message>
   </context>
   <context>
@@ -13398,12 +13443,12 @@ Do you wish to proceed?</translation>
     <message>
       <location filename="../src/Vehicle/MultiVehicleManager.cc" line="115"/>
       <source>Warning: A vehicle is using the same system id as %1: %2</source>
-      <translation type="unfinished">Warning: A vehicle is using the same system id as %1: %2</translation>
+      <translation>警告：有載具使用與 %1 相同的系統 ID：%2</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/MultiVehicleManager.cc" line="132"/>
       <source>Connected to Vehicle %1</source>
-      <translation type="unfinished">Connected to Vehicle %1</translation>
+      <translation>已連線到載具 %1</translation>
     </message>
   </context>
   <context>
@@ -13412,17 +13457,108 @@ Do you wish to proceed?</translation>
       <location filename="../src/Toolbar/MultiVehicleSelector.qml" line="39"/>
       <location filename="../src/Toolbar/MultiVehicleSelector.qml" line="100"/>
       <source>Vehicle</source>
-      <translation type="unfinished">Vehicle</translation>
+      <translation>載具</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/MultiVehicleSelector.qml" line="39"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>不適用</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/MultiVehicleSelector.qml" line="84"/>
       <source>Enable Multi-Vehicle Panel</source>
-      <translation type="unfinished">Enable Multi-Vehicle Panel</translation>
+      <translation>啟用多載具面板</translation>
+    </message>
+  </context>
+  <context>
+    <name>NTRIPConnectionStatus</name>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatus.qml" line="97"/>
+      <source>%1 × %2</source>
+      <translation>%1 × %2</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatus.qml" line="17"/>
+      <source>-.--</source>
+      <translation>-.--</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatus.qml" line="38"/>
+      <source>Connected but no data received recently</source>
+      <translation>已連線，但最近未收到資料</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatus.qml" line="106"/>
+      <source>Data Received</source>
+      <translation>已接收資料</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatus.qml" line="132"/>
+      <source>GGA Source</source>
+      <translation>GGA 來源</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatus.qml" line="67"/>
+      <source>Message Types</source>
+      <translation>訊息類型</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatus.qml" line="54"/>
+      <source>Messages</source>
+      <translation>訊息</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatus.qml" line="47"/>
+      <source>Mountpoint</source>
+      <translation>掛載點</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatus.qml" line="124"/>
+      <source>To Vehicle</source>
+      <translation>傳送至載具</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatus.qml" line="114"/>
+      <source>Warning: Data usage: %1 — consider connection costs</source>
+      <translation>警告：資料用量 %1，請留意連線費用</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatus.qml" line="84"/>
+      <source>unknown</source>
+      <translation>未知</translation>
+    </message>
+  </context>
+  <context>
+    <name>NTRIPConnectionStatusRow</name>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatusRow.qml" line="40"/>
+      <source>Connect</source>
+      <translation>連線</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatusRow.qml" line="37"/>
+      <source>Connecting…</source>
+      <translation>連線中…</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatusRow.qml" line="39"/>
+      <source>Disconnect</source>
+      <translation>中斷連線</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatusRow.qml" line="32"/>
+      <source>Disconnected</source>
+      <translation>已中斷連線</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatusRow.qml" line="38"/>
+      <source>Reconnecting…</source>
+      <translation>重新連線中…</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPConnectionStatusRow.qml" line="31"/>
+      <source>Unavailable</source>
+      <translation>無法使用</translation>
     </message>
   </context>
   <context>
@@ -13430,37 +13566,42 @@ Do you wish to proceed?</translation>
     <message>
       <location filename="../src/GPS/NTRIP/NTRIPHttpTransport.cc" line="42"/>
       <source>No data received for %1 seconds</source>
-      <translation type="unfinished">No data received for %1 seconds</translation>
+      <translation>已 %1 秒未收到資料</translation>
     </message>
     <message>
       <location filename="../src/GPS/NTRIP/NTRIPHttpTransport.cc" line="84"/>
       <source>Invalid mountpoint name (contains control characters)</source>
-      <translation type="unfinished">Invalid mountpoint name (contains control characters)</translation>
+      <translation>掛載點名稱無效（包含控制字元）</translation>
     </message>
     <message>
       <location filename="../src/GPS/NTRIP/NTRIPHttpTransport.cc" line="262"/>
       <source>HTTP response header too large</source>
-      <translation type="unfinished">HTTP response header too large</translation>
+      <translation>HTTP 回應標頭過大</translation>
     </message>
     <message>
       <location filename="../src/GPS/NTRIP/NTRIPHttpTransport.cc" line="302"/>
       <source>Authentication failed (401): check username and password</source>
-      <translation type="unfinished">Authentication failed (401): check username and password</translation>
+      <translation>驗證失敗（401）：請檢查使用者名稱與密碼</translation>
     </message>
     <message>
       <location filename="../src/GPS/NTRIP/NTRIPHttpTransport.cc" line="309"/>
       <source>HTTP %1</source>
-      <translation type="unfinished">HTTP %1</translation>
+      <translation>HTTP %1</translation>
     </message>
     <message>
       <location filename="../src/GPS/NTRIP/NTRIPHttpTransport.cc" line="310"/>
       <source>HTTP %1: %2</source>
-      <translation type="unfinished">HTTP %1: %2</translation>
+      <translation>HTTP %1：%2</translation>
     </message>
     <message>
       <location filename="../src/GPS/NTRIP/NTRIPHttpTransport.cc" line="327"/>
       <source>Invalid HTTP response from caster</source>
-      <translation type="unfinished">Invalid HTTP response from caster</translation>
+      <translation>NTRIP caster 的 HTTP 回應無效</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPHttpTransport.cc" line="183"/>
+      <source>Self-signed certificate rejected. Enable &apos;Accept self-signed certificates&apos; in NTRIP settings to allow.</source>
+      <translation>已拒絕自我簽署憑證。若要允許，請在 NTRIP 設定中啟用「接受自我簽署憑證」。</translation>
     </message>
   </context>
   <context>
@@ -13468,39 +13609,100 @@ Do you wish to proceed?</translation>
     <message>
       <location filename="../src/GPS/NTRIP/NTRIPManager.cc" line="200"/>
       <source>No host address</source>
-      <translation type="unfinished">No host address</translation>
+      <translation>沒有主機位址</translation>
     </message>
     <message>
       <location filename="../src/GPS/NTRIP/NTRIPManager.cc" line="207"/>
       <source>Invalid port</source>
-      <translation type="unfinished">Invalid port</translation>
+      <translation>連接埠無效</translation>
     </message>
     <message>
       <location filename="../src/GPS/NTRIP/NTRIPManager.cc" line="215"/>
       <source>Connecting to %1:%2...</source>
-      <translation type="unfinished">Connecting to %1:%2...</translation>
+      <translation>正在連線至 %1:%2…</translation>
     </message>
     <message>
       <location filename="../src/GPS/NTRIP/NTRIPManager.cc" line="240"/>
       <location filename="../src/GPS/NTRIP/NTRIPManager.cc" line="366"/>
       <source>Connected</source>
-      <translation type="unfinished">Connected</translation>
+      <translation>已連線</translation>
     </message>
     <message>
       <location filename="../src/GPS/NTRIP/NTRIPManager.cc" line="281"/>
       <location filename="../src/GPS/NTRIP/NTRIPManager.cc" line="549"/>
       <source>Disconnected</source>
-      <translation type="unfinished">Disconnected</translation>
+      <translation>已中斷連線</translation>
     </message>
     <message>
       <location filename="../src/GPS/NTRIP/NTRIPManager.cc" line="336"/>
       <source>Reconnecting in %1s...</source>
-      <translation type="unfinished">Reconnecting in %1s...</translation>
+      <translation>將於 %1 秒後重新連線…</translation>
     </message>
     <message>
       <location filename="../src/GPS/NTRIP/NTRIPManager.cc" line="590"/>
       <source>Host address is empty</source>
-      <translation type="unfinished">Host address is empty</translation>
+      <translation>主機位址為空</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPManager.cc" line="292"/>
+      <source>Connecting...</source>
+      <translation>連線中…</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPManager.cc" line="469"/>
+      <source>Credentials are being sent without TLS encryption.</source>
+      <translation>認證資訊未經 TLS 加密即傳送。</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPManager.cc" line="379"/>
+      <source>Gave up after %1 reconnect attempts</source>
+      <translation>嘗試重新連線 %1 次後已放棄</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPManager.cc" line="460"/>
+      <source>Reconnecting in %1s: %2</source>
+      <translation>將於 %1 秒後重新連線：%2</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPManager.cc" line="296"/>
+      <source>Reconnecting...</source>
+      <translation>重新連線中…</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPManager.cc" line="389"/>
+      <source>Settings unavailable</source>
+      <translation>無法取得設定</translation>
+    </message>
+  </context>
+  <context>
+    <name>NTRIPMountpointList</name>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPMountpointList.qml" line="66"/>
+      <source>(selected)</source>
+      <translation>（已選取）</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPMountpointList.qml" line="90"/>
+      <source>Select</source>
+      <translation>選取</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPMountpointList.qml" line="90"/>
+      <source>Selected</source>
+      <translation>已選取</translation>
+    </message>
+  </context>
+  <context>
+    <name>NTRIPSourceTableController</name>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPSourceTableController.cc" line="150"/>
+      <source>Response does not contain a valid source table</source>
+      <translation>回應未包含有效的來源表</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPSourceTableController.cc" line="135"/>
+      <source>Source table too large (exceeds %1 MB)</source>
+      <translation>來源表過大（超過 %1 MB）</translation>
     </message>
   </context>
   <context>
@@ -13508,12 +13710,40 @@ Do you wish to proceed?</translation>
     <message>
       <location filename="../src/GPS/NTRIP/NTRIPSourceTable.cc" line="177"/>
       <source>No reply received</source>
-      <translation type="unfinished">No reply received</translation>
+      <translation>未收到回覆</translation>
     </message>
     <message>
       <location filename="../src/GPS/NTRIP/NTRIPSourceTable.cc" line="195"/>
       <source>Response does not contain a valid source table</source>
-      <translation type="unfinished">Response does not contain a valid source table</translation>
+      <translation>回應未包含有效的來源表</translation>
+    </message>
+  </context>
+  <context>
+    <name>NTRIPTransportConfig</name>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPTransportConfig.cc" line="22"/>
+      <source>Invalid host (contains control characters)</source>
+      <translation>主機無效（包含控制字元）</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPTransportConfig.cc" line="25"/>
+      <source>Invalid mountpoint name (contains control characters)</source>
+      <translation>掛載點名稱無效（包含控制字元）</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPTransportConfig.cc" line="17"/>
+      <source>Invalid port</source>
+      <translation>連接埠無效</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPTransportConfig.cc" line="29"/>
+      <source>Invalid username (must not contain &apos;:&apos;)</source>
+      <translation>使用者名稱無效（不得包含「:」）</translation>
+    </message>
+    <message>
+      <location filename="../src/GPS/NTRIP/NTRIPTransportConfig.cc" line="14"/>
+      <source>No host address</source>
+      <translation>沒有主機位址</translation>
     </message>
   </context>
   <context>
@@ -13521,47 +13751,65 @@ Do you wish to proceed?</translation>
     <message>
       <location filename="../src/AppSettings/NmeaGpsSettings.qml" line="9"/>
       <source>NMEA GPS</source>
-      <translation type="unfinished">NMEA GPS</translation>
+      <translation>NMEA GPS</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NmeaGpsSettings.qml" line="14"/>
       <source>Device</source>
-      <translation type="unfinished">Device</translation>
+      <translation>裝置</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NmeaGpsSettings.qml" line="27"/>
       <source>Disabled</source>
-      <translation type="unfinished">Disabled</translation>
+      <translation>已停用</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NmeaGpsSettings.qml" line="28"/>
       <source>UDP Port</source>
-      <translation type="unfinished">UDP Port</translation>
+      <translation>UDP 連接埠</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NmeaGpsSettings.qml" line="31"/>
       <source>Serial &lt;none available&gt;</source>
-      <translation type="unfinished">Serial &lt;none available&gt;</translation>
+      <translation>序列埠 &lt;無可用項目&gt;</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NmeaGpsSettings.qml" line="47"/>
       <source>Baudrate</source>
-      <translation type="unfinished">Baudrate</translation>
+      <translation>鮑率</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NmeaGpsSettings.qml" line="49"/>
       <source>Custom</source>
-      <translation type="unfinished">Custom</translation>
+      <translation>自訂</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NmeaGpsSettings.qml" line="79"/>
       <source>Custom Baud Rate</source>
-      <translation type="unfinished">Custom Baud Rate</translation>
+      <translation>自訂鮑率</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NmeaGpsSettings.qml" line="98"/>
       <source>NMEA stream UDP port</source>
-      <translation type="unfinished">NMEA stream UDP port</translation>
+      <translation>NMEA 串流 UDP 連接埠</translation>
+    </message>
+    <message>
+      <location filename="../src/AppSettings/NmeaGpsSettings.qml" line="37"/>
+      <source>&lt;none available&gt;</source>
+      <translation>&lt;無可用項目&gt;</translation>
+    </message>
+    <message>
+      <location filename="../src/AppSettings/NmeaGpsSettings.qml" line="16"/>
+      <source>Source</source>
+      <translation>來源</translation>
+    </message>
+  </context>
+  <context>
+    <name>NtripConnectionSettings</name>
+    <message>
+      <location filename="../src/AppSettings/NtripConnectionSettings.qml" line="13"/>
+      <source>Connection</source>
+      <translation>連線</translation>
     </message>
   </context>
   <context>
@@ -13569,42 +13817,42 @@ Do you wish to proceed?</translation>
     <message>
       <location filename="../src/AppSettings/NtripConnectionStatus.qml" line="11"/>
       <source>Connection</source>
-      <translation type="unfinished">Connection</translation>
+      <translation>連線</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NtripConnectionStatus.qml" line="48"/>
       <source>Disconnected</source>
-      <translation type="unfinished">Disconnected</translation>
+      <translation>已中斷連線</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NtripConnectionStatus.qml" line="54"/>
       <source>Connecting…</source>
-      <translation type="unfinished">Connecting…</translation>
+      <translation>連線中…</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NtripConnectionStatus.qml" line="55"/>
       <source>Reconnecting…</source>
-      <translation type="unfinished">Reconnecting…</translation>
+      <translation>重新連線中…</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NtripConnectionStatus.qml" line="56"/>
       <source>Disconnect</source>
-      <translation type="unfinished">Disconnect</translation>
+      <translation>中斷連線</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NtripConnectionStatus.qml" line="57"/>
       <source>Connect</source>
-      <translation type="unfinished">Connect</translation>
+      <translation>連線</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NtripConnectionStatus.qml" line="68"/>
       <source>%1 messages</source>
-      <translation type="unfinished">%1 messages</translation>
+      <translation>%1 則訊息</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NtripConnectionStatus.qml" line="73"/>
       <source>GGA: %1</source>
-      <translation type="unfinished">GGA: %1</translation>
+      <translation>GGA：%1</translation>
     </message>
   </context>
   <context>
@@ -13612,32 +13860,32 @@ Do you wish to proceed?</translation>
     <message>
       <location filename="../src/AppSettings/NtripMountpointBrowser.qml" line="11"/>
       <source>Mountpoint</source>
-      <translation type="unfinished">Mountpoint</translation>
+      <translation>掛載點</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NtripMountpointBrowser.qml" line="35"/>
       <source>Browse</source>
-      <translation type="unfinished">Browse</translation>
+      <translation>瀏覽</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NtripMountpointBrowser.qml" line="45"/>
       <source>Fetching mountpoints…</source>
-      <translation type="unfinished">Fetching mountpoints…</translation>
+      <translation>正在取得掛載點…</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NtripMountpointBrowser.qml" line="99"/>
       <source>(selected)</source>
-      <translation type="unfinished">(selected)</translation>
+      <translation>（已選取）</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NtripMountpointBrowser.qml" line="123"/>
       <source>Selected</source>
-      <translation type="unfinished">Selected</translation>
+      <translation>已選取</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NtripMountpointBrowser.qml" line="123"/>
       <source>Select</source>
-      <translation type="unfinished">Select</translation>
+      <translation>選取</translation>
     </message>
   </context>
   <context>
@@ -13645,17 +13893,17 @@ Do you wish to proceed?</translation>
     <message>
       <location filename="../src/AppSettings/NtripServerSettings.qml" line="11"/>
       <source>Server</source>
-      <translation type="unfinished">Server</translation>
+      <translation>伺服器</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NtripServerSettings.qml" line="62"/>
       <source>Hide</source>
-      <translation type="unfinished">Hide</translation>
+      <translation>隱藏</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/NtripServerSettings.qml" line="62"/>
       <source>Show</source>
-      <translation type="unfinished">Show</translation>
+      <translation>顯示</translation>
     </message>
   </context>
   <context>
@@ -13663,162 +13911,162 @@ Do you wish to proceed?</translation>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="201"/>
       <source>System Wide Tile Cache</source>
-      <translation type="unfinished">System Wide Tile Cache</translation>
+      <translation>全系統圖磚快取</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="214"/>
       <source>Zoom Levels:</source>
-      <translation type="unfinished">Zoom Levels:</translation>
+      <translation>縮放層級：</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="221"/>
       <source>Total:</source>
-      <translation type="unfinished">Total:</translation>
+      <translation>總計：</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="228"/>
       <source>Unique:</source>
-      <translation type="unfinished">Unique:</translation>
+      <translation>不重複項目：</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="236"/>
       <source>Downloaded:</source>
-      <translation type="unfinished">Downloaded:</translation>
+      <translation>已下載：</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="243"/>
       <source>Error Count:</source>
-      <translation type="unfinished">Error Count:</translation>
+      <translation>錯誤數：</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="251"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>大小：</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="258"/>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="615"/>
       <source>Tile Count:</source>
-      <translation type="unfinished">Tile Count:</translation>
+      <translation>圖磚數：</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="265"/>
       <source>Resume Download</source>
-      <translation type="unfinished">Resume Download</translation>
+      <translation>繼續下載</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="271"/>
       <source>Cancel Download</source>
-      <translation type="unfinished">Cancel Download</translation>
+      <translation>取消下載</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="277"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>刪除</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="283"/>
       <source>Ok</source>
-      <translation type="unfinished">Ok</translation>
+      <translation>確定</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="295"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>關閉</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="295"/>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="668"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>取消</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="321"/>
       <source>Show zoom previews</source>
-      <translation type="unfinished">Show zoom previews</translation>
+      <translation>顯示縮放預覽</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="355"/>
       <source>Min Zoom: %1</source>
-      <translation type="unfinished">Min Zoom: %1</translation>
+      <translation>最小縮放：%1</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="393"/>
       <source>Max Zoom: %1</source>
-      <translation type="unfinished">Max Zoom: %1</translation>
+      <translation>最大縮放：%1</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="424"/>
       <source>Add New Set</source>
-      <translation type="unfinished">Add New Set</translation>
+      <translation>新增圖磚集</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="452"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>名稱：</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="471"/>
       <source>Map type:</source>
-      <translation type="unfinished">Map type:</translation>
+      <translation>地圖類型：</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="494"/>
       <source>Fetch elevation data</source>
-      <translation type="unfinished">Fetch elevation data</translation>
+      <translation>取得高程資料</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="520"/>
       <source>Min/Max Zoom Levels</source>
-      <translation type="unfinished">Min/Max Zoom Levels</translation>
+      <translation>最小／最大縮放層級</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="624"/>
       <source>Est Size:</source>
-      <translation type="unfinished">Est Size:</translation>
+      <translation>預估大小：</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="636"/>
       <source>Too many tiles</source>
-      <translation type="unfinished">Too many tiles</translation>
+      <translation>圖磚過多</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="644"/>
       <source>Tile set with this name already exists</source>
-      <translation type="unfinished">Tile set with this name already exists</translation>
+      <translation>此名稱的圖磚集已存在</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="655"/>
       <source>Download</source>
-      <translation type="unfinished">Download</translation>
+      <translation>下載</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="701"/>
       <source>Error Message</source>
-      <translation type="unfinished">Error Message</translation>
+      <translation>錯誤訊息</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="717"/>
       <source>Confirm Delete</source>
-      <translation type="unfinished">Confirm Delete</translation>
+      <translation>確認刪除</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="719"/>
       <source>This will delete all tiles INCLUDING the tile sets you have created yourself.
 
 Is this really what you want?</source>
-      <translation type="unfinished">This will delete all tiles INCLUDING the tile sets you have created yourself.
+      <translation>這會刪除所有圖磚，包括您自行建立的圖磚集。
 
-Is this really what you want?</translation>
+確定要這麼做嗎？</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="720"/>
       <source>Delete %1 and all its tiles.
 
 Is this really what you want?</source>
-      <translation type="unfinished">Delete %1 and all its tiles.
+      <translation>刪除 %1 及其所有圖磚。
 
-Is this really what you want?</translation>
+確定要這麼做嗎？</translation>
     </message>
   </context>
   <context>
@@ -13826,7 +14074,7 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/AppSettings/OfflineMapInfo.qml" line="38"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>編輯</translation>
     </message>
   </context>
   <context>
@@ -13834,92 +14082,92 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="33"/>
       <source>Offline Maps</source>
-      <translation type="unfinished">Offline Maps</translation>
+      <translation>離線地圖</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="34"/>
       <source>Download map tiles for use when offline</source>
-      <translation type="unfinished">Download map tiles for use when offline</translation>
+      <translation>下載地圖圖磚以供離線使用</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="47"/>
       <source>Add New Set</source>
-      <translation type="unfinished">Add New Set</translation>
+      <translation>新增圖磚集</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="48"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>新增</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="54"/>
       <source>Import Map Tiles</source>
-      <translation type="unfinished">Import Map Tiles</translation>
+      <translation>匯入地圖圖磚</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="55"/>
       <source>Import</source>
-      <translation type="unfinished">Import</translation>
+      <translation>匯入</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="65"/>
       <source>Export Map Tiles</source>
-      <translation type="unfinished">Export Map Tiles</translation>
+      <translation>匯出地圖圖磚</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="66"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>匯出</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="78"/>
       <source>Exporting</source>
-      <translation type="unfinished">Exporting</translation>
+      <translation>匯出中</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="78"/>
       <source>Importing</source>
-      <translation type="unfinished">Importing</translation>
+      <translation>匯入中</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="94"/>
       <source>Tile Sets (*.%1)</source>
-      <translation type="unfinished">Tile Sets (*.%1)</translation>
+      <translation>圖磚集 (*.%1)</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="117"/>
       <source>Export Selected Tile Sets</source>
-      <translation type="unfinished">Export Selected Tile Sets</translation>
+      <translation>匯出所選圖磚集</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="122"/>
       <source>Export Tiles</source>
-      <translation type="unfinished">Export Tiles</translation>
+      <translation>匯出圖磚</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="151"/>
       <source>Import TileSets</source>
-      <translation type="unfinished">Import TileSets</translation>
+      <translation>匯入圖磚集</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="156"/>
       <source>Import Tiles</source>
-      <translation type="unfinished">Import Tiles</translation>
+      <translation>匯入圖磚</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="164"/>
       <source>Append to existing sets</source>
-      <translation type="unfinished">Append to existing sets</translation>
+      <translation>附加至現有圖磚集</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="169"/>
       <source>Replace existing sets</source>
-      <translation type="unfinished">Replace existing sets</translation>
+      <translation>取代現有圖磚集</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapSettings.qml" line="186"/>
       <source>Error Message</source>
-      <translation type="unfinished">Error Message</translation>
+      <translation>錯誤訊息</translation>
     </message>
   </context>
   <context>
@@ -13927,28 +14175,38 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogController.cc" line="65"/>
       <source>Waiting</source>
-      <translation type="unfinished">Waiting</translation>
+      <translation>等待中</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogController.cc" line="112"/>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogController.cc" line="290"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>錯誤</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogController.cc" line="180"/>
       <source>Available</source>
-      <translation type="unfinished">Available</translation>
+      <translation>可用</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogController.cc" line="271"/>
       <source>Downloaded</source>
-      <translation type="unfinished">Downloaded</translation>
+      <translation>已下載</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogController.cc" line="565"/>
       <source>Canceled</source>
-      <translation type="unfinished">Canceled</translation>
+      <translation>已取消</translation>
+    </message>
+    <message>
+      <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogController.cc" line="1207"/>
+      <source>Downloading</source>
+      <translation>下載中</translation>
+    </message>
+    <message>
+      <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogController.cc" line="796"/>
+      <source>Erasing</source>
+      <translation>清除中</translation>
     </message>
   </context>
   <context>
@@ -13956,34 +14214,34 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpController.cc" line="230"/>
       <source>Available</source>
-      <translation type="unfinished">Available</translation>
+      <translation>可用</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpController.cc" line="286"/>
       <source>Waiting</source>
-      <translation type="unfinished">Waiting</translation>
+      <translation>等待中</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpController.cc" line="316"/>
       <source>Downloading</source>
-      <translation type="unfinished">Downloading</translation>
+      <translation>下載中</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpController.cc" line="344"/>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpController.cc" line="365"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>錯誤</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpController.cc" line="362"/>
       <source>Downloaded</source>
-      <translation type="unfinished">Downloaded</translation>
+      <translation>已下載</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpController.cc" line="418"/>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpController.cc" line="439"/>
       <source>Canceled</source>
-      <translation type="unfinished">Canceled</translation>
+      <translation>已取消</translation>
     </message>
   </context>
   <context>
@@ -13991,72 +14249,72 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpPage.qml" line="12"/>
       <source>Onboard Logs (FTP) lists log files on the vehicle&apos;s SD card via MAVLink FTP. Click Refresh to query the vehicle.</source>
-      <translation type="unfinished">Onboard Logs (FTP) lists log files on the vehicle&apos;s SD card via MAVLink FTP. Click Refresh to query the vehicle.</translation>
+      <translation>「機載記錄（FTP）」透過 MAVLink FTP 列出載具 SD 卡上的記錄檔。按一下「重新整理」查詢載具。</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpPage.qml" line="52"/>
       <source>Id</source>
-      <translation type="unfinished">Id</translation>
+      <translation>ID</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpPage.qml" line="60"/>
       <source>Date</source>
-      <translation type="unfinished">Date</translation>
+      <translation>日期</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpPage.qml" line="72"/>
       <source>Date Unknown</source>
-      <translation type="unfinished">Date Unknown</translation>
+      <translation>日期不明</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpPage.qml" line="80"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>大小</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpPage.qml" line="88"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>狀態</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpPage.qml" line="106"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>重新整理</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpPage.qml" line="110"/>
       <source>Log Refresh</source>
-      <translation type="unfinished">Log Refresh</translation>
+      <translation>重新整理記錄</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpPage.qml" line="110"/>
       <source>You must be connected to a vehicle in order to download logs.</source>
-      <translation type="unfinished">You must be connected to a vehicle in order to download logs.</translation>
+      <translation>您必須連接至載具，才能下載記錄。</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpPage.qml" line="121"/>
       <source>Download</source>
-      <translation type="unfinished">Download</translation>
+      <translation>下載</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpPage.qml" line="133"/>
       <source>Log Download</source>
-      <translation type="unfinished">Log Download</translation>
+      <translation>下載記錄</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpPage.qml" line="133"/>
       <source>You must select at least one log file to download.</source>
-      <translation type="unfinished">You must select at least one log file to download.</translation>
+      <translation>您必須至少選擇一個要下載的記錄檔。</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpPage.qml" line="142"/>
       <source>Select save directory</source>
-      <translation type="unfinished">Select save directory</translation>
+      <translation>選擇儲存目錄</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpPage.qml" line="159"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>取消</translation>
     </message>
   </context>
   <context>
@@ -14064,107 +14322,127 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="12"/>
       <source>Onboard Logs allows you to download binary log files from your vehicle. Click Refresh to get list of available logs.</source>
-      <translation type="unfinished">Onboard Logs allows you to download binary log files from your vehicle. Click Refresh to get list of available logs.</translation>
+      <translation>「機載記錄」可讓您從載具下載二進位記錄檔。按一下「重新整理」取得可用記錄清單。</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="51"/>
       <source>Id</source>
-      <translation type="unfinished">Id</translation>
+      <translation>ID</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="59"/>
       <source>Date</source>
-      <translation type="unfinished">Date</translation>
+      <translation>日期</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="71"/>
       <source>Date Unknown</source>
-      <translation type="unfinished">Date Unknown</translation>
+      <translation>日期不明</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="79"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>大小</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="87"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>狀態</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="105"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>重新整理</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="109"/>
       <source>Onboard Log Refresh</source>
-      <translation type="unfinished">Onboard Log Refresh</translation>
+      <translation>重新整理機載記錄</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="109"/>
       <source>You must be connected to a vehicle in order to download onboard logs.</source>
-      <translation type="unfinished">You must be connected to a vehicle in order to download onboard logs.</translation>
+      <translation>您必須連接至載具，才能下載機載記錄。</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="120"/>
       <source>Deselect All</source>
-      <translation type="unfinished">Deselect All</translation>
+      <translation>取消全選</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="120"/>
       <source>Select All</source>
-      <translation type="unfinished">Select All</translation>
+      <translation>全選</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="127"/>
       <source>Download</source>
-      <translation type="unfinished">Download</translation>
+      <translation>下載</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="139"/>
       <source>Onboard Log</source>
-      <translation type="unfinished">Onboard Log</translation>
+      <translation>機載記錄</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="139"/>
       <source>You must select at least one onboard log file to download.</source>
-      <translation type="unfinished">You must select at least one onboard log file to download.</translation>
+      <translation>您必須至少選擇一個要下載的機載記錄檔。</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="148"/>
       <source>Select save directory</source>
-      <translation type="unfinished">Select save directory</translation>
+      <translation>選擇儲存目錄</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="166"/>
       <source>Sort Descending</source>
-      <translation type="unfinished">Sort Descending</translation>
+      <translation>遞減排序</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="166"/>
       <source>Sort Ascending</source>
-      <translation type="unfinished">Sort Ascending</translation>
+      <translation>遞增排序</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="173"/>
       <source>Erase All</source>
-      <translation type="unfinished">Erase All</translation>
+      <translation>全部清除</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="176"/>
       <source>Delete All Onboard Log Files</source>
-      <translation type="unfinished">Delete All Onboard Log Files</translation>
+      <translation>刪除所有機載記錄檔</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="177"/>
       <source>All onboard log files will be erased permanently. Is this really what you want?</source>
-      <translation type="unfinished">All onboard log files will be erased permanently. Is this really what you want?</translation>
+      <translation>所有機載記錄檔都將永久清除。確定要這麼做嗎？</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="185"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>取消</translation>
+    </message>
+    <message>
+      <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="193"/>
+      <source>Delete Selected Onboard Log Files</source>
+      <translation>刪除選取的機載記錄檔</translation>
+    </message>
+    <message>
+      <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="190"/>
+      <source>Erase Selected</source>
+      <translation>清除選取項目</translation>
+    </message>
+    <message>
+      <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="194"/>
+      <source>The selected onboard log files will be erased permanently. Is this really what you want?</source>
+      <translation>選取的機載記錄檔將永久清除。確定要這麼做嗎？</translation>
+    </message>
+    <message>
+      <location filename="../src/AnalyzeView/OnboardLogs/OnboardLogPage.qml" line="15"/>
+      <source>Wait for the log download to complete or cancel it first</source>
+      <translation>請等待記錄下載完成，或先取消下載</translation>
     </message>
   </context>
   <context>
@@ -14172,7 +14450,7 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/OpticalFlowSensor.qml" line="10"/>
       <source>Optical Flow Camera</source>
-      <translation type="unfinished">Optical Flow Camera</translation>
+      <translation>光流相機</translation>
     </message>
   </context>
   <context>
