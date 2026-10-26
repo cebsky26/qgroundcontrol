@@ -6,82 +6,82 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAdvancedTuningCopterComponent.qml" line="27"/>
       <source>Roll</source>
-      <translation type="unfinished">Roll</translation>
+      <translation>橫滾</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAdvancedTuningCopterComponent.qml" line="34"/>
       <source>Roll axis angle controller P gain</source>
-      <translation type="unfinished">Roll axis angle controller P gain</translation>
+      <translation>橫滾軸角度控制器 P 增益</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAdvancedTuningCopterComponent.qml" line="42"/>
       <source>Roll axis rate controller P gain</source>
-      <translation type="unfinished">Roll axis rate controller P gain</translation>
+      <translation>橫滾軸角速度控制器 P 增益</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAdvancedTuningCopterComponent.qml" line="50"/>
       <source>Roll axis rate controller I gain</source>
-      <translation type="unfinished">Roll axis rate controller I gain</translation>
+      <translation>橫滾軸角速度控制器 I 增益</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAdvancedTuningCopterComponent.qml" line="58"/>
       <source>Roll axis rate controller D gain</source>
-      <translation type="unfinished">Roll axis rate controller D gain</translation>
+      <translation>橫滾軸角速度控制器 D 增益</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAdvancedTuningCopterComponent.qml" line="69"/>
       <source>Pitch</source>
-      <translation type="unfinished">Pitch</translation>
+      <translation>俯仰</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAdvancedTuningCopterComponent.qml" line="76"/>
       <source>Pitch axis angle controller P gain</source>
-      <translation type="unfinished">Pitch axis angle controller P gain</translation>
+      <translation>俯仰軸角度控制器 P 增益</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAdvancedTuningCopterComponent.qml" line="84"/>
       <source>Pitch axis rate controller P gain</source>
-      <translation type="unfinished">Pitch axis rate controller P gain</translation>
+      <translation>俯仰軸角速度控制器 P 增益</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAdvancedTuningCopterComponent.qml" line="92"/>
       <source>Pitch axis rate controller I gain</source>
-      <translation type="unfinished">Pitch axis rate controller I gain</translation>
+      <translation>俯仰軸角速度控制器 I 增益</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAdvancedTuningCopterComponent.qml" line="100"/>
       <source>Pitch axis rate controller D gain</source>
-      <translation type="unfinished">Pitch axis rate controller D gain</translation>
+      <translation>俯仰軸角速度控制器 D 增益</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAdvancedTuningCopterComponent.qml" line="111"/>
       <source>Yaw</source>
-      <translation type="unfinished">Yaw</translation>
+      <translation>偏航</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAdvancedTuningCopterComponent.qml" line="118"/>
       <source>Yaw axis angle controller P gain</source>
-      <translation type="unfinished">Yaw axis angle controller P gain</translation>
+      <translation>偏航軸角度控制器 P 增益</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAdvancedTuningCopterComponent.qml" line="126"/>
       <source>Yaw axis rate controller P gain</source>
-      <translation type="unfinished">Yaw axis rate controller P gain</translation>
+      <translation>偏航軸角速度控制器 P 增益</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAdvancedTuningCopterComponent.qml" line="134"/>
       <source>Yaw axis rate controller I gain</source>
-      <translation type="unfinished">Yaw axis rate controller I gain</translation>
+      <translation>偏航軸角速度控制器 I 增益</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAdvancedTuningCopterComponent.h" line="15"/>
       <source>Advanced rate controller PID tuning with live telemetry charts.</source>
-      <translation type="unfinished">Advanced rate controller PID tuning with live telemetry charts.</translation>
+      <translation>搭配即時遙測圖表的進階角速度控制器 PID 調校。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAdvancedTuningCopterComponent.h" line="24"/>
       <source>Tuning - Advanced</source>
-      <translation type="unfinished">Tuning - Advanced</translation>
+      <translation>調校－進階</translation>
     </message>
   </context>
   <context>
@@ -89,48 +89,48 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponent.qml" line="58"/>
       <source>Airframe is currently not set.</source>
-      <translation type="unfinished">Airframe is currently not set.</translation>
+      <translation>目前尚未設定機架。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponent.qml" line="59"/>
       <source>Currently set to frame class &apos;%1&apos;</source>
-      <translation type="unfinished">Currently set to frame class &apos;%1&apos;</translation>
+      <translation>目前設定的機架類別為「%1」</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponent.qml" line="60"/>
       <source> and frame type &apos;%2&apos;</source>
-      <translation type="unfinished"> and frame type &apos;%2&apos;</translation>
+      <translation>，機架類型為「%2」</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponent.qml" line="61"/>
       <source>.</source>
       <comment>period for end of sentence</comment>
-      <translation type="unfinished">.</translation>
+      <translation>.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponent.qml" line="62"/>
       <source> To change this configuration, select the desired frame class below and then reboot the vehicle.</source>
-      <translation type="unfinished"> To change this configuration, select the desired frame class below and then reboot the vehicle.</translation>
+      <translation> 若要變更此設定，請在下方選擇所需的機架類別，然後重新啟動載具。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponent.qml" line="153"/>
       <source>Frame Type</source>
-      <translation type="unfinished">Frame Type</translation>
+      <translation>機架類型</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponent.qml" line="196"/>
       <source>Invalid setting for FRAME_TYPE. Click to Reset.</source>
-      <translation type="unfinished">Invalid setting for FRAME_TYPE. Click to Reset.</translation>
+      <translation>FRAME_TYPE 設定無效。按一下以重設。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponent.h" line="17"/>
       <source>Configure the airframe type that matches your vehicle.</source>
-      <translation type="unfinished">Configure the airframe type that matches your vehicle.</translation>
+      <translation>設定符合載具的機架類型。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponent.h" line="26"/>
       <source>Frame</source>
-      <translation type="unfinished">Frame</translation>
+      <translation>機架</translation>
     </message>
   </context>
   <context>
@@ -138,22 +138,22 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponentController.cc" line="107"/>
       <source>Param file github json download failed to start: %1</source>
-      <translation type="unfinished">Param file github json download failed to start: %1</translation>
+      <translation>無法開始下載 GitHub 參數檔案 JSON：%1</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponentController.cc" line="138"/>
       <source>Param file download failed to start: %1</source>
-      <translation type="unfinished">Param file download failed to start: %1</translation>
+      <translation>無法開始下載參數檔案：%1</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponentController.cc" line="143"/>
       <source>Param file github json download failed: %1</source>
-      <translation type="unfinished">Param file github json download failed: %1</translation>
+      <translation>GitHub 參數檔案 JSON 下載失敗：%1</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponentController.cc" line="153"/>
       <source>Param file download failed: %1</source>
-      <translation type="unfinished">Param file download failed: %1</translation>
+      <translation>參數檔案下載失敗：%1</translation>
     </message>
   </context>
   <context>
@@ -161,22 +161,22 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponentSummary.qml" line="25"/>
       <source>Frame Class</source>
-      <translation type="unfinished">Frame Class</translation>
+      <translation>機架類別</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponentSummary.qml" line="31"/>
       <source>Frame Type</source>
-      <translation type="unfinished">Frame Type</translation>
+      <translation>機架類型</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponentSummary.qml" line="37"/>
       <source>Firmware Version</source>
-      <translation type="unfinished">Firmware Version</translation>
+      <translation>韌體版本</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirframeComponentSummary.qml" line="38"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>未知</translation>
     </message>
   </context>
   <context>
@@ -184,162 +184,162 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="71"/>
       <source>Basic</source>
-      <translation type="unfinished">Basic</translation>
+      <translation>基本</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="75"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>進階</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="95"/>
       <source>Sensor type</source>
-      <translation type="unfinished">Sensor type</translation>
+      <translation>感測器類型</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="107"/>
       <source>Use airspeed</source>
-      <translation type="unfinished">Use airspeed</translation>
+      <translation>使用空速</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="116"/>
       <source>Airspeed ratio</source>
-      <translation type="unfinished">Airspeed ratio</translation>
+      <translation>空速比例係數</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="125"/>
       <source>Auto calibrate ratio in flight</source>
-      <translation type="unfinished">Auto calibrate ratio in flight</translation>
+      <translation>飛行中自動校正比例係數</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="136"/>
       <source>Primary Airspeed Sensor</source>
-      <translation type="unfinished">Primary Airspeed Sensor</translation>
+      <translation>主要空速感測器</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="149"/>
       <source>Second Airspeed Sensor</source>
-      <translation type="unfinished">Second Airspeed Sensor</translation>
+      <translation>第二空速感測器</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="162"/>
       <source>Multi-Sensor Options</source>
-      <translation type="unfinished">Multi-Sensor Options</translation>
+      <translation>多感測器選項</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="169"/>
       <source>Primary sensor</source>
-      <translation type="unfinished">Primary sensor</translation>
+      <translation>主要感測器</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="182"/>
       <source>Airspeed Limits</source>
-      <translation type="unfinished">Airspeed Limits</translation>
+      <translation>空速限制</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="189"/>
       <source>Cruise airspeed</source>
-      <translation type="unfinished">Cruise airspeed</translation>
+      <translation>巡航空速</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="198"/>
       <source>Minimum airspeed</source>
-      <translation type="unfinished">Minimum airspeed</translation>
+      <translation>最低空速</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="207"/>
       <source>Maximum airspeed</source>
-      <translation type="unfinished">Maximum airspeed</translation>
+      <translation>最高空速</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="216"/>
       <source>Stall airspeed</source>
-      <translation type="unfinished">Stall airspeed</translation>
+      <translation>失速空速</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="248"/>
       <source>Airspeed offset</source>
-      <translation type="unfinished">Airspeed offset</translation>
+      <translation>空速偏移量</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="257"/>
       <source>Skip calibration</source>
-      <translation type="unfinished">Skip calibration</translation>
+      <translation>略過校正</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="266"/>
       <source>Pitot tube order</source>
-      <translation type="unfinished">Pitot tube order</translation>
+      <translation>皮托管接管順序</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="275"/>
       <source>Analog pin</source>
-      <translation type="unfinished">Analog pin</translation>
+      <translation>類比接腳</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="284"/>
       <source>I2C bus</source>
-      <translation type="unfinished">I2C bus</translation>
+      <translation>I2C 匯流排</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="293"/>
       <source>PSI range</source>
-      <translation type="unfinished">PSI range</translation>
+      <translation>壓力範圍（PSI）</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="306"/>
       <source>Sensor Settings</source>
-      <translation type="unfinished">Sensor Settings</translation>
+      <translation>感測器設定</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="317"/>
       <source>Primary Sensor</source>
-      <translation type="unfinished">Primary Sensor</translation>
+      <translation>主要感測器</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="325"/>
       <source>Second Sensor</source>
-      <translation type="unfinished">Second Sensor</translation>
+      <translation>第二感測器</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="333"/>
       <source>Health Monitoring</source>
-      <translation type="unfinished">Health Monitoring</translation>
+      <translation>健康狀態監控</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="340"/>
       <source>Max airspeed/groundspeed difference</source>
-      <translation type="unfinished">Max airspeed/groundspeed difference</translation>
+      <translation>空速與地速的最大差值</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="349"/>
       <source>Warning threshold</source>
-      <translation type="unfinished">Warning threshold</translation>
+      <translation>警告門檻</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="358"/>
       <source>Re-enable gate size</source>
-      <translation type="unfinished">Re-enable gate size</translation>
+      <translation>重新啟用一致性檢查閘限</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="367"/>
       <source>Offset calibration error warning</source>
-      <translation type="unfinished">Offset calibration error warning</translation>
+      <translation>偏移量校正誤差警告</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.qml" line="380"/>
       <source>Airspeed Options</source>
-      <translation type="unfinished">Airspeed Options</translation>
+      <translation>空速選項</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.h" line="15"/>
       <source>Configure airspeed sensor type and calibration.</source>
-      <translation type="unfinished">Configure airspeed sensor type and calibration.</translation>
+      <translation>設定空速感測器類型與校正。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponent.h" line="24"/>
       <source>Airspeed</source>
-      <translation type="unfinished">Airspeed</translation>
+      <translation>空速</translation>
     </message>
   </context>
   <context>
@@ -347,7 +347,7 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponentSummary.qml" line="34"/>
       <source>Sensor type</source>
-      <translation type="unfinished">Sensor type</translation>
+      <translation>感測器類型</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponentSummary.qml" line="35"/>
@@ -355,22 +355,22 @@
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponentSummary.qml" line="46"/>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponentSummary.qml" line="52"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>不適用</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponentSummary.qml" line="39"/>
       <source>Use airspeed</source>
-      <translation type="unfinished">Use airspeed</translation>
+      <translation>使用空速</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponentSummary.qml" line="45"/>
       <source>Sensor 2 type</source>
-      <translation type="unfinished">Sensor 2 type</translation>
+      <translation>感測器 2 類型</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAirspeedComponentSummary.qml" line="51"/>
       <source>Cruise airspeed</source>
-      <translation type="unfinished">Cruise airspeed</translation>
+      <translation>巡航空速</translation>
     </message>
   </context>
   <context>
@@ -378,7 +378,7 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAutoPilotPlugin.cc" line="268"/>
       <source>WARNING: The flight board you are using has a critical service bulletin against it which advises against flying. For details see: https://discuss.cubepilot.org/t/sb-0000002-critical-service-bulletin-for-cubes-purchased-between-january-2019-to-present-do-not-fly/406</source>
-      <translation type="unfinished">WARNING: The flight board you are using has a critical service bulletin against it which advises against flying. For details see: https://discuss.cubepilot.org/t/sb-0000002-critical-service-bulletin-for-cubes-purchased-between-january-2019-to-present-do-not-fly/406</translation>
+      <translation>警告：您使用的飛控板有重大服務公告，建議停止飛行。詳情請參閱：https://discuss.cubepilot.org/t/sb-0000002-critical-service-bulletin-for-cubes-purchased-between-january-2019-to-present-do-not-fly/406</translation>
     </message>
   </context>
   <context>
@@ -386,42 +386,42 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAutoTuneChannelSelector.qml" line="63"/>
       <source>Channel for AutoTune switch:</source>
-      <translation type="unfinished">Channel for AutoTune switch:</translation>
+      <translation>自動調校開關通道：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAutoTuneChannelSelector.qml" line="64"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>無</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAutoTuneChannelSelector.qml" line="64"/>
       <source>Channel 7</source>
-      <translation type="unfinished">Channel 7</translation>
+      <translation>通道7</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAutoTuneChannelSelector.qml" line="64"/>
       <source>Channel 8</source>
-      <translation type="unfinished">Channel 8</translation>
+      <translation>通道8</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAutoTuneChannelSelector.qml" line="64"/>
       <source>Channel 9</source>
-      <translation type="unfinished">Channel 9</translation>
+      <translation>通道9</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAutoTuneChannelSelector.qml" line="64"/>
       <source>Channel 10</source>
-      <translation type="unfinished">Channel 10</translation>
+      <translation>通道10</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAutoTuneChannelSelector.qml" line="64"/>
       <source>Channel 11</source>
-      <translation type="unfinished">Channel 11</translation>
+      <translation>通道11</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMAutoTuneChannelSelector.qml" line="64"/>
       <source>Channel 12</source>
-      <translation type="unfinished">Channel 12</translation>
+      <translation>通道12</translation>
     </message>
   </context>
   <context>
@@ -429,35 +429,35 @@
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMBatteryIndicator.qml" line="12"/>
       <source>- disabled</source>
-      <translation type="unfinished">- disabled</translation>
+      <translation>- 已停用</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMBatteryIndicator.qml" line="16"/>
       <source>Low Voltage Failsafe</source>
-      <translation type="unfinished">Low Voltage Failsafe</translation>
+      <translation>低電壓失效保護</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMBatteryIndicator.qml" line="20"/>
       <location filename="../src/FirmwarePlugin/APM/APMBatteryIndicator.qml" line="50"/>
       <source>Vehicle Action</source>
-      <translation type="unfinished">Vehicle Action</translation>
+      <translation>載具動作</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMBatteryIndicator.qml" line="27"/>
       <location filename="../src/FirmwarePlugin/APM/APMBatteryIndicator.qml" line="57"/>
       <source>Voltage Trigger</source>
-      <translation type="unfinished">Voltage Trigger</translation>
+      <translation>電壓觸發門檻</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMBatteryIndicator.qml" line="36"/>
       <location filename="../src/FirmwarePlugin/APM/APMBatteryIndicator.qml" line="66"/>
       <source>mAh Trigger</source>
-      <translation type="unfinished">mAh Trigger</translation>
+      <translation>電量觸發門檻（mAh）</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMBatteryIndicator.qml" line="46"/>
       <source>Critical Voltage Failsafe</source>
-      <translation type="unfinished">Critical Voltage Failsafe</translation>
+      <translation>嚴重低電壓失效保護</translation>
     </message>
   </context>
   <context>
@@ -465,37 +465,37 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMCalcAmpsPerVoltDialog.qml" line="10"/>
       <source>Calculate Amps per Volt</source>
-      <translation type="unfinished">Calculate Amps per Volt</translation>
+      <translation>計算每伏特安培數</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMCalcAmpsPerVoltDialog.qml" line="29"/>
       <source>Measure current draw using an external current meter and enter the value below. Click Calculate to set the new amps per volt value.</source>
-      <translation type="unfinished">Measure current draw using an external current meter and enter the value below. Click Calculate to set the new amps per volt value.</translation>
+      <translation>使用外接電流計量測電流消耗，並在下方輸入數值。按一下「計算」，設定新的每伏特安培數。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMCalcAmpsPerVoltDialog.qml" line="36"/>
       <source>Vehicle current telemetry is not available. Connect to a vehicle with a powered battery to enable automatic calculation.</source>
-      <translation type="unfinished">Vehicle current telemetry is not available. Connect to a vehicle with a powered battery to enable automatic calculation.</translation>
+      <translation>無法取得載具的電流遙測資料。請連接已接上電池並供電的載具，以啟用自動計算。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMCalcAmpsPerVoltDialog.qml" line="44"/>
       <source>Measured current:</source>
-      <translation type="unfinished">Measured current:</translation>
+      <translation>量測電流：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMCalcAmpsPerVoltDialog.qml" line="48"/>
       <source>Vehicle current:</source>
-      <translation type="unfinished">Vehicle current:</translation>
+      <translation>載具電流：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMCalcAmpsPerVoltDialog.qml" line="56"/>
       <source>Amps per volt:</source>
-      <translation type="unfinished">Amps per volt:</translation>
+      <translation>每伏特安培數：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMCalcAmpsPerVoltDialog.qml" line="61"/>
       <source>Calculate And Set</source>
-      <translation type="unfinished">Calculate And Set</translation>
+      <translation>計算並設定</translation>
     </message>
   </context>
   <context>
@@ -503,37 +503,37 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMCalcVoltageDividerDialog.qml" line="10"/>
       <source>Calculate Voltage Multiplier</source>
-      <translation type="unfinished">Calculate Voltage Multiplier</translation>
+      <translation>計算電壓倍率</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMCalcVoltageDividerDialog.qml" line="29"/>
       <source>Measure battery voltage using an external voltmeter and enter the value below. Click Calculate to set the new adjusted voltage multiplier.</source>
-      <translation type="unfinished">Measure battery voltage using an external voltmeter and enter the value below. Click Calculate to set the new adjusted voltage multiplier.</translation>
+      <translation>使用外接電壓計量測電池電壓，並在下方輸入數值。按一下「計算」，設定調整後的新電壓倍率。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMCalcVoltageDividerDialog.qml" line="36"/>
       <source>Vehicle voltage telemetry is not available. Connect to a vehicle with a powered battery to enable automatic calculation.</source>
-      <translation type="unfinished">Vehicle voltage telemetry is not available. Connect to a vehicle with a powered battery to enable automatic calculation.</translation>
+      <translation>無法取得載具的電壓遙測資料。請連接已接上電池並供電的載具，以啟用自動計算。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMCalcVoltageDividerDialog.qml" line="44"/>
       <source>Measured voltage:</source>
-      <translation type="unfinished">Measured voltage:</translation>
+      <translation>量測電壓：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMCalcVoltageDividerDialog.qml" line="48"/>
       <source>Vehicle voltage:</source>
-      <translation type="unfinished">Vehicle voltage:</translation>
+      <translation>載具電壓：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMCalcVoltageDividerDialog.qml" line="56"/>
       <source>Voltage multiplier:</source>
-      <translation type="unfinished">Voltage multiplier:</translation>
+      <translation>電壓倍率：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMCalcVoltageDividerDialog.qml" line="61"/>
       <source>Calculate And Set</source>
-      <translation type="unfinished">Calculate And Set</translation>
+      <translation>計算並設定</translation>
     </message>
   </context>
   <context>
@@ -541,767 +541,767 @@
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="128"/>
       <source>Main</source>
-      <translation type="unfinished">Main</translation>
+      <translation>主要</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="129"/>
       <source>Radio</source>
-      <translation type="unfinished">Radio</translation>
+      <translation>遙控器</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="130"/>
       <source>Compass</source>
-      <translation type="unfinished">Compass</translation>
+      <translation>羅盤</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="131"/>
       <source>Optflow</source>
-      <translation type="unfinished">Optflow</translation>
+      <translation>光流</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="132"/>
       <source>Radio Failsafe</source>
-      <translation type="unfinished">Radio Failsafe</translation>
+      <translation>遙控失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="133"/>
       <source>Battery Failsafe</source>
-      <translation type="unfinished">Battery Failsafe</translation>
+      <translation>電池失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="134"/>
       <source>GPS Failsafe</source>
-      <translation type="unfinished">GPS Failsafe</translation>
+      <translation>GPS 失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="135"/>
       <source>GCS Failsafe</source>
-      <translation type="unfinished">GCS Failsafe</translation>
+      <translation>地面站失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="136"/>
       <source>Fence Failsafe</source>
-      <translation type="unfinished">Fence Failsafe</translation>
+      <translation>圍籬失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="137"/>
       <source>Flight mode</source>
-      <translation type="unfinished">Flight mode</translation>
+      <translation>飛行模式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="138"/>
       <source>GPS</source>
-      <translation type="unfinished">GPS</translation>
+      <translation>GPS</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="139"/>
       <source>Crash Check</source>
-      <translation type="unfinished">Crash Check</translation>
+      <translation>墜毀檢查</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="140"/>
       <source>Flip</source>
-      <translation type="unfinished">Flip</translation>
+      <translation>翻轉</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="141"/>
       <source>Autotune</source>
-      <translation type="unfinished">Autotune</translation>
+      <translation>自動調校</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="142"/>
       <source>Parachute</source>
-      <translation type="unfinished">Parachute</translation>
+      <translation>降落傘</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="143"/>
       <source>EKF Check</source>
-      <translation type="unfinished">EKF Check</translation>
+      <translation>EKF 檢查</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="144"/>
       <source>EKF Failsafe</source>
-      <translation type="unfinished">EKF Failsafe</translation>
+      <translation>EKF 失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="145"/>
       <source>Barometer</source>
-      <translation type="unfinished">Barometer</translation>
+      <translation>氣壓計</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="146"/>
       <source>CPU Load Watchdog</source>
-      <translation type="unfinished">CPU Load Watchdog</translation>
+      <translation>CPU 負載看門狗</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="147"/>
       <source>ADSB Failsafe</source>
-      <translation type="unfinished">ADSB Failsafe</translation>
+      <translation>ADSB 失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="148"/>
       <source>Terrain Data</source>
-      <translation type="unfinished">Terrain Data</translation>
+      <translation>地形資料</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="149"/>
       <source>Navigation</source>
-      <translation type="unfinished">Navigation</translation>
+      <translation>導航</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="150"/>
       <source>Terrain Failsafe</source>
-      <translation type="unfinished">Terrain Failsafe</translation>
+      <translation>地形失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="151"/>
       <source>EKF Primary</source>
-      <translation type="unfinished">EKF Primary</translation>
+      <translation>主要 EKF</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="152"/>
       <source>Thrust Loss Check</source>
-      <translation type="unfinished">Thrust Loss Check</translation>
+      <translation>推力損失檢查</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="153"/>
       <source>Sensor Failsafe</source>
-      <translation type="unfinished">Sensor Failsafe</translation>
+      <translation>感測器失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="154"/>
       <source>Leak Failsafe</source>
-      <translation type="unfinished">Leak Failsafe</translation>
+      <translation>漏水失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="155"/>
       <source>Pilot Input</source>
-      <translation type="unfinished">Pilot Input</translation>
+      <translation>駕駛員輸入</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="156"/>
       <source>Vibration Failsafe</source>
-      <translation type="unfinished">Vibration Failsafe</translation>
+      <translation>振動失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="157"/>
       <source>Internal Error</source>
-      <translation type="unfinished">Internal Error</translation>
+      <translation>內部錯誤</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="158"/>
       <source>Deadreckon Failsafe</source>
-      <translation type="unfinished">Deadreckon Failsafe</translation>
+      <translation>航位推算失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="159"/>
       <source>Subsystem %1</source>
-      <translation type="unfinished">Subsystem %1</translation>
+      <translation>子系統 %1</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="165"/>
       <source>INS delay</source>
-      <translation type="unfinished">INS delay</translation>
+      <translation>慣性導航延遲</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="168"/>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="172"/>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="220"/>
       <source>Errors Resolved</source>
-      <translation type="unfinished">Errors Resolved</translation>
+      <translation>錯誤已排除</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="169"/>
       <source>Late Frame</source>
-      <translation type="unfinished">Late Frame</translation>
+      <translation>影格延遲</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="173"/>
       <source>Failed to initialise</source>
-      <translation type="unfinished">Failed to initialise</translation>
+      <translation>初始化失敗</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="174"/>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="223"/>
       <source>Unhealthy</source>
-      <translation type="unfinished">Unhealthy</translation>
+      <translation>狀態異常</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="187"/>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="191"/>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="226"/>
       <source>Failsafe Resolved</source>
-      <translation type="unfinished">Failsafe Resolved</translation>
+      <translation>失效保護已解除</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="188"/>
       <source>Failsafe Triggered</source>
-      <translation type="unfinished">Failsafe Triggered</translation>
+      <translation>已觸發失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="192"/>
       <source>Altitude fence breach</source>
-      <translation type="unfinished">Altitude fence breach</translation>
+      <translation>超出高度圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="193"/>
       <source>Circular fence breach</source>
-      <translation type="unfinished">Circular fence breach</translation>
+      <translation>超出圓形圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="194"/>
       <source>Altitude and circular fence breach</source>
-      <translation type="unfinished">Altitude and circular fence breach</translation>
+      <translation>超出高度與圓形圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="195"/>
       <source>Polygon fence breach</source>
-      <translation type="unfinished">Polygon fence breach</translation>
+      <translation>超出多邊形圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="198"/>
       <source>Flight mode change failure</source>
-      <translation type="unfinished">Flight mode change failure</translation>
+      <translation>飛行模式切換失敗</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="201"/>
       <source>Glitch cleared</source>
-      <translation type="unfinished">Glitch cleared</translation>
+      <translation>異常已消除</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="202"/>
       <source>GPS glitch occurred</source>
-      <translation type="unfinished">GPS glitch occurred</translation>
+      <translation>GPS 發生異常</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="205"/>
       <source>Crash into ground detected</source>
-      <translation type="unfinished">Crash into ground detected</translation>
+      <translation>偵測到撞擊地面</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="206"/>
       <source>Loss of control detected</source>
-      <translation type="unfinished">Loss of control detected</translation>
+      <translation>偵測到失控</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="209"/>
       <source>Flip abandoned</source>
-      <translation type="unfinished">Flip abandoned</translation>
+      <translation>已放棄翻轉</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="212"/>
       <source>Parachute not deployed (too low)</source>
-      <translation type="unfinished">Parachute not deployed (too low)</translation>
+      <translation>降落傘未展開（高度過低）</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="213"/>
       <source>Parachute not deployed (landed)</source>
-      <translation type="unfinished">Parachute not deployed (landed)</translation>
+      <translation>降落傘未展開（已著陸）</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="216"/>
       <source>Variance cleared</source>
-      <translation type="unfinished">Variance cleared</translation>
+      <translation>變異數已恢復正常</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="217"/>
       <source>Bad variance</source>
-      <translation type="unfinished">Bad variance</translation>
+      <translation>變異數異常</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="221"/>
       <source>Baro glitch</source>
-      <translation type="unfinished">Baro glitch</translation>
+      <translation>氣壓計異常</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="222"/>
       <source>Bad depth</source>
-      <translation type="unfinished">Bad depth</translation>
+      <translation>深度異常</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="227"/>
       <source>No action report only</source>
-      <translation type="unfinished">No action report only</translation>
+      <translation>僅回報，不採取動作</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="228"/>
       <source>Avoid by climb/descend</source>
-      <translation type="unfinished">Avoid by climb/descend</translation>
+      <translation>以爬升／下降避讓</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="229"/>
       <source>Avoid by horizontal move</source>
-      <translation type="unfinished">Avoid by horizontal move</translation>
+      <translation>以水平移動避讓</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="230"/>
       <source>Avoid perpendicular move</source>
-      <translation type="unfinished">Avoid perpendicular move</translation>
+      <translation>以垂直於航向的移動避讓</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="231"/>
       <source>RTL invoked</source>
-      <translation type="unfinished">RTL invoked</translation>
+      <translation>已啟動返航</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="234"/>
       <source>Missing terrain data</source>
-      <translation type="unfinished">Missing terrain data</translation>
+      <translation>缺少地形資料</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="237"/>
       <source>Failed to set destination</source>
-      <translation type="unfinished">Failed to set destination</translation>
+      <translation>無法設定目的地</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="238"/>
       <source>RTL restarted</source>
-      <translation type="unfinished">RTL restarted</translation>
+      <translation>已重新啟動返航</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="239"/>
       <source>Circle initialisation failed</source>
-      <translation type="unfinished">Circle initialisation failed</translation>
+      <translation>繞圈模式初始化失敗</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="240"/>
       <source>Destination outside fence</source>
-      <translation type="unfinished">Destination outside fence</translation>
+      <translation>目的地位於圍籬外</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="241"/>
       <source>RTL missing rangefinder</source>
-      <translation type="unfinished">RTL missing rangefinder</translation>
+      <translation>返航缺少測距儀</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="244"/>
       <source>1st EKF became primary</source>
-      <translation type="unfinished">1st EKF became primary</translation>
+      <translation>第 1 組 EKF 已成為主要來源</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="245"/>
       <source>2nd EKF became primary</source>
-      <translation type="unfinished">2nd EKF became primary</translation>
+      <translation>第 2 組 EKF 已成為主要來源</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="248"/>
       <source>Thrust restored</source>
-      <translation type="unfinished">Thrust restored</translation>
+      <translation>推力已恢復</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="249"/>
       <source>Thrust loss detected</source>
-      <translation type="unfinished">Thrust loss detected</translation>
+      <translation>偵測到推力損失</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="252"/>
       <source>Excessive vibration compensation de-activated</source>
-      <translation type="unfinished">Excessive vibration compensation de-activated</translation>
+      <translation>已停用過度振動補償</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="253"/>
       <source>Excessive vibration compensation activated</source>
-      <translation type="unfinished">Excessive vibration compensation activated</translation>
+      <translation>已啟用過度振動補償</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="256"/>
       <source>Internal errors detected</source>
-      <translation type="unfinished">Internal errors detected</translation>
+      <translation>偵測到內部錯誤</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="263"/>
       <source>Code %1</source>
-      <translation type="unfinished">Code %1</translation>
+      <translation>代碼 %1</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="272"/>
       <source>Armed</source>
-      <translation type="unfinished">Armed</translation>
+      <translation>已解鎖</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="273"/>
       <source>Disarmed</source>
-      <translation type="unfinished">Disarmed</translation>
+      <translation>已上鎖</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="274"/>
       <source>Auto Armed</source>
-      <translation type="unfinished">Auto Armed</translation>
+      <translation>已自動解鎖</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="275"/>
       <source>Land Complete Maybe</source>
-      <translation type="unfinished">Land Complete Maybe</translation>
+      <translation>可能已完成降落</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="276"/>
       <source>Land Complete</source>
-      <translation type="unfinished">Land Complete</translation>
+      <translation>已完成降落</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="277"/>
       <source>Lost GPS</source>
-      <translation type="unfinished">Lost GPS</translation>
+      <translation>GPS 訊號遺失</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="278"/>
       <source>Flip Start</source>
-      <translation type="unfinished">Flip Start</translation>
+      <translation>開始翻轉</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="279"/>
       <source>Flip End</source>
-      <translation type="unfinished">Flip End</translation>
+      <translation>結束翻轉</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="280"/>
       <source>Set Home</source>
-      <translation type="unfinished">Set Home</translation>
+      <translation>設定返航點</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="281"/>
       <source>Simple Mode Enabled</source>
-      <translation type="unfinished">Simple Mode Enabled</translation>
+      <translation>已啟用簡易模式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="282"/>
       <source>Simple Mode Disabled</source>
-      <translation type="unfinished">Simple Mode Disabled</translation>
+      <translation>已停用簡易模式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="283"/>
       <source>Not Landed</source>
-      <translation type="unfinished">Not Landed</translation>
+      <translation>尚未著陸</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="284"/>
       <source>Super Simple Mode Enabled</source>
-      <translation type="unfinished">Super Simple Mode Enabled</translation>
+      <translation>已啟用超級簡易模式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="285"/>
       <source>AutoTune Initialised</source>
-      <translation type="unfinished">AutoTune Initialised</translation>
+      <translation>自動調校已初始化</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="286"/>
       <source>AutoTune Off</source>
-      <translation type="unfinished">AutoTune Off</translation>
+      <translation>自動調校已關閉</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="287"/>
       <source>AutoTune Restart</source>
-      <translation type="unfinished">AutoTune Restart</translation>
+      <translation>重新啟動自動調校</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="288"/>
       <source>AutoTune Success</source>
-      <translation type="unfinished">AutoTune Success</translation>
+      <translation>自動調校成功</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="289"/>
       <source>AutoTune Failed</source>
-      <translation type="unfinished">AutoTune Failed</translation>
+      <translation>自動調校失敗</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="290"/>
       <source>AutoTune Reached Limit</source>
-      <translation type="unfinished">AutoTune Reached Limit</translation>
+      <translation>自動調校已達限制</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="291"/>
       <source>AutoTune Pilot Testing</source>
-      <translation type="unfinished">AutoTune Pilot Testing</translation>
+      <translation>自動調校駕駛員測試</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="292"/>
       <source>AutoTune Saved Gains</source>
-      <translation type="unfinished">AutoTune Saved Gains</translation>
+      <translation>自動調校增益已儲存</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="293"/>
       <source>Save Trim</source>
-      <translation type="unfinished">Save Trim</translation>
+      <translation>儲存微調值</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="294"/>
       <source>Save Waypoint Add</source>
-      <translation type="unfinished">Save Waypoint Add</translation>
+      <translation>新增並儲存航點</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="295"/>
       <source>Fence Enabled</source>
-      <translation type="unfinished">Fence Enabled</translation>
+      <translation>已啟用圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="296"/>
       <source>Fence Disabled</source>
-      <translation type="unfinished">Fence Disabled</translation>
+      <translation>已停用圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="297"/>
       <source>Acro Trainer Off</source>
-      <translation type="unfinished">Acro Trainer Off</translation>
+      <translation>已關閉特技訓練模式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="298"/>
       <source>Acro Trainer Leveling</source>
-      <translation type="unfinished">Acro Trainer Leveling</translation>
+      <translation>特技訓練自動回平</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="299"/>
       <source>Acro Trainer Limited</source>
-      <translation type="unfinished">Acro Trainer Limited</translation>
+      <translation>特技訓練角度限制</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="300"/>
       <source>Gripper Grab</source>
-      <translation type="unfinished">Gripper Grab</translation>
+      <translation>夾爪夾取</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="301"/>
       <source>Gripper Release</source>
-      <translation type="unfinished">Gripper Release</translation>
+      <translation>夾爪釋放</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="302"/>
       <source>Parachute Disabled</source>
-      <translation type="unfinished">Parachute Disabled</translation>
+      <translation>已停用降落傘</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="303"/>
       <source>Parachute Enabled</source>
-      <translation type="unfinished">Parachute Enabled</translation>
+      <translation>已啟用降落傘</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="304"/>
       <source>Parachute Released</source>
-      <translation type="unfinished">Parachute Released</translation>
+      <translation>降落傘已釋放</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="305"/>
       <source>Landing Gear Deployed</source>
-      <translation type="unfinished">Landing Gear Deployed</translation>
+      <translation>起落架已放下</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="306"/>
       <source>Landing Gear Retracted</source>
-      <translation type="unfinished">Landing Gear Retracted</translation>
+      <translation>起落架已收起</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="307"/>
       <source>Motors Emergency Stopped</source>
-      <translation type="unfinished">Motors Emergency Stopped</translation>
+      <translation>馬達已緊急停止</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="308"/>
       <source>Motors Emergency Stop Cleared</source>
-      <translation type="unfinished">Motors Emergency Stop Cleared</translation>
+      <translation>馬達緊急停止已解除</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="309"/>
       <source>Motors Interlock Disabled</source>
-      <translation type="unfinished">Motors Interlock Disabled</translation>
+      <translation>已停用馬達互鎖</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="310"/>
       <source>Motors Interlock Enabled</source>
-      <translation type="unfinished">Motors Interlock Enabled</translation>
+      <translation>已啟用馬達互鎖</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="311"/>
       <source>Rotor Runup Complete</source>
-      <translation type="unfinished">Rotor Runup Complete</translation>
+      <translation>旋翼加速完成</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="312"/>
       <source>Rotor Speed Below Critical</source>
-      <translation type="unfinished">Rotor Speed Below Critical</translation>
+      <translation>旋翼轉速低於臨界值</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="313"/>
       <source>EKF Altitude Reset</source>
-      <translation type="unfinished">EKF Altitude Reset</translation>
+      <translation>EKF 高度已重設</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="314"/>
       <source>Land Cancelled By Pilot</source>
-      <translation type="unfinished">Land Cancelled By Pilot</translation>
+      <translation>駕駛員已取消降落</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="315"/>
       <source>EKF Yaw Reset</source>
-      <translation type="unfinished">EKF Yaw Reset</translation>
+      <translation>EKF 偏航已重設</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="316"/>
       <source>ADSB Avoidance Enabled</source>
-      <translation type="unfinished">ADSB Avoidance Enabled</translation>
+      <translation>已啟用 ADSB 避讓</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="317"/>
       <source>ADSB Avoidance Disabled</source>
-      <translation type="unfinished">ADSB Avoidance Disabled</translation>
+      <translation>已停用 ADSB 避讓</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="318"/>
       <source>Proximity Avoidance Enabled</source>
-      <translation type="unfinished">Proximity Avoidance Enabled</translation>
+      <translation>已啟用近接避障</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="319"/>
       <source>Proximity Avoidance Disabled</source>
-      <translation type="unfinished">Proximity Avoidance Disabled</translation>
+      <translation>已停用近接避障</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="320"/>
       <source>GPS Primary Changed</source>
-      <translation type="unfinished">GPS Primary Changed</translation>
+      <translation>主要 GPS 已變更</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="321"/>
       <source>ZigZag Store A</source>
-      <translation type="unfinished">ZigZag Store A</translation>
+      <translation>之字形航線 A 點已儲存</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="322"/>
       <source>ZigZag Store B</source>
-      <translation type="unfinished">ZigZag Store B</translation>
+      <translation>之字形航線 B 點已儲存</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="323"/>
       <source>Land Repo Active</source>
-      <translation type="unfinished">Land Repo Active</translation>
+      <translation>已啟用降落位置調整</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="324"/>
       <source>Standby Enabled</source>
-      <translation type="unfinished">Standby Enabled</translation>
+      <translation>已啟用待命模式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="325"/>
       <source>Standby Disabled</source>
-      <translation type="unfinished">Standby Disabled</translation>
+      <translation>已停用待命模式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="326"/>
       <source>Fence Alt Max Enabled</source>
-      <translation type="unfinished">Fence Alt Max Enabled</translation>
+      <translation>已啟用最高高度圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="327"/>
       <source>Fence Alt Max Disabled</source>
-      <translation type="unfinished">Fence Alt Max Disabled</translation>
+      <translation>已停用最高高度圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="328"/>
       <source>Fence Circle Enabled</source>
-      <translation type="unfinished">Fence Circle Enabled</translation>
+      <translation>已啟用圓形圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="329"/>
       <source>Fence Circle Disabled</source>
-      <translation type="unfinished">Fence Circle Disabled</translation>
+      <translation>已停用圓形圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="330"/>
       <source>Fence Alt Min Enabled</source>
-      <translation type="unfinished">Fence Alt Min Enabled</translation>
+      <translation>已啟用最低高度圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="331"/>
       <source>Fence Alt Min Disabled</source>
-      <translation type="unfinished">Fence Alt Min Disabled</translation>
+      <translation>已停用最低高度圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="332"/>
       <source>Fence Polygon Enabled</source>
-      <translation type="unfinished">Fence Polygon Enabled</translation>
+      <translation>已啟用多邊形圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="333"/>
       <source>Fence Polygon Disabled</source>
-      <translation type="unfinished">Fence Polygon Disabled</translation>
+      <translation>已停用多邊形圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="334"/>
       <source>EK3 Source Set: Primary</source>
-      <translation type="unfinished">EK3 Source Set: Primary</translation>
+      <translation>EK3 來源組：第一組</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="335"/>
       <source>EK3 Source Set: Secondary</source>
-      <translation type="unfinished">EK3 Source Set: Secondary</translation>
+      <translation>EK3 來源組：第二組</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="336"/>
       <source>EK3 Source Set: Tertiary</source>
-      <translation type="unfinished">EK3 Source Set: Tertiary</translation>
+      <translation>EK3 來源組：第三組</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="337"/>
       <source>Airspeed Primary Changed</source>
-      <translation type="unfinished">Airspeed Primary Changed</translation>
+      <translation>主要空速來源已變更</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="338"/>
       <source>Surfaced</source>
-      <translation type="unfinished">Surfaced</translation>
+      <translation>已浮出水面</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="339"/>
       <source>Not Surfaced</source>
-      <translation type="unfinished">Not Surfaced</translation>
+      <translation>尚未浮出水面</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="340"/>
       <source>Bottomed</source>
-      <translation type="unfinished">Bottomed</translation>
+      <translation>已觸底</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="341"/>
       <source>Not Bottomed</source>
-      <translation type="unfinished">Not Bottomed</translation>
+      <translation>尚未觸底</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="342"/>
       <source>Event %1</source>
-      <translation type="unfinished">Event %1</translation>
+      <translation>事件 %1</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="380"/>
       <source>Failed to open DataFlash file</source>
-      <translation type="unfinished">Failed to open DataFlash file</translation>
+      <translation>無法開啟 DataFlash 檔案</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="386"/>
       <source>DataFlash file is empty</source>
-      <translation type="unfinished">DataFlash file is empty</translation>
+      <translation>DataFlash 檔案為空</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="390"/>
       <source>DataFlash file is too large to parse</source>
-      <translation type="unfinished">DataFlash file is too large to parse</translation>
+      <translation>DataFlash 檔案過大，無法剖析</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="396"/>
       <source>Failed to memory-map DataFlash file</source>
-      <translation type="unfinished">Failed to memory-map DataFlash file</translation>
+      <translation>無法對 DataFlash 檔案建立記憶體對映</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="415"/>
       <source>No valid FMT messages were found</source>
-      <translation type="unfinished">No valid FMT messages were found</translation>
+      <translation>找不到有效的 FMT 訊息</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="485"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>未知</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/APMDataFlashLogParser.cc" line="487"/>
       <source>Mode: %1</source>
-      <translation type="unfinished">Mode: %1</translation>
+      <translation>模式：%1</translation>
     </message>
   </context>
   <context>
@@ -1309,127 +1309,127 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="52"/>
       <source>Requires vehicle reboot</source>
-      <translation type="unfinished">Requires vehicle reboot</translation>
+      <translation>需要重新啟動載具</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="59"/>
       <source>Configuration</source>
-      <translation type="unfinished">Configuration</translation>
+      <translation>設定</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="66"/>
       <source>Output type</source>
-      <translation type="unfinished">Output type</translation>
+      <translation>輸出類型</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="78"/>
       <source>Output PWM min</source>
-      <translation type="unfinished">Output PWM min</translation>
+      <translation>輸出 PWM 最小值</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="85"/>
       <source>Output PWM max</source>
-      <translation type="unfinished">Output PWM max</translation>
+      <translation>輸出 PWM 最大值</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="92"/>
       <source>Spin when armed</source>
-      <translation type="unfinished">Spin when armed</translation>
+      <translation>解鎖時轉速</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="99"/>
       <source>Spin minimum</source>
-      <translation type="unfinished">Spin minimum</translation>
+      <translation>最低轉速</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="106"/>
       <source>Spin maximum</source>
-      <translation type="unfinished">Spin maximum</translation>
+      <translation>最高轉速</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="114"/>
       <source>DShot ESC type</source>
-      <translation type="unfinished">DShot ESC type</translation>
+      <translation>DShot 電子變速器類型</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="122"/>
       <source>DShot output rate</source>
-      <translation type="unfinished">DShot output rate</translation>
+      <translation>DShot 輸出頻率</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="132"/>
       <source>Calibration</source>
-      <translation type="unfinished">Calibration</translation>
+      <translation>校正</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="139"/>
       <source>WARNING: Remove props prior to calibration!</source>
-      <translation type="unfinished">WARNING: Remove props prior to calibration!</translation>
+      <translation>警告：校正前請先拆下螺旋槳！</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="147"/>
       <source>Calibrate</source>
-      <translation type="unfinished">Calibrate</translation>
+      <translation>校正</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="154"/>
       <source>Now perform these steps:</source>
-      <translation type="unfinished">Now perform these steps:</translation>
+      <translation>接著執行以下步驟：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="154"/>
       <source>Click Calibrate to start, then:</source>
-      <translation type="unfinished">Click Calibrate to start, then:</translation>
+      <translation>按一下「校正」開始，然後：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="155"/>
       <source>- Disconnect USB and battery so flight controller powers down</source>
-      <translation type="unfinished">- Disconnect USB and battery so flight controller powers down</translation>
+      <translation>- 拔除 USB 與電池，使飛控斷電</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="156"/>
       <source>- Connect the battery</source>
-      <translation type="unfinished">- Connect the battery</translation>
+      <translation>- 接上電池</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="157"/>
       <source>- The arming tone will be played (if the vehicle has a buzzer attached)</source>
-      <translation type="unfinished">- The arming tone will be played (if the vehicle has a buzzer attached)</translation>
+      <translation>- 將播放解鎖提示音（若載具已安裝蜂鳴器）</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="158"/>
       <source>- If using a flight controller with a safety button press it until it displays solid red</source>
-      <translation type="unfinished">- If using a flight controller with a safety button press it until it displays solid red</translation>
+      <translation>- 若飛控配有安全按鈕，請持續按住，直到指示燈恆亮紅色</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="159"/>
       <source>- You will hear a musical tone then two beeps</source>
-      <translation type="unfinished">- You will hear a musical tone then two beeps</translation>
+      <translation>- 您會先聽到一段音樂，接著兩聲嗶聲</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="160"/>
       <source>- A few seconds later you should hear a number of beeps (one for each battery cell you&apos;re using)</source>
-      <translation type="unfinished">- A few seconds later you should hear a number of beeps (one for each battery cell you&apos;re using)</translation>
+      <translation>- 幾秒後，您應會聽到數聲嗶聲（每個電池芯對應一聲）</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="161"/>
       <source>- And finally a single long beep indicating the end points have been set and the ESC is calibrated</source>
-      <translation type="unfinished">- And finally a single long beep indicating the end points have been set and the ESC is calibrated</translation>
+      <translation>- 最後會發出一聲長嗶聲，表示端點已設定且電子變速器校正完成</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.qml" line="162"/>
       <source>- Disconnect the battery and power up again normally</source>
-      <translation type="unfinished">- Disconnect the battery and power up again normally</translation>
+      <translation>- 拔除電池，再依正常程序重新上電</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.h" line="15"/>
       <source>Configure and calibrate Electronic Speed Controllers.</source>
-      <translation type="unfinished">Configure and calibrate Electronic Speed Controllers.</translation>
+      <translation>設定並校正電子變速器。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponent.h" line="24"/>
       <source>ESC</source>
-      <translation type="unfinished">ESC</translation>
+      <translation>ESC</translation>
     </message>
   </context>
   <context>
@@ -1437,17 +1437,17 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponentSummary.qml" line="33"/>
       <source>Output type</source>
-      <translation type="unfinished">Output type</translation>
+      <translation>輸出類型</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponentSummary.qml" line="39"/>
       <source>DShot ESC type</source>
-      <translation type="unfinished">DShot ESC type</translation>
+      <translation>DShot 電子變速器類型</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMESCComponentSummary.qml" line="45"/>
       <source>DShot output rate</source>
-      <translation type="unfinished">DShot output rate</translation>
+      <translation>DShot 輸出頻率</translation>
     </message>
   </context>
   <context>
@@ -1455,27 +1455,27 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponent.cc" line="20"/>
       <source>Configure failsafe actions and leak detection.</source>
-      <translation type="unfinished">Configure failsafe actions and leak detection.</translation>
+      <translation>設定失效保護動作與漏水偵測。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponent.cc" line="22"/>
       <source>Configure battery, GCS, throttle, and EKF failsafes.</source>
-      <translation type="unfinished">Configure battery, GCS, throttle, and EKF failsafes.</translation>
+      <translation>設定電池、地面站、油門與 EKF 失效保護。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponent.cc" line="24"/>
       <source>Configure battery, GCS, and throttle failsafes.</source>
-      <translation type="unfinished">Configure battery, GCS, and throttle failsafes.</translation>
+      <translation>設定電池、地面站與油門失效保護。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponent.cc" line="26"/>
       <source>Configure battery, GCS, RC, throttle, EKF, and dead reckoning failsafes.</source>
-      <translation type="unfinished">Configure battery, GCS, RC, throttle, EKF, and dead reckoning failsafes.</translation>
+      <translation>設定電池、地面站、遙控、油門、EKF 與航位推算失效保護。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponent.h" line="26"/>
       <source>Failsafes</source>
-      <translation type="unfinished">Failsafes</translation>
+      <translation>失效保護</translation>
     </message>
   </context>
   <context>
@@ -1485,37 +1485,37 @@
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponentSummary.qml" line="43"/>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponentSummary.qml" line="51"/>
       <source>Throttle failsafe:</source>
-      <translation type="unfinished">Throttle failsafe:</translation>
+      <translation>油門失效保護：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponentSummary.qml" line="59"/>
       <source>Failsafe Action:</source>
-      <translation type="unfinished">Failsafe Action:</translation>
+      <translation>失效保護動作：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponentSummary.qml" line="67"/>
       <source>Failsafe Crash Check:</source>
-      <translation type="unfinished">Failsafe Crash Check:</translation>
+      <translation>失效保護墜毀檢查：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponentSummary.qml" line="75"/>
       <source>Batt1 low failsafe:</source>
-      <translation type="unfinished">Batt1 low failsafe:</translation>
+      <translation>電池 1 低電量失效保護：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponentSummary.qml" line="81"/>
       <source>Batt1 critical failsafe:</source>
-      <translation type="unfinished">Batt1 critical failsafe:</translation>
+      <translation>電池 1 嚴重低電量失效保護：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponentSummary.qml" line="87"/>
       <source>Batt2 low failsafe:</source>
-      <translation type="unfinished">Batt2 low failsafe:</translation>
+      <translation>電池 2 低電量失效保護：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponentSummary.qml" line="93"/>
       <source>Batt2 critical failsafe:</source>
-      <translation type="unfinished">Batt2 critical failsafe:</translation>
+      <translation>電池 2 嚴重低電量失效保護：</translation>
     </message>
   </context>
   <context>
@@ -1523,37 +1523,37 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponentSummarySub.qml" line="27"/>
       <source>GCS failsafe:</source>
-      <translation type="unfinished">GCS failsafe:</translation>
+      <translation>地面站失效保護：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponentSummarySub.qml" line="31"/>
       <source>Leak failsafe:</source>
-      <translation type="unfinished">Leak failsafe:</translation>
+      <translation>漏水失效保護：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponentSummarySub.qml" line="36"/>
       <source>Battery failsafe:</source>
-      <translation type="unfinished">Battery failsafe:</translation>
+      <translation>電池失效保護：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponentSummarySub.qml" line="49"/>
       <source>EKF failsafe:</source>
-      <translation type="unfinished">EKF failsafe:</translation>
+      <translation>EKF 失效保護：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponentSummarySub.qml" line="54"/>
       <source>Pilot Input failsafe:</source>
-      <translation type="unfinished">Pilot Input failsafe:</translation>
+      <translation>駕駛員輸入失效保護：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponentSummarySub.qml" line="58"/>
       <source>Int. Temperature failsafe:</source>
-      <translation type="unfinished">Int. Temperature failsafe:</translation>
+      <translation>內部溫度失效保護：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFailsafesComponentSummarySub.qml" line="62"/>
       <source>Int. Pressure failsafe:</source>
-      <translation type="unfinished">Int. Pressure failsafe:</translation>
+      <translation>內部壓力失效保護：</translation>
     </message>
   </context>
   <context>
@@ -1561,93 +1561,93 @@
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="679"/>
       <source>Error during Solo video link setup: %1</source>
-      <translation type="unfinished">Error during Solo video link setup: %1</translation>
+      <translation>設定 Solo 影像連線時發生錯誤：%1</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="849"/>
       <source>Unable to change altitude, vehicle altitude not known.</source>
-      <translation type="unfinished">Unable to change altitude, vehicle altitude not known.</translation>
+      <translation>無法變更高度，因為載具高度未知。</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="854"/>
       <source>Unable to pause vehicle.</source>
-      <translation type="unfinished">Unable to pause vehicle.</translation>
+      <translation>無法暫停載具。</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="940"/>
       <source>Vehicle does not support guided rotate</source>
-      <translation type="unfinished">Vehicle does not support guided rotate</translation>
+      <translation>載具不支援導引旋轉</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="1011"/>
       <source>Vehicle does not support guided takeoff</source>
-      <translation type="unfinished">Vehicle does not support guided takeoff</translation>
+      <translation>載具不支援導引起飛</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="1017"/>
       <source>Unable to takeoff, vehicle position not known.</source>
-      <translation type="unfinished">Unable to takeoff, vehicle position not known.</translation>
+      <translation>無法起飛，因為載具位置未知。</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="1027"/>
       <source>Unable to takeoff: Vehicle failed to change to Guided mode.</source>
-      <translation type="unfinished">Unable to takeoff: Vehicle failed to change to Guided mode.</translation>
+      <translation>無法起飛：載具無法切換至導引模式。</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="1032"/>
       <source>Unable to takeoff: Vehicle failed to arm.</source>
-      <translation type="unfinished">Unable to takeoff: Vehicle failed to arm.</translation>
+      <translation>無法起飛：載具無法解鎖。</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="1050"/>
       <source>Unable to start takeoff: Vehicle is already in the air.</source>
-      <translation type="unfinished">Unable to start takeoff: Vehicle is already in the air.</translation>
+      <translation>無法開始起飛：載具已在空中。</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="1056"/>
       <source>Unable to start takeoff: Vehicle failed to change to Takeoff mode.</source>
-      <translation type="unfinished">Unable to start takeoff: Vehicle failed to change to Takeoff mode.</translation>
+      <translation>無法開始起飛：載具無法切換至起飛模式。</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="1061"/>
       <source>Unable to start takeoff: Vehicle failed to arm.</source>
-      <translation type="unfinished">Unable to start takeoff: Vehicle failed to arm.</translation>
+      <translation>無法開始起飛：載具無法解鎖。</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="1072"/>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="1083"/>
       <source>Unable to start mission: Vehicle failed to change to Auto mode.</source>
-      <translation type="unfinished">Unable to start mission: Vehicle failed to change to Auto mode.</translation>
+      <translation>無法開始任務：載具無法切換至自動模式。</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="1088"/>
       <source>Unable to start mission: Vehicle failed to change to Guided mode.</source>
-      <translation type="unfinished">Unable to start mission: Vehicle failed to change to Guided mode.</translation>
+      <translation>無法開始任務：載具無法切換至導引模式。</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.cc" line="1094"/>
       <source>Unable to start mission: Vehicle failed to arm.</source>
-      <translation type="unfinished">Unable to start mission: Vehicle failed to arm.</translation>
+      <translation>無法開始任務：載具無法解鎖。</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.h" line="88"/>
       <source>Guided</source>
-      <translation type="unfinished">Guided</translation>
+      <translation>導引</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.h" line="89"/>
       <source>RTL</source>
-      <translation type="unfinished">RTL</translation>
+      <translation>返航（RTL）</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.h" line="90"/>
       <source>Smart RTL</source>
-      <translation type="unfinished">Smart RTL</translation>
+      <translation>智慧返航</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFirmwarePlugin.h" line="91"/>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>自動</translation>
     </message>
   </context>
   <context>
@@ -1655,22 +1655,22 @@
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFlightModeIndicator.qml" line="11"/>
       <source>Return to Launch</source>
-      <translation type="unfinished">Return to Launch</translation>
+      <translation>返回起飛點</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFlightModeIndicator.qml" line="28"/>
       <source>Return At</source>
-      <translation type="unfinished">Return At</translation>
+      <translation>返航高度</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFlightModeIndicator.qml" line="34"/>
       <source>Current altitude</source>
-      <translation type="unfinished">Current altitude</translation>
+      <translation>目前高度</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFlightModeIndicator.qml" line="34"/>
       <source>Specified altitude</source>
-      <translation type="unfinished">Specified altitude</translation>
+      <translation>指定高度</translation>
     </message>
   </context>
   <context>
@@ -1678,102 +1678,102 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="42"/>
       <source>Flight Mode Settings</source>
-      <translation type="unfinished">Flight Mode Settings</translation>
+      <translation>飛行模式設定</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="42"/>
       <source> (Channel 5)</source>
-      <translation type="unfinished"> (Channel 5)</translation>
+      <translation> （通道 5）</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="54"/>
       <source>Flight mode channel:</source>
-      <translation type="unfinished">Flight mode channel:</translation>
+      <translation>飛行模式通道：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="61"/>
       <source>Not assigned</source>
-      <translation type="unfinished">Not assigned</translation>
+      <translation>未指派</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="61"/>
       <source>Channel 1</source>
-      <translation type="unfinished">Channel 1</translation>
+      <translation>通道1</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="61"/>
       <source>Channel 2</source>
-      <translation type="unfinished">Channel 2</translation>
+      <translation>通道2</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="62"/>
       <source>Channel 3</source>
-      <translation type="unfinished">Channel 3</translation>
+      <translation>通道3</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="62"/>
       <source>Channel 4</source>
-      <translation type="unfinished">Channel 4</translation>
+      <translation>通道4</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="62"/>
       <source>Channel 5</source>
-      <translation type="unfinished">Channel 5</translation>
+      <translation>通道5</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="63"/>
       <source>Channel 6</source>
-      <translation type="unfinished">Channel 6</translation>
+      <translation>通道6</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="63"/>
       <source>Channel 7</source>
-      <translation type="unfinished">Channel 7</translation>
+      <translation>通道7</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="63"/>
       <source>Channel 8</source>
-      <translation type="unfinished">Channel 8</translation>
+      <translation>通道8</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="79"/>
       <source>Flight Mode </source>
-      <translation type="unfinished">Flight Mode </translation>
+      <translation>飛行模式 </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="101"/>
       <source>Simple</source>
-      <translation type="unfinished">Simple</translation>
+      <translation>簡易</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="116"/>
       <source>Super-Simple</source>
-      <translation type="unfinished">Super-Simple</translation>
+      <translation>超級簡易</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="142"/>
       <source>Simple Mode</source>
-      <translation type="unfinished">Simple Mode</translation>
+      <translation>簡易模式</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="154"/>
       <source>Switch Options</source>
-      <translation type="unfinished">Switch Options</translation>
+      <translation>開關選項</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.qml" line="170"/>
       <source>Channel option %1 :</source>
-      <translation type="unfinished">Channel option %1 :</translation>
+      <translation>通道選項 %1 ：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.h" line="15"/>
       <source>Configure transmitter switch assignments and flight mode selection.</source>
-      <translation type="unfinished">Configure transmitter switch assignments and flight mode selection.</translation>
+      <translation>設定遙控器開關指派與飛行模式選擇。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponent.h" line="23"/>
       <source>Flight Modes</source>
-      <translation type="unfinished">Flight Modes</translation>
+      <translation>飛行模式</translation>
     </message>
   </context>
   <context>
@@ -1781,22 +1781,22 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponentController.h" line="65"/>
       <source>Off</source>
-      <translation type="unfinished">Off</translation>
+      <translation>關閉</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponentController.h" line="65"/>
       <source>Simple</source>
-      <translation type="unfinished">Simple</translation>
+      <translation>簡易</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponentController.h" line="65"/>
       <source>Super-Simple</source>
-      <translation type="unfinished">Super-Simple</translation>
+      <translation>超級簡易</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponentController.h" line="65"/>
       <source>Custom</source>
-      <translation type="unfinished">Custom</translation>
+      <translation>自訂</translation>
     </message>
   </context>
   <context>
@@ -1804,32 +1804,32 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponentSummary.qml" line="31"/>
       <source>Flight Mode 1</source>
-      <translation type="unfinished">Flight Mode 1</translation>
+      <translation>飛行模式1</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponentSummary.qml" line="36"/>
       <source>Flight Mode 2</source>
-      <translation type="unfinished">Flight Mode 2</translation>
+      <translation>飛行模式2</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponentSummary.qml" line="41"/>
       <source>Flight Mode 3</source>
-      <translation type="unfinished">Flight Mode 3</translation>
+      <translation>飛行模式3</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponentSummary.qml" line="46"/>
       <source>Flight Mode 4</source>
-      <translation type="unfinished">Flight Mode 4</translation>
+      <translation>飛行模式4</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponentSummary.qml" line="51"/>
       <source>Flight Mode 5</source>
-      <translation type="unfinished">Flight Mode 5</translation>
+      <translation>飛行模式5</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightModesComponentSummary.qml" line="56"/>
       <source>Flight Mode 6</source>
-      <translation type="unfinished">Flight Mode 6</translation>
+      <translation>飛行模式6</translation>
     </message>
   </context>
   <context>
@@ -1840,12 +1840,12 @@
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponent.cc" line="24"/>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponent.cc" line="26"/>
       <source>Configure Return to Launch, geofence, and arming checks.</source>
-      <translation type="unfinished">Configure Return to Launch, geofence, and arming checks.</translation>
+      <translation>設定返航、地理圍籬與解鎖檢查。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponent.h" line="26"/>
       <source>Flight Safety</source>
-      <translation type="unfinished">Flight Safety</translation>
+      <translation>飛行安全</translation>
     </message>
   </context>
   <context>
@@ -1853,94 +1853,94 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="54"/>
       <source>Failsafe Actions</source>
-      <translation type="unfinished">Failsafe Actions</translation>
+      <translation>失效保護動作</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="61"/>
       <source>GCS Heartbeat</source>
-      <translation type="unfinished">GCS Heartbeat</translation>
+      <translation>地面站心跳訊號</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="69"/>
       <source>Leak</source>
-      <translation type="unfinished">Leak</translation>
+      <translation>漏水</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="79"/>
       <source>Detector Pin</source>
-      <translation type="unfinished">Detector Pin</translation>
+      <translation>偵測器接腳</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="91"/>
       <source>Logic when Dry</source>
-      <translation type="unfinished">Logic when Dry</translation>
+      <translation>乾燥時的邏輯準位</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="103"/>
       <source>Battery</source>
-      <translation type="unfinished">Battery</translation>
+      <translation>電池</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="118"/>
       <source>Power module not set up</source>
-      <translation type="unfinished">Power module not set up</translation>
+      <translation>尚未設定電源模組</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="124"/>
       <source>Voltage</source>
-      <translation type="unfinished">Voltage</translation>
+      <translation>電壓</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="134"/>
       <source>Remaining Capacity</source>
-      <translation type="unfinished">Remaining Capacity</translation>
+      <translation>剩餘容量</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="144"/>
       <source>EKF</source>
-      <translation type="unfinished">EKF</translation>
+      <translation>EKF</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="157"/>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="199"/>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="218"/>
       <source>Threshold</source>
-      <translation type="unfinished">Threshold</translation>
+      <translation>門檻</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="167"/>
       <source>Pilot Input</source>
-      <translation type="unfinished">Pilot Input</translation>
+      <translation>駕駛員輸入</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="180"/>
       <source>Timeout</source>
-      <translation type="unfinished">Timeout</translation>
+      <translation>逾時</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="189"/>
       <source>Internal Temperature</source>
-      <translation type="unfinished">Internal Temperature</translation>
+      <translation>內部溫度</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="208"/>
       <source>Internal Pressure</source>
-      <translation type="unfinished">Internal Pressure</translation>
+      <translation>內部壓力</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="230"/>
       <source>Arming Checks</source>
-      <translation type="unfinished">Arming Checks</translation>
+      <translation>解鎖檢查</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="230"/>
       <source>Skip Arming Checks</source>
-      <translation type="unfinished">Skip Arming Checks</translation>
+      <translation>略過解鎖檢查</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSub.qml" line="245"/>
       <source>Warning: Turning off arming checks can lead to loss of Vehicle control.</source>
-      <translation type="unfinished">Warning: Turning off arming checks can lead to loss of Vehicle control.</translation>
+      <translation>警告：關閉解鎖檢查可能導致載具失控。</translation>
     </message>
   </context>
   <context>
@@ -1948,72 +1948,72 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="25"/>
       <source>Arming Checks:</source>
-      <translation type="unfinished">Arming Checks:</translation>
+      <translation>解鎖檢查：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="28"/>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="30"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>已啟用</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="28"/>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="30"/>
       <source>Some disabled</source>
-      <translation type="unfinished">Some disabled</translation>
+      <translation>部分已停用</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="41"/>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="62"/>
       <source>GeoFence:</source>
-      <translation type="unfinished">GeoFence:</translation>
+      <translation>地理圍籬：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="45"/>
       <source>Disabled</source>
-      <translation type="unfinished">Disabled</translation>
+      <translation>已停用</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="48"/>
       <source>Altitude</source>
-      <translation type="unfinished">Altitude</translation>
+      <translation>高度</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="51"/>
       <source>Circle</source>
-      <translation type="unfinished">Circle</translation>
+      <translation>圓形</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="53"/>
       <source>Altitude,Circle</source>
-      <translation type="unfinished">Altitude,Circle</translation>
+      <translation>高度、圓形</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="64"/>
       <source>Report only</source>
-      <translation type="unfinished">Report only</translation>
+      <translation>僅回報</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="65"/>
       <source>RTL or Land</source>
-      <translation type="unfinished">RTL or Land</translation>
+      <translation>返航或降落</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="65"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>未知</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="70"/>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="78"/>
       <source>RTL min alt:</source>
-      <translation type="unfinished">RTL min alt:</translation>
+      <translation>返航最低高度：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="71"/>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummary.qml" line="79"/>
       <source>current</source>
-      <translation type="unfinished">current</translation>
+      <translation>目前</translation>
     </message>
   </context>
   <context>
@@ -2021,19 +2021,19 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummarySub.qml" line="17"/>
       <source>Arming Checks:</source>
-      <translation type="unfinished">Arming Checks:</translation>
+      <translation>解鎖檢查：</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummarySub.qml" line="20"/>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummarySub.qml" line="22"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>已啟用</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummarySub.qml" line="20"/>
       <location filename="../src/AutoPilotPlugins/APM/APMFlightSafetyComponentSummarySub.qml" line="22"/>
       <source>Some disabled</source>
-      <translation type="unfinished">Some disabled</translation>
+      <translation>部分已停用</translation>
     </message>
   </context>
   <context>
@@ -2041,102 +2041,102 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="182"/>
       <source>Enable Follow Me</source>
-      <translation type="unfinished">Enable Follow Me</translation>
+      <translation>啟用跟隨模式</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="201"/>
       <source>Waiting for Vehicle to update</source>
-      <translation type="unfinished">Waiting for Vehicle to update</translation>
+      <translation>等待載具更新</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="213"/>
       <source>The vehicle parameters required for follow me are currently set in a way which is not supported. Using follow with this setup may lead to unpredictable/hazardous results.</source>
-      <translation type="unfinished">The vehicle parameters required for follow me are currently set in a way which is not supported. Using follow with this setup may lead to unpredictable/hazardous results.</translation>
+      <translation>目前載具的跟隨功能參數設定不受支援。使用此設定執行跟隨可能導致無法預期或危險的結果。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="218"/>
       <source>Reset To Supported Settings</source>
-      <translation type="unfinished">Reset To Supported Settings</translation>
+      <translation>重設為支援的設定</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="229"/>
       <source>Follow Me Settings</source>
-      <translation type="unfinished">Follow Me Settings</translation>
+      <translation>跟隨我設定</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="236"/>
       <source>Vehicle Position</source>
-      <translation type="unfinished">Vehicle Position</translation>
+      <translation>載具位置</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="241"/>
       <source>Maintain Current Offsets</source>
-      <translation type="unfinished">Maintain Current Offsets</translation>
+      <translation>保持目前偏移量</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="241"/>
       <source>Specify Offsets</source>
-      <translation type="unfinished">Specify Offsets</translation>
+      <translation>指定偏移量</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="254"/>
       <source>Point Vehicle</source>
-      <translation type="unfinished">Point Vehicle</translation>
+      <translation>載具朝向</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="265"/>
       <source>Maintain current vehicle orientation</source>
-      <translation type="unfinished">Maintain current vehicle orientation</translation>
+      <translation>保持目前的載具方向</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="265"/>
       <source>Point at ground station location</source>
-      <translation type="unfinished">Point at ground station location</translation>
+      <translation>朝向地面站位置</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="265"/>
       <source>Same direction as ground station movement</source>
-      <translation type="unfinished">Same direction as ground station movement</translation>
+      <translation>與地面站的移動方向相同</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="272"/>
       <source>Vehicle Offsets</source>
-      <translation type="unfinished">Vehicle Offsets</translation>
+      <translation>載具偏移量</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="277"/>
       <source>Angle</source>
-      <translation type="unfinished">Angle</translation>
+      <translation>角度</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="288"/>
       <source>Distance</source>
-      <translation type="unfinished">Distance</translation>
+      <translation>距離</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="299"/>
       <source>Height</source>
-      <translation type="unfinished">Height</translation>
+      <translation>高度</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="341"/>
       <source>Click in the graphic to change angle</source>
-      <translation type="unfinished">Click in the graphic to change angle</translation>
+      <translation>按一下圖形以變更角度</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.qml" line="502"/>
       <source>L</source>
-      <translation type="unfinished">L</translation>
+      <translation>L</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.h" line="13"/>
       <source>Configure the vehicle to track the ground station position.</source>
-      <translation type="unfinished">Configure the vehicle to track the ground station position.</translation>
+      <translation>設定載具追蹤地面站位置。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponent.h" line="25"/>
       <source>Follow Me</source>
-      <translation type="unfinished">Follow Me</translation>
+      <translation>跟隨我</translation>
     </message>
   </context>
   <context>
@@ -2144,47 +2144,47 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponentSummary.qml" line="23"/>
       <source>Follow Enabled</source>
-      <translation type="unfinished">Follow Enabled</translation>
+      <translation>已啟用跟隨</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponentSummary.qml" line="24"/>
       <source>Follow System ID</source>
-      <translation type="unfinished">Follow System ID</translation>
+      <translation>跟隨系統 ID</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponentSummary.qml" line="25"/>
       <source>Max Distance</source>
-      <translation type="unfinished">Max Distance</translation>
+      <translation>最大距離</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponentSummary.qml" line="26"/>
       <source>Offset X</source>
-      <translation type="unfinished">Offset X</translation>
+      <translation>X 偏移量</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponentSummary.qml" line="27"/>
       <source>Offset Y</source>
-      <translation type="unfinished">Offset Y</translation>
+      <translation>Y 偏移量</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponentSummary.qml" line="28"/>
       <source>Offset Z</source>
-      <translation type="unfinished">Offset Z</translation>
+      <translation>Z 偏移量</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponentSummary.qml" line="29"/>
       <source>Offset Type</source>
-      <translation type="unfinished">Offset Type</translation>
+      <translation>偏移類型</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponentSummary.qml" line="30"/>
       <source>Altitude Type</source>
-      <translation type="unfinished">Altitude Type</translation>
+      <translation>高度類型</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMFollowComponentSummary.qml" line="31"/>
       <source>Yaw Behavior</source>
-      <translation type="unfinished">Yaw Behavior</translation>
+      <translation>偏航行為</translation>
     </message>
   </context>
   <context>
