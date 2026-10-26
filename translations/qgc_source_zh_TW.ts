@@ -15841,103 +15841,103 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="19"/>
       <source>Rate</source>
-      <translation type="unfinished">Rate</translation>
+      <translation>角速度</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="21"/>
       <source>deg/s</source>
-      <translation type="unfinished">deg/s</translation>
+      <translation>deg/s</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="28"/>
       <source>Roll</source>
-      <translation type="unfinished">Roll</translation>
+      <translation>橫滾</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="35"/>
       <source>Overall Multiplier (SC_ROLLRATE_K)</source>
-      <translation type="unfinished">Overall Multiplier (SC_ROLLRATE_K)</translation>
+      <translation>整體倍率 (SC_ROLLRATE_K)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="36"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="69"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="102"/>
       <source>Multiplier for P, I and D gains: increase for more responsiveness, reduce if the rates overshoot (and increasing D does not help).</source>
-      <translation type="unfinished">Multiplier for P, I and D gains: increase for more responsiveness, reduce if the rates overshoot (and increasing D does not help).</translation>
+      <translation>P、I、D 增益的倍率：增加可提高反應速度；若角速度超越目標值（且增加 D 仍無法改善），則降低此值。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="43"/>
       <source>Differential Gain (SC_ROLLRATE_D)</source>
-      <translation type="unfinished">Differential Gain (SC_ROLLRATE_D)</translation>
+      <translation>微分增益 (SC_ROLLRATE_D)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="44"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="77"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="110"/>
       <source>Damping: increase to reduce overshoots and oscillations, but not higher than really needed.</source>
-      <translation type="unfinished">Damping: increase to reduce overshoots and oscillations, but not higher than really needed.</translation>
+      <translation>阻尼：增加可減少超越量與振盪，但請勿設得高於實際所需。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="51"/>
       <source>Integral Gain (SC_ROLLRATE_I)</source>
-      <translation type="unfinished">Integral Gain (SC_ROLLRATE_I)</translation>
+      <translation>積分增益 (SC_ROLLRATE_I)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="52"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="85"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="118"/>
       <source>Generally does not need much adjustment, reduce this when seeing slow oscillations.</source>
-      <translation type="unfinished">Generally does not need much adjustment, reduce this when seeing slow oscillations.</translation>
+      <translation>通常不需大幅調整；若出現低頻振盪，請降低此值。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="61"/>
       <source>Pitch</source>
-      <translation type="unfinished">Pitch</translation>
+      <translation>俯仰</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="68"/>
       <source>Overall Multiplier (SC_PITCHRATE_K)</source>
-      <translation type="unfinished">Overall Multiplier (SC_PITCHRATE_K)</translation>
+      <translation>整體倍率 (SC_PITCHRATE_K)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="76"/>
       <source>Differential Gain (SC_PITCHRATE_D)</source>
-      <translation type="unfinished">Differential Gain (SC_PITCHRATE_D)</translation>
+      <translation>微分增益 (SC_PITCHRATE_D)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="84"/>
       <source>Integral Gain (SC_PITCHRATE_I)</source>
-      <translation type="unfinished">Integral Gain (SC_PITCHRATE_I)</translation>
+      <translation>積分增益 (SC_PITCHRATE_I)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="94"/>
       <source>Yaw</source>
-      <translation type="unfinished">Yaw</translation>
+      <translation>偏航</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="101"/>
       <source>Overall Multiplier (SC_YAWRATE_K)</source>
-      <translation type="unfinished">Overall Multiplier (SC_YAWRATE_K)</translation>
+      <translation>整體倍率 (SC_YAWRATE_K)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="109"/>
       <source>Derivative Gain (SC_YAWRATE_D)</source>
-      <translation type="unfinished">Derivative Gain (SC_YAWRATE_D)</translation>
+      <translation>微分增益 (SC_YAWRATE_D)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="117"/>
       <source>Integral Gain (SC_YAWRATE_I)</source>
-      <translation type="unfinished">Integral Gain (SC_YAWRATE_I)</translation>
+      <translation>積分增益 (SC_YAWRATE_I)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="125"/>
       <source>Integral Limit (SC_YR_INT_LIM)</source>
-      <translation type="unfinished">Integral Limit (SC_YR_INT_LIM)</translation>
+      <translation>積分限制 (SC_YR_INT_LIM)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftRate.qml" line="126"/>
       <source>Increase if the robot still has a steady-state error at maximum integral gain.</source>
-      <translation type="unfinished">Increase if the robot still has a steady-state error at maximum integral gain.</translation>
+      <translation>若機器人在最大積分增益下仍有穩態誤差，請增加此值。</translation>
     </message>
   </context>
   <context>
@@ -15945,52 +15945,52 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftVelocity.qml" line="19"/>
       <source>Velocity</source>
-      <translation type="unfinished">Velocity</translation>
+      <translation>速度</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftVelocity.qml" line="20"/>
       <source>Velocity (X axis)</source>
-      <translation type="unfinished">Velocity (X axis)</translation>
+      <translation>速度（X 軸）</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftVelocity.qml" line="27"/>
       <source>Proportional gain (SPC_VEL_P)</source>
-      <translation type="unfinished">Proportional gain (SPC_VEL_P)</translation>
+      <translation>比例增益 (SPC_VEL_P)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftVelocity.qml" line="28"/>
       <source>Increase for more responsiveness, reduce if the velocity overshoots (and increasing D does not help).</source>
-      <translation type="unfinished">Increase for more responsiveness, reduce if the velocity overshoots (and increasing D does not help).</translation>
+      <translation>增加可提高反應速度；若速度超越目標值（且增加 D 仍無法改善），則降低此值。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftVelocity.qml" line="35"/>
       <source>Differential gain (SPC_VEL_D)</source>
-      <translation type="unfinished">Differential gain (SPC_VEL_D)</translation>
+      <translation>微分增益 (SPC_VEL_D)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftVelocity.qml" line="36"/>
       <source>Damping: increase to reduce overshoots and oscillations, but not higher than really needed.</source>
-      <translation type="unfinished">Damping: increase to reduce overshoots and oscillations, but not higher than really needed.</translation>
+      <translation>阻尼：增加可減少超越量與振盪，但請勿設得高於實際所需。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftVelocity.qml" line="43"/>
       <source>Integral gain (SPC_VEL_I)</source>
-      <translation type="unfinished">Integral gain (SPC_VEL_I)</translation>
+      <translation>積分增益 (SPC_VEL_I)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftVelocity.qml" line="44"/>
       <source>Increase to reduce steady-state error (e.g. wind)</source>
-      <translation type="unfinished">Increase to reduce steady-state error (e.g. wind)</translation>
+      <translation>增加可降低穩態誤差（例如風造成的誤差）</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftVelocity.qml" line="51"/>
       <source>Integral gain Limiter (SPC_VEL_I_LIM)</source>
-      <translation type="unfinished">Integral gain Limiter (SPC_VEL_I_LIM)</translation>
+      <translation>積分增益限制 (SPC_VEL_I_LIM)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentSpacecraftVelocity.qml" line="52"/>
       <source>Increase to enlarge the allowed integral compensation.</source>
-      <translation type="unfinished">Increase to enlarge the allowed integral compensation.</translation>
+      <translation>增加可擴大允許的積分補償。</translation>
     </message>
   </context>
   <context>
@@ -15998,7 +15998,7 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentVTOL.qml" line="10"/>
       <source>Multirotor</source>
-      <translation type="unfinished">Multirotor</translation>
+      <translation>多旋翼</translation>
     </message>
   </context>
   <context>
@@ -16006,42 +16006,122 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="11"/>
       <source>Load Parameters</source>
-      <translation type="unfinished">Load Parameters</translation>
+      <translation>載入參數</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="27"/>
       <source>The following parameters from the loaded file differ from what is currently set on the Vehicle. Click &apos;Ok&apos; to update them on the Vehicle.</source>
-      <translation type="unfinished">The following parameters from the loaded file differ from what is currently set on the Vehicle. Click &apos;Ok&apos; to update them on the Vehicle.</translation>
+      <translation>載入檔案中的以下參數與載具目前設定不同。按一下「確定」更新載具上的參數。</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="28"/>
       <source>There are no differences between the file loaded and the current settings on the Vehicle.</source>
-      <translation type="unfinished">There are no differences between the file loaded and the current settings on the Vehicle.</translation>
+      <translation>載入檔案與載具目前設定之間沒有差異。</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="56"/>
       <source>Comp ID</source>
-      <translation type="unfinished">Comp ID</translation>
+      <translation>元件 ID</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="63"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="69"/>
       <source>File</source>
-      <translation type="unfinished">File</translation>
+      <translation>檔案</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="75"/>
       <source>Vehicle</source>
-      <translation type="unfinished">Vehicle</translation>
+      <translation>載具</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="78"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>不適用</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="43"/>
+      <source>%1 already match the Vehicle</source>
+      <translation>%1 個已與載具相符</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="51"/>
+      <source>%1 not found on the Vehicle and cannot be sent</source>
+      <translation>%1 個在載具上找不到，無法傳送</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="48"/>
+      <source>%1 read-only parameters will not be sent</source>
+      <translation>%1 個唯讀參數不會傳送</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="37"/>
+      <source>%1 will be changed</source>
+      <translation>%1 個將會變更</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="35"/>
+      <source>%1 will be changed (including %2 not currently on the Vehicle)</source>
+      <translation>%1 個將會變更（包括 %2 個目前不在載具上）</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="41"/>
+      <source>1 already matches the Vehicle</source>
+      <translation>1 個已與載具相符</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="46"/>
+      <source>1 read-only parameter will not be sent</source>
+      <translation>1 個唯讀參數不會傳送</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="67"/>
+      <source>Click &apos;Ok&apos; to update the parameters below on the Vehicle.</source>
+      <translation>按一下「確定」以更新載具上的下列參數。</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="57"/>
+      <source>Loaded %1 parameters from file.</source>
+      <translation>已從檔案載入 %1 個參數。</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="58"/>
+      <source>Loaded %1 parameters from file: %2.</source>
+      <translation>已從檔案載入 %1 個參數：%2。</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="54"/>
+      <source>Loaded 1 parameter from file.</source>
+      <translation>已從檔案載入 1 個參數。</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="55"/>
+      <source>Loaded 1 parameter from file: %1.</source>
+      <translation>已從檔案載入 1 個參數：%1。</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="128"/>
+      <source>N/A — new to Vehicle</source>
+      <translation>不適用（載具新參數）</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="127"/>
+      <source>N/A — not on Vehicle</source>
+      <translation>不適用（不在載具上）</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="139"/>
+      <source>Parameters marked &apos;new to Vehicle&apos; have not been reported by the Vehicle. They may only become visible after they are sent and the Vehicle is rebooted.</source>
+      <translation>標示為「載具新參數」的參數尚未由載具回報，可能要在傳送參數並重新啟動載具後才會顯示。</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="147"/>
+      <source>Parameters marked &apos;not on Vehicle&apos; cannot be sent since the file does not include type information. They may only exist after another parameter is changed and the Vehicle is rebooted, after which you can load this file again.</source>
+      <translation>標示為「不在載具上」的參數無法傳送，因為檔案未包含類型資訊。這些參數可能要在變更其他參數並重新啟動載具後才會存在，屆時您可以再次載入此檔案。</translation>
     </message>
   </context>
   <context>
@@ -16049,12 +16129,12 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/Toolbar/ParameterDownloadProgress.qml" line="51"/>
       <source>Downloading</source>
-      <translation type="unfinished">Downloading</translation>
+      <translation>下載中</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/ParameterDownloadProgress.qml" line="59"/>
       <source>Click anywhere to hide</source>
-      <translation type="unfinished">Click anywhere to hide</translation>
+      <translation>按一下任意位置以隱藏</translation>
     </message>
   </context>
   <context>
@@ -16062,138 +16142,138 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="169"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>清除</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="187"/>
       <source>Tools</source>
-      <translation type="unfinished">Tools</translation>
+      <translation>工具</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="51"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>重新整理</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="32"/>
       <source>Missing Parameters</source>
-      <translation type="unfinished">Missing Parameters</translation>
+      <translation>缺少參數</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="33"/>
       <source>The following parameters from the file were not found on the vehicle and were skipped: %1</source>
-      <translation type="unfinished">The following parameters from the file were not found on the vehicle and were skipped: %1</translation>
+      <translation>載具上找不到檔案中的以下參數，已略過：%1</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="55"/>
       <source>Reset all to firmware&apos;s defaults</source>
-      <translation type="unfinished">Reset all to firmware&apos;s defaults</translation>
+      <translation>全部重設為韌體預設值</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="56"/>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="64"/>
       <source>Reset All</source>
-      <translation type="unfinished">Reset All</translation>
+      <translation>全部重設</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="62"/>
       <source>Reset to vehicle&apos;s configuration defaults</source>
-      <translation type="unfinished">Reset to vehicle&apos;s configuration defaults</translation>
+      <translation>重設為載具設定預設值</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="73"/>
       <source>Load Parameters</source>
-      <translation type="unfinished">Load Parameters</translation>
+      <translation>載入參數</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="78"/>
       <source>Save to file...</source>
-      <translation type="unfinished">Save to file...</translation>
+      <translation>儲存至檔案…</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="80"/>
       <source>Save Parameters</source>
-      <translation type="unfinished">Save Parameters</translation>
+      <translation>儲存參數</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="86"/>
       <source>Clear all favorites</source>
-      <translation type="unfinished">Clear all favorites</translation>
+      <translation>清除所有我的最愛</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="91"/>
       <source>Clear all RC to Param</source>
-      <translation type="unfinished">Clear all RC to Param</translation>
+      <translation>清除所有遙控器與參數的對應</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="109"/>
       <source>All Files (*)</source>
-      <translation type="unfinished">All Files (*)</translation>
+      <translation>所有檔案 (*)</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="109"/>
       <source>Mission Planner Files (*.param)</source>
-      <translation type="unfinished">Mission Planner Files (*.param)</translation>
+      <translation>Mission Planner 檔案 (*.param)</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="164"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>搜尋</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="179"/>
       <source>Hide read-only</source>
-      <translation type="unfinished">Hide read-only</translation>
+      <translation>隱藏唯讀參數</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="199"/>
       <source>Full List</source>
-      <translation type="unfinished">Full List</translation>
+      <translation>完整清單</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="200"/>
       <source>Modified</source>
-      <translation type="unfinished">Modified</translation>
+      <translation>已修改</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="201"/>
       <source>Favorites</source>
-      <translation type="unfinished">Favorites</translation>
+      <translation>我的最愛</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="57"/>
       <source>Select Reset to reset all parameters to their defaults.
 
 Note that this will also completely reset everything, including UAVCAN nodes, all vehicle settings, setup and calibrations.</source>
-      <translation type="unfinished">Select Reset to reset all parameters to their defaults.
+      <translation>選擇「重設」可將所有參數重設為預設值。
 
-Note that this will also completely reset everything, including UAVCAN nodes, all vehicle settings, setup and calibrations.</translation>
+請注意，這也會完全重設所有內容，包括 UAVCAN 節點、所有載具設定、組態與校正。</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="71"/>
       <source>Load from file for review...</source>
-      <translation type="unfinished">Load from file for review...</translation>
+      <translation>從檔案載入以供檢視…</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="97"/>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="98"/>
       <source>Reboot Vehicle</source>
-      <translation type="unfinished">Reboot Vehicle</translation>
+      <translation>重新啟動載具</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="109"/>
       <source>Parameter Files (*.%1)</source>
-      <translation type="unfinished">Parameter Files (*.%1)</translation>
+      <translation>參數檔案 (*.%1)</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="65"/>
       <source>Select Reset to reset all parameters to the vehicle&apos;s configuration defaults.</source>
-      <translation type="unfinished">Select Reset to reset all parameters to the vehicle&apos;s configuration defaults.</translation>
+      <translation>選擇「重設」可將所有參數重設為載具設定預設值。</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="99"/>
       <source>Select Ok to reboot vehicle.</source>
-      <translation type="unfinished">Select Ok to reboot vehicle.</translation>
+      <translation>按一下“確定”重新啟動載具。</translation>
     </message>
   </context>
   <context>
@@ -16201,17 +16281,17 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/QmlControls/ParameterEditorController.cc" line="351"/>
       <source>Unable to create file: %1</source>
-      <translation type="unfinished">Unable to create file: %1</translation>
+      <translation>無法建立檔案：%1</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorController.cc" line="393"/>
       <source>Unable to open file: %1</source>
-      <translation type="unfinished">Unable to open file: %1</translation>
+      <translation>無法開啟檔案：%1</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorController.cc" line="500"/>
       <source>No valid parameters found in file. Check that the file is in QGC or Mission Planner format.</source>
-      <translation type="unfinished">No valid parameters found in file. Check that the file is in QGC or Mission Planner format.</translation>
+      <translation>檔案中找不到有效參數。請確認檔案採用 QGC 或 Mission Planner 格式。</translation>
     </message>
   </context>
   <context>
@@ -16219,77 +16299,87 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="139"/>
       <source>Reset To Default</source>
-      <translation type="unfinished">Reset To Default</translation>
+      <translation>重設為預設值</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="194"/>
       <source>Min: </source>
-      <translation type="unfinished">Min: </translation>
+      <translation>最小： </translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="199"/>
       <source>Max: </source>
-      <translation type="unfinished">Max: </translation>
+      <translation>最大： </translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="204"/>
       <source>Default: </source>
-      <translation type="unfinished">Default: </translation>
+      <translation>預設： </translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="12"/>
       <source>Value Editor</source>
-      <translation type="unfinished">Value Editor</translation>
+      <translation>數值編輯器</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="85"/>
       <source>This parameter is read-only and cannot be modified.</source>
-      <translation type="unfinished">This parameter is read-only and cannot be modified.</translation>
+      <translation>此參數為唯讀，無法修改。</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="151"/>
       <source>Value: </source>
-      <translation type="unfinished">Value: </translation>
+      <translation>數值： </translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="211"/>
       <source>Vehicle reboot required after change</source>
-      <translation type="unfinished">Vehicle reboot required after change</translation>
+      <translation>變更後需要重新啟動載具</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="216"/>
       <source>Application restart required after change</source>
-      <translation type="unfinished">Application restart required after change</translation>
+      <translation>變更後需要重新啟動應用程式</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="222"/>
       <source>Warning: Modifying values while vehicle is in flight can lead to vehicle instability and possible vehicle loss. </source>
-      <translation type="unfinished">Warning: Modifying values while vehicle is in flight can lead to vehicle instability and possible vehicle loss. </translation>
+      <translation>警告：在載具飛行時修改數值，可能導致載具不穩定，甚至失去載具。 </translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="223"/>
       <source>Make sure you know what you are doing and double-check your values before Save!</source>
-      <translation type="unfinished">Make sure you know what you are doing and double-check your values before Save!</translation>
+      <translation>請確認您了解操作內容，並在儲存前再次仔細核對數值！</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="230"/>
       <source>Force save (dangerous!)</source>
-      <translation type="unfinished">Force save (dangerous!)</translation>
+      <translation>強制儲存（危險！）</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="235"/>
       <source>Advanced settings</source>
-      <translation type="unfinished">Advanced settings</translation>
+      <translation>進階設定</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="243"/>
       <source>Manual Entry</source>
-      <translation type="unfinished">Manual Entry</translation>
+      <translation>手動輸入</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="251"/>
       <source>Set RC to Param</source>
-      <translation type="unfinished">Set RC to Param</translation>
+      <translation>設定遙控器與參數的對應</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="241"/>
+      <source>Force edit read-only param</source>
+      <translation>強制編輯唯讀參數</translation>
+    </message>
+    <message>
+      <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="80"/>
+      <source>Warning: This parameter is read-only. Force edit is enabled.</source>
+      <translation>警告：此參數為唯讀。已啟用強制編輯。</translation>
     </message>
   </context>
   <context>
@@ -16297,17 +16387,17 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/FactSystem/ParameterManager.cc" line="1187"/>
       <source>Parameter cache CRC match failed</source>
-      <translation type="unfinished">Parameter cache CRC match failed</translation>
+      <translation>參數快取 CRC 比對失敗</translation>
     </message>
     <message>
       <location filename="../src/FactSystem/ParameterManager.cc" line="1344"/>
       <source>%1 was unable to retrieve the full set of parameters from vehicle %2. This will cause %1 to be unable to display its full user interface. If you are using modified firmware, you may need to resolve any vehicle startup errors to resolve the issue. If you are using standard firmware, you may need to upgrade to a newer version to resolve the issue.</source>
-      <translation type="unfinished">%1 was unable to retrieve the full set of parameters from vehicle %2. This will cause %1 to be unable to display its full user interface. If you are using modified firmware, you may need to resolve any vehicle startup errors to resolve the issue. If you are using standard firmware, you may need to upgrade to a newer version to resolve the issue.</translation>
+      <translation>%1 無法從載具 %2 取得完整參數集。這會使 %1 無法顯示完整的使用者介面。若使用修改過的韌體，您可能需要先排除載具啟動時的錯誤。若使用標準韌體，則可能需要升級至較新版本才能解決問題。</translation>
     </message>
     <message>
       <location filename="../src/FactSystem/ParameterManager.cc" line="1392"/>
       <source>Vehicle %1 did not respond to request for parameters. This will cause %2 to be unable to display its full user interface.</source>
-      <translation type="unfinished">Vehicle %1 did not respond to request for parameters. This will cause %2 to be unable to display its full user interface.</translation>
+      <translation>載具 %1 未回應參數要求。這會使 %2 無法顯示完整的使用者介面。</translation>
     </message>
   </context>
   <context>
@@ -16315,22 +16405,22 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/QmlControls/ParameterEditorController.cc" line="63"/>
       <source>Fav</source>
-      <translation type="unfinished">Fav</translation>
+      <translation>最愛</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorController.cc" line="64"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorController.cc" line="65"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>值</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorController.cc" line="66"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>說明</translation>
     </message>
   </context>
   <context>
@@ -16338,147 +16428,165 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="356"/>
       <source>Camera Tracking</source>
-      <translation type="unfinished">Camera Tracking</translation>
+      <translation>相機追蹤</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="47"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>變焦</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="188"/>
       <source>Video</source>
-      <translation type="unfinished">Video</translation>
+      <translation>影像</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="271"/>
       <source>Photo</source>
-      <translation type="unfinished">Photo</translation>
+      <translation>照片</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="305"/>
       <source>Free: </source>
-      <translation type="unfinished">Free: </translation>
+      <translation>可用空間： </translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="313"/>
       <source>Battery: </source>
-      <translation type="unfinished">Battery: </translation>
+      <translation>電池： </translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="388"/>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>設定</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="408"/>
       <source>Camera</source>
-      <translation type="unfinished">Camera</translation>
+      <translation>相機</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="414"/>
       <source>Video Stream</source>
-      <translation type="unfinished">Video Stream</translation>
+      <translation>影像串流</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="420"/>
       <source>Thermal View Mode</source>
-      <translation type="unfinished">Thermal View Mode</translation>
+      <translation>熱影像檢視模式</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="426"/>
       <source>Blend Opacity</source>
-      <translation type="unfinished">Blend Opacity</translation>
+      <translation>混合不透明度</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="441"/>
       <source>Photo Mode</source>
-      <translation type="unfinished">Photo Mode</translation>
+      <translation>拍照模式</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="447"/>
       <source>Photo Interval (seconds)</source>
-      <translation type="unfinished">Photo Interval (seconds)</translation>
+      <translation>拍照間隔（秒）</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="453"/>
       <source>Video Grid Lines</source>
-      <translation type="unfinished">Video Grid Lines</translation>
+      <translation>影像格線</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="459"/>
       <source>Video Screen Fit</source>
-      <translation type="unfinished">Video Screen Fit</translation>
+      <translation>影像畫面適應方式</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="465"/>
       <source>Reset Camera Defaults</source>
-      <translation type="unfinished">Reset Camera Defaults</translation>
+      <translation>重設相機預設值</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="470"/>
       <source>Storage</source>
-      <translation type="unfinished">Storage</translation>
+      <translation>儲存空間</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="497"/>
       <source>Off</source>
-      <translation type="unfinished">Off</translation>
+      <translation>關閉</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="497"/>
       <source>Blend</source>
-      <translation type="unfinished">Blend</translation>
+      <translation>混合</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="497"/>
       <source>Full</source>
-      <translation type="unfinished">Full</translation>
+      <translation>完整</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="497"/>
       <source>Picture In Picture</source>
-      <translation type="unfinished">Picture In Picture</translation>
+      <translation>子母畫面</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="576"/>
       <source>Single</source>
-      <translation type="unfinished">Single</translation>
+      <translation>單張</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="576"/>
       <source>Time Lapse</source>
-      <translation type="unfinished">Time Lapse</translation>
+      <translation>縮時攝影</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="610"/>
       <source>Reset</source>
-      <translation type="unfinished">Reset</translation>
+      <translation>重設</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="614"/>
       <source>Reset Camera to Factory Settings</source>
-      <translation type="unfinished">Reset Camera to Factory Settings</translation>
+      <translation>將相機重設為原廠設定</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="615"/>
       <source>Confirm resetting all settings?</source>
-      <translation type="unfinished">Confirm resetting all settings?</translation>
+      <translation>確定要重設所有設定嗎？</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="634"/>
       <source>Format</source>
-      <translation type="unfinished">Format</translation>
+      <translation>格式化</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="639"/>
       <source>Format Camera Storage</source>
-      <translation type="unfinished">Format Camera Storage</translation>
+      <translation>格式化相機儲存空間</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="640"/>
       <source>Confirm erasing all files?</source>
-      <translation type="unfinished">Confirm erasing all files?</translation>
+      <translation>確定要清除所有檔案嗎？</translation>
+    </message>
+  </context>
+  <context>
+    <name>PlanEditLayers</name>
+    <message>
+      <location filename="../src/PlanView/PlanEditLayers.qml" line="15"/>
+      <source>GeoFence</source>
+      <translation>地理圍籬</translation>
+    </message>
+    <message>
+      <location filename="../src/PlanView/PlanEditLayers.qml" line="14"/>
+      <source>Mission</source>
+      <translation>任務</translation>
+    </message>
+    <message>
+      <location filename="../src/PlanView/PlanEditLayers.qml" line="16"/>
+      <source>Rally Points</source>
+      <translation>集結點</translation>
     </message>
   </context>
   <context>
@@ -16486,47 +16594,52 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/PlanView/PlanInfoEditor.qml" line="45"/>
       <source>Plan File</source>
-      <translation type="unfinished">Plan File</translation>
+      <translation>計畫檔案</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanInfoEditor.qml" line="50"/>
       <source>Untitled</source>
-      <translation type="unfinished">Untitled</translation>
+      <translation>未命名</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanInfoEditor.qml" line="72"/>
       <source>Vehicle Info</source>
-      <translation type="unfinished">Vehicle Info</translation>
+      <translation>載具資訊</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanInfoEditor.qml" line="114"/>
       <source>Expected Home Position</source>
-      <translation type="unfinished">Expected Home Position</translation>
+      <translation>預期返航點位置</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanInfoEditor.qml" line="136"/>
       <source>Click in map to set position</source>
-      <translation type="unfinished">Click in map to set position</translation>
+      <translation>在地圖上按一下以設定位置</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanInfoEditor.qml" line="144"/>
       <source>Drag to move home position. Click to set new position.</source>
-      <translation type="unfinished">Drag to move home position. Click to set new position.</translation>
+      <translation>拖曳以移動返航點。按一下以設定新位置。</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanInfoEditor.qml" line="157"/>
       <source>Altitude (AMSL)</source>
-      <translation type="unfinished">Altitude (AMSL)</translation>
+      <translation>高度（AMSL）</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanInfoEditor.qml" line="178"/>
       <source>Actual position/alt set by vehicle at flight time.</source>
-      <translation type="unfinished">Actual position/alt set by vehicle at flight time.</translation>
+      <translation>實際位置／高度將由載具於飛行時設定。</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanInfoEditor.qml" line="188"/>
       <source>Plan Templates</source>
-      <translation type="unfinished">Plan Templates</translation>
+      <translation>計畫範本</translation>
+    </message>
+    <message>
+      <location filename="../src/PlanView/PlanInfoEditor.qml" line="53"/>
+      <source>&lt;Untitled&gt;</source>
+      <translation>&lt;未命名&gt;</translation>
     </message>
   </context>
   <context>
@@ -16534,82 +16647,82 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="175"/>
       <source>Internal error occurred during Mission Item communication: _ackTimeOut:_expectedAck == AckNone</source>
-      <translation type="unfinished">Internal error occurred during Mission Item communication: _ackTimeOut:_expectedAck == AckNone</translation>
+      <translation>任務項目通訊期間發生內部錯誤：_ackTimeOut:_expectedAck == AckNone</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="180"/>
       <source>Mission request list failed, maximum retries exceeded.</source>
-      <translation type="unfinished">Mission request list failed, maximum retries exceeded.</translation>
+      <translation>要求任務清單失敗，已超過重試次數上限。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="184"/>
       <source>Retrying %1 REQUEST_LIST retry Count</source>
-      <translation type="unfinished">Retrying %1 REQUEST_LIST retry Count</translation>
+      <translation>正在重試 %1 REQUEST_LIST 重試計數</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="191"/>
       <source>Mission read failed, maximum retries exceeded.</source>
-      <translation type="unfinished">Mission read failed, maximum retries exceeded.</translation>
+      <translation>讀取任務失敗，已超過重試次數上限。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="195"/>
       <source>Retrying %1 MISSION_REQUEST retry Count</source>
-      <translation type="unfinished">Retrying %1 MISSION_REQUEST retry Count</translation>
+      <translation>正在重試 %1 MISSION_REQUEST 重試計數</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="203"/>
       <source>Mission write failed, vehicle failed to send final ack.</source>
-      <translation type="unfinished">Mission write failed, vehicle failed to send final ack.</translation>
+      <translation>寫入任務失敗，載具未傳送最終確認回覆。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="208"/>
       <source>Mission write mission count failed, maximum retries exceeded.</source>
-      <translation type="unfinished">Mission write mission count failed, maximum retries exceeded.</translation>
+      <translation>寫入任務項目數量失敗，已超過重試次數上限。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="217"/>
       <source>Vehicle did not request all items from ground station: %1</source>
-      <translation type="unfinished">Vehicle did not request all items from ground station: %1</translation>
+      <translation>載具未向地面站要求所有項目：%1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="225"/>
       <source>Mission remove all, maximum retries exceeded.</source>
-      <translation type="unfinished">Mission remove all, maximum retries exceeded.</translation>
+      <translation>移除所有任務失敗，已超過重試次數上限。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="229"/>
       <source>Retrying %1 MISSION_CLEAR_ALL retry Count</source>
-      <translation type="unfinished">Retrying %1 MISSION_CLEAR_ALL retry Count</translation>
+      <translation>正在重試 %1 MISSION_CLEAR_ALL 重試計數</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="236"/>
       <source>Vehicle did not respond to mission item communication: %1</source>
-      <translation type="unfinished">Vehicle did not respond to mission item communication: %1</translation>
+      <translation>載具未回應任務項目通訊：%1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="353"/>
       <source>Internal Error: Call to Vehicle _requestNextMissionItem with no more indices to read</source>
-      <translation type="unfinished">Internal Error: Call to Vehicle _requestNextMissionItem with no more indices to read</translation>
+      <translation>內部錯誤：已無可讀取的索引，卻仍呼叫載具的 _requestNextMissionItem</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="511"/>
       <source>Vehicle requested item outside range, count:request %1:%2. Send to Vehicle failed.</source>
-      <translation type="unfinished">Vehicle requested item outside range, count:request %1:%2. Send to Vehicle failed.</translation>
+      <translation>載具要求的項目超出範圍，項目數：要求 %1:%2。傳送至載具失敗。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="625"/>
       <source>Vehicle remove all failed. Error: %1</source>
-      <translation type="unfinished">Vehicle remove all failed. Error: %1</translation>
+      <translation>移除載具所有任務失敗。錯誤：%1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="700"/>
       <source>Item #%1 Command: %2</source>
-      <translation type="unfinished">Item #%1 Command: %2</translation>
+      <translation>項目 #%1 命令：%2</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="704"/>
       <source>Frame: %1</source>
-      <translation type="unfinished">Frame: %1</translation>
+      <translation>座標參考系：%1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="710"/>
@@ -16620,92 +16733,92 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
       <location filename="../src/MissionManager/PlanManager.cc" line="725"/>
       <location filename="../src/MissionManager/PlanManager.cc" line="728"/>
       <source>Value: %1</source>
-      <translation type="unfinished">Value: %1</translation>
+      <translation>數值：%1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="747"/>
       <source>Mission accepted.</source>
-      <translation type="unfinished">Mission accepted.</translation>
+      <translation>任務已接受。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="750"/>
       <source>Unspecified error.</source>
-      <translation type="unfinished">Unspecified error.</translation>
+      <translation>未指定的錯誤。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="753"/>
       <source>Coordinate frame is not supported.</source>
-      <translation type="unfinished">Coordinate frame is not supported.</translation>
+      <translation>不支援此座標參考系。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="756"/>
       <source>Command is not supported.</source>
-      <translation type="unfinished">Command is not supported.</translation>
+      <translation>不支援此命令。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="759"/>
       <source>Mission item exceeds storage space.</source>
-      <translation type="unfinished">Mission item exceeds storage space.</translation>
+      <translation>任務項目超出儲存空間。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="762"/>
       <source>One of the parameters has an invalid value.</source>
-      <translation type="unfinished">One of the parameters has an invalid value.</translation>
+      <translation>其中一個參數的數值無效。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="765"/>
       <source>Param 1 invalid value.</source>
-      <translation type="unfinished">Param 1 invalid value.</translation>
+      <translation>參數 1 的數值無效。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="768"/>
       <source>Param 2 invalid value.</source>
-      <translation type="unfinished">Param 2 invalid value.</translation>
+      <translation>參數 2 的數值無效。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="771"/>
       <source>Param 3 invalid value.</source>
-      <translation type="unfinished">Param 3 invalid value.</translation>
+      <translation>參數 3 的數值無效。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="774"/>
       <source>Param 4 invalid value.</source>
-      <translation type="unfinished">Param 4 invalid value.</translation>
+      <translation>參數 4 的數值無效。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="777"/>
       <source>Param 5 invalid value.</source>
-      <translation type="unfinished">Param 5 invalid value.</translation>
+      <translation>參數 5 的數值無效。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="780"/>
       <source>Param 6 invalid value.</source>
-      <translation type="unfinished">Param 6 invalid value.</translation>
+      <translation>參數 6 的數值無效。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="783"/>
       <source>Param 7 invalid value.</source>
-      <translation type="unfinished">Param 7 invalid value.</translation>
+      <translation>參數 7 的數值無效。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="786"/>
       <source>Received mission item out of sequence.</source>
-      <translation type="unfinished">Received mission item out of sequence.</translation>
+      <translation>收到的任務項目順序錯誤。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="789"/>
       <source>Not accepting any mission commands.</source>
-      <translation type="unfinished">Not accepting any mission commands.</translation>
+      <translation>不接受任何任務命令。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="793"/>
       <source>Unknown error: %1.</source>
-      <translation type="unfinished">Unknown error: %1.</translation>
+      <translation>未知的錯誤：%1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="636"/>
       <source>Vehicle returned error: %1. %2Vehicle did not accept guided item.</source>
-      <translation type="unfinished">Vehicle returned error: %1. %2Vehicle did not accept guided item.</translation>
+      <translation>載具回傳錯誤：%1。%2載具未接受導引項目。</translation>
     </message>
   </context>
   <context>
@@ -16713,74 +16826,74 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="207"/>
       <source>Download not supported on high latency links.</source>
-      <translation type="unfinished">Download not supported on high latency links.</translation>
+      <translation>在高延遲連結上不支援下載。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="311"/>
       <source>Upload not supported on high latency links.</source>
-      <translation type="unfinished">Upload not supported on high latency links.</translation>
+      <translation>在高延遲連結上不支援上傳。</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="333"/>
       <source>Error loading Plan file (%1). %2</source>
-      <translation type="unfinished">Error loading Plan file (%1). %2</translation>
+      <translation>載入計畫檔案時發生錯誤（%1）。%2</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="483"/>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="489"/>
       <source>Plan save error %1 : %2</source>
-      <translation type="unfinished">Plan save error %1 : %2</translation>
+      <translation>任務計畫儲存錯誤 %1：%2</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="529"/>
       <source>KML save error %1 : %2</source>
-      <translation type="unfinished">KML save error %1 : %2</translation>
+      <translation>KML 儲存錯誤 %1 ：%2</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="681"/>
       <source>Supported types (*.%1 *.%2 *.%3)</source>
-      <translation type="unfinished">Supported types (*.%1 *.%2 *.%3)</translation>
+      <translation>支援的類型 (*.%1 *.%2 *.%3)</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="858"/>
       <source>Archive file not found: %1</source>
-      <translation type="unfinished">Archive file not found: %1</translation>
+      <translation>找不到封存檔：%1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="863"/>
       <source>Not a supported archive format: %1</source>
-      <translation type="unfinished">Not a supported archive format: %1</translation>
+      <translation>不支援的封存格式：%1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="869"/>
       <source>Could not create temporary directory</source>
-      <translation type="unfinished">Could not create temporary directory</translation>
+      <translation>無法建立暫存目錄</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="887"/>
       <source>Extraction failed</source>
-      <translation type="unfinished">Extraction failed</translation>
+      <translation>解壓縮失敗</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="888"/>
       <source>Failed to extract plan archive: %1</source>
-      <translation type="unfinished">Failed to extract plan archive: %1</translation>
+      <translation>無法解壓縮計畫封存檔：%1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="902"/>
       <source>No plan file found in archive</source>
-      <translation type="unfinished">No plan file found in archive</translation>
+      <translation>封存檔中找不到計畫檔案</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="682"/>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="691"/>
       <source>All Files (*)</source>
-      <translation type="unfinished">All Files (*)</translation>
+      <translation>所有檔案 (*)</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="691"/>
       <source>Plan Files (*.%1)</source>
-      <translation type="unfinished">Plan Files (*.%1)</translation>
+      <translation>任務計畫檔案 (*.%1)</translation>
     </message>
   </context>
   <context>
@@ -16789,75 +16902,90 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="39"/>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="195"/>
       <source>Download</source>
-      <translation type="unfinished">Download</translation>
+      <translation>下載</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="40"/>
       <source>You have unsaved changes. Downloading from the Vehicle will lose these changes. Are you sure?</source>
-      <translation type="unfinished">You have unsaved changes. Downloading from the Vehicle will lose these changes. Are you sure?</translation>
+      <translation>您有尚未儲存的變更。從載具下載將遺失這些變更。確定繼續嗎？</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="50"/>
       <source>Open Plan</source>
-      <translation type="unfinished">Open Plan</translation>
+      <translation>開啟計畫</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="51"/>
       <source>You have unsaved/unsent changes. Loading a new Plan will lose these changes. Are you sure?</source>
-      <translation type="unfinished">You have unsaved/unsent changes. Loading a new Plan will lose these changes. Are you sure?</translation>
+      <translation>您有尚未儲存／傳送的變更。載入新計畫將遺失這些變更。確定繼續嗎？</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="75"/>
       <source>&apos;%1&apos; already exists. Overwrite?</source>
-      <translation type="unfinished">&apos;%1&apos; already exists. Overwrite?</translation>
+      <translation>「%1」已存在。是否覆寫？</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="76"/>
       <source>Save as &apos;%1&apos;?</source>
-      <translation type="unfinished">Save as &apos;%1&apos;?</translation>
+      <translation>另存為「%1」？</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="77"/>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="128"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="93"/>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="100"/>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="148"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>清除</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="94"/>
       <source>Are you sure you want to remove all the items from the plan editor?</source>
-      <translation type="unfinished">Are you sure you want to remove all the items from the plan editor?</translation>
+      <translation>確定要移除計畫編輯器中的所有項目嗎？</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="101"/>
       <source>Are you sure you want to remove the plan from the vehicle and the plan editor?</source>
-      <translation type="unfinished">Are you sure you want to remove the plan from the vehicle and the plan editor?</translation>
+      <translation>確定要移除載具與計畫編輯器中的計畫嗎？</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="120"/>
       <source>Open</source>
-      <translation type="unfinished">Open</translation>
+      <translation>開啟</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="138"/>
       <source>Upload</source>
-      <translation type="unfinished">Upload</translation>
+      <translation>上傳</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="167"/>
       <source>Click in map to add rally points</source>
-      <translation type="unfinished">Click in map to add rally points</translation>
+      <translation>在地圖上按一下以新增集結點</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="184"/>
       <source>Save as KML</source>
-      <translation type="unfinished">Save as KML</translation>
+      <translation>儲存為 KML</translation>
+    </message>
+    <message>
+      <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="179"/>
+      <source>Save as...</source>
+      <translation>另存為…</translation>
+    </message>
+    <message>
+      <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="57"/>
+      <source>You have unsaved changes. Loading a new Plan will lose these changes. Are you sure?</source>
+      <translation>您有尚未儲存的變更。載入新計畫將遺失這些變更。確定繼續嗎？</translation>
+    </message>
+    <message>
+      <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="59"/>
+      <source>You have unsent changes. Loading a new Plan will lose these changes. Are you sure?</source>
+      <translation>您有尚未傳送的變更。載入新計畫將遺失這些變更。確定繼續嗎？</translation>
     </message>
   </context>
   <context>
@@ -16865,17 +16993,27 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/PlanView/PlanTreeView.qml" line="157"/>
       <source>&lt;Untitled&gt;</source>
-      <translation type="unfinished">&lt;Untitled&gt;</translation>
+      <translation>&lt;未命名&gt;</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanTreeView.qml" line="158"/>
       <source> items</source>
-      <translation type="unfinished"> items</translation>
+      <translation> 個項目</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanTreeView.qml" line="159"/>
       <source> points</source>
-      <translation type="unfinished"> points</translation>
+      <translation> 個點</translation>
+    </message>
+    <message>
+      <location filename="../src/PlanView/PlanTreeView.qml" line="171"/>
+      <source>%1 items</source>
+      <translation>%1 個項目</translation>
+    </message>
+    <message>
+      <location filename="../src/PlanView/PlanTreeView.qml" line="172"/>
+      <source>%1 points</source>
+      <translation>%1 個點</translation>
     </message>
   </context>
   <context>
@@ -16883,174 +17021,174 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="95"/>
       <source>Plan is waiting on terrain data from server for correct altitude values.</source>
-      <translation type="unfinished">Plan is waiting on terrain data from server for correct altitude values.</translation>
+      <translation>計畫正在等待伺服器提供地形資料，以取得正確的高度值。</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="118"/>
       <source>Plan Upload</source>
-      <translation type="unfinished">Plan Upload</translation>
+      <translation>任務計畫上傳</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="130"/>
       <source>Select Plan File</source>
-      <translation type="unfinished">Select Plan File</translation>
+      <translation>選擇任務計畫檔案</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="140"/>
       <source>Save Plan</source>
-      <translation type="unfinished">Save Plan</translation>
+      <translation>儲存計畫</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="154"/>
       <source>Save KML</source>
-      <translation type="unfinished">Save KML</translation>
+      <translation>儲存KML</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="464"/>
       <source>Waypoint</source>
-      <translation type="unfinished">Waypoint</translation>
+      <translation>航點</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="474"/>
       <source>ROI</source>
-      <translation type="unfinished">ROI</translation>
+      <translation>興趣點</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="450"/>
       <source>Pattern</source>
-      <translation type="unfinished">Pattern</translation>
+      <translation>航線樣式</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="474"/>
       <source>Cancel ROI</source>
-      <translation type="unfinished">Cancel ROI</translation>
+      <translation>取消興趣點</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="496"/>
       <source>Stats</source>
-      <translation type="unfinished">Stats</translation>
+      <translation>統計</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="787"/>
       <source>Plan View - Vehicle Disconnected</source>
-      <translation type="unfinished">Plan View - Vehicle Disconnected</translation>
+      <translation>計畫檢視－載具已中斷連線</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="787"/>
       <source>Plan View - Vehicle Changed</source>
-      <translation type="unfinished">Plan View - Vehicle Changed</translation>
+      <translation>計畫檢視－載具已變更</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="795"/>
       <source>The vehicle associated with the plan in the Plan View is no longer available. What would you like to do with that plan?</source>
-      <translation type="unfinished">The vehicle associated with the plan in the Plan View is no longer available. What would you like to do with that plan?</translation>
+      <translation>計畫檢視中此計畫對應的載具已無法使用。您想如何處理此計畫？</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="795"/>
       <source>The plan being worked on in the Plan View is not from the current vehicle. What would you like to do with that plan?</source>
-      <translation type="unfinished">The plan being worked on in the Plan View is not from the current vehicle. What would you like to do with that plan?</translation>
+      <translation>計畫檢視中正在編輯的計畫並非來自目前載具。您想如何處理此計畫？</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="802"/>
       <source>Discard Unsaved Changes</source>
-      <translation type="unfinished">Discard Unsaved Changes</translation>
+      <translation>捨棄未儲存的變更</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="802"/>
       <source>Discard Unsaved Changes, Load New Plan From Vehicle</source>
-      <translation type="unfinished">Discard Unsaved Changes, Load New Plan From Vehicle</translation>
+      <translation>捨棄未儲存的變更，並從載具載入新計畫</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="802"/>
       <source>Load New Plan From Vehicle</source>
-      <translation type="unfinished">Load New Plan From Vehicle</translation>
+      <translation>從載具載入新計畫</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="813"/>
       <source>Keep Current Plan</source>
-      <translation type="unfinished">Keep Current Plan</translation>
+      <translation>保留目前計畫</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="813"/>
       <source>Keep Current Plan, Don&apos;t Update From Vehicle</source>
-      <translation type="unfinished">Keep Current Plan, Don&apos;t Update From Vehicle</translation>
+      <translation>保留目前計畫，不從載具更新</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="838"/>
       <source>Insert ROI</source>
-      <translation type="unfinished">Insert ROI</translation>
+      <translation>插入興趣點</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="848"/>
       <source>Insert Cancel ROI</source>
-      <translation type="unfinished">Insert Cancel ROI</translation>
+      <translation>插入取消興趣點指令</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="119"/>
       <source>This Plan was created for a different firmware or vehicle type than the firmware/vehicle type of vehicle you are uploading to. This can lead to errors or incorrect behavior. It is recommended to recreate the Plan for the correct firmware/vehicle type.
 
 Click &apos;Ok&apos; to upload the Plan anyway.</source>
-      <translation type="unfinished">This Plan was created for a different firmware or vehicle type than the firmware/vehicle type of vehicle you are uploading to. This can lead to errors or incorrect behavior. It is recommended to recreate the Plan for the correct firmware/vehicle type.
+      <translation>此計畫建立時使用的韌體或載具類型，與您要上傳的載具不同。這可能導致錯誤或不正確的行為。建議針對正確的韌體／載具類型重新建立計畫。
 
-Click &apos;Ok&apos; to upload the Plan anyway.</translation>
+按一下「確定」仍要上傳此計畫。</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="116"/>
       <source>Send To Vehicle</source>
-      <translation type="unfinished">Send To Vehicle</translation>
+      <translation>傳送至載具</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="116"/>
       <source>Current mission must be paused prior to uploading a new Plan</source>
-      <translation type="unfinished">Current mission must be paused prior to uploading a new Plan</translation>
+      <translation>上傳新計畫前，必須先暫停目前任務</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="440"/>
       <source>Takeoff</source>
-      <translation type="unfinished">Takeoff</translation>
+      <translation>起飛</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="484"/>
       <source>Return</source>
-      <translation type="unfinished">Return</translation>
+      <translation>返航</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="486"/>
       <source>Alt Land</source>
-      <translation type="unfinished">Alt Land</translation>
+      <translation>備用降落</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="487"/>
       <source>Land</source>
-      <translation type="unfinished">Land</translation>
+      <translation>降落</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="760"/>
       <source>Create complex pattern:</source>
-      <translation type="unfinished">Create complex pattern:</translation>
+      <translation>建立複合航線樣式：</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="89"/>
       <location filename="../src/PlanView/PlanView.qml" line="94"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>儲存</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="90"/>
       <location filename="../src/PlanView/PlanView.qml" line="95"/>
       <source>Unable to %1</source>
-      <translation type="unfinished">Unable to %1</translation>
+      <translation>無法 %1</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="90"/>
       <source>Plan has incomplete items. Complete all items and %1 again.</source>
-      <translation type="unfinished">Plan has incomplete items. Complete all items and %1 again.</translation>
+      <translation>計畫中有未完成的項目。請完成所有項目後，再次%1。</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="89"/>
       <location filename="../src/PlanView/PlanView.qml" line="94"/>
       <source>Upload</source>
-      <translation type="unfinished">Upload</translation>
+      <translation>上傳</translation>
     </message>
   </context>
   <context>
@@ -17058,17 +17196,17 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/Toolbar/PlanViewToolBar.qml" line="109"/>
       <source>Syncing Mission</source>
-      <translation type="unfinished">Syncing Mission</translation>
+      <translation>正在同步任務</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/PlanViewToolBar.qml" line="116"/>
       <source>Done</source>
-      <translation type="unfinished">Done</translation>
+      <translation>完成</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/PlanViewToolBar.qml" line="125"/>
       <source>Click anywhere to hide</source>
-      <translation type="unfinished">Click anywhere to hide</translation>
+      <translation>按一下任意位置以隱藏</translation>
     </message>
   </context>
   <context>
@@ -17076,12 +17214,17 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.cc" line="7"/>
       <source>Power</source>
-      <translation type="unfinished">Power</translation>
+      <translation>電源</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.cc" line="18"/>
       <source>Configure battery parameters, ESC calibration, and UAVCAN bus settings.</source>
-      <translation type="unfinished">Configure battery parameters, ESC calibration, and UAVCAN bus settings.</translation>
+      <translation>設定電池參數、電子變速器校正與 UAVCAN 匯流排。</translation>
+    </message>
+    <message>
+      <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.cc" line="18"/>
+      <source>Configure battery parameters and ESC calibration.</source>
+      <translation>設定電池參數與電子變速器校正。</translation>
     </message>
   </context>
   <context>
@@ -17089,47 +17232,47 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponentSummary.qml" line="14"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>不適用</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponentSummary.qml" line="58"/>
       <source>Battery %1 Source</source>
-      <translation type="unfinished">Battery %1 Source</translation>
+      <translation>電池 %1 來源</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponentSummary.qml" line="58"/>
       <source>Battery Source</source>
-      <translation type="unfinished">Battery Source</translation>
+      <translation>電池來源</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponentSummary.qml" line="63"/>
       <source>Battery Full</source>
-      <translation type="unfinished">Battery Full</translation>
+      <translation>滿電電壓</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponentSummary.qml" line="63"/>
       <source>Battery %1 Full</source>
-      <translation type="unfinished">Battery %1 Full</translation>
+      <translation>電池 %1 滿電電壓</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponentSummary.qml" line="68"/>
       <source>Battery Empty</source>
-      <translation type="unfinished">Battery Empty</translation>
+      <translation>空電電壓</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponentSummary.qml" line="68"/>
       <source>Battery %1 Empty</source>
-      <translation type="unfinished">Battery %1 Empty</translation>
+      <translation>電池 %1 空電電壓</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponentSummary.qml" line="73"/>
       <source>Number of Cells</source>
-      <translation type="unfinished">Number of Cells</translation>
+      <translation>電芯數</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponentSummary.qml" line="73"/>
       <source>Battery %1 Number of Cells</source>
-      <translation type="unfinished">Battery %1 Number of Cells</translation>
+      <translation>電池 %1 電芯數</translation>
     </message>
   </context>
   <context>
@@ -17137,22 +17280,22 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/FlyView/PreFlightBatteryCheck.qml" line="8"/>
       <source>Battery</source>
-      <translation type="unfinished">Battery</translation>
+      <translation>電池</translation>
     </message>
     <message>
       <location filename="../src/FlyView/PreFlightBatteryCheck.qml" line="9"/>
       <source>Battery connector firmly plugged?</source>
-      <translation type="unfinished">Battery connector firmly plugged?</translation>
+      <translation>電池接頭已牢固插妥？</translation>
     </message>
     <message>
       <location filename="../src/FlyView/PreFlightBatteryCheck.qml" line="12"/>
       <source>Warning - Battery charge below %1%.</source>
-      <translation type="unfinished">Warning - Battery charge below %1%.</translation>
+      <translation>警告 - 電池電量低於 %1%。</translation>
     </message>
     <message>
       <location filename="../src/FlyView/PreFlightBatteryCheck.qml" line="13"/>
       <source>Battery charge below %1%. Please recharge.</source>
-      <translation type="unfinished">Battery charge below %1%. Please recharge.</translation>
+      <translation>電池電量低於 %1%。請重新充電。</translation>
     </message>
   </context>
   <context>
@@ -17160,7 +17303,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/QmlControls/PreFlightCheckButton.qml" line="43"/>
       <source>Passed</source>
-      <translation type="unfinished">Passed</translation>
+      <translation>通過</translation>
     </message>
   </context>
   <context>
@@ -17168,7 +17311,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/QmlControls/PreFlightCheckGroup.qml" line="41"/>
       <source> (passed)</source>
-      <translation type="unfinished"> (passed)</translation>
+      <translation> （通過）</translation>
     </message>
   </context>
   <context>
@@ -17176,12 +17319,12 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/FlyView/PreFlightCheckList.qml" line="123"/>
       <source>(Passed)</source>
-      <translation type="unfinished">(Passed)</translation>
+      <translation>（通過）</translation>
     </message>
     <message>
       <location filename="../src/FlyView/PreFlightCheckList.qml" line="123"/>
       <source>In Progress</source>
-      <translation type="unfinished">In Progress</translation>
+      <translation>進行中</translation>
     </message>
   </context>
   <context>
@@ -17189,7 +17332,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/FlyView/PreFlightCheckListShowAction.qml" line="5"/>
       <source>Checklist</source>
-      <translation type="unfinished">Checklist</translation>
+      <translation>檢查清單</translation>
     </message>
   </context>
   <context>
@@ -17197,22 +17340,22 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/FlyView/PreFlightGPSCheck.qml" line="7"/>
       <source>GPS</source>
-      <translation type="unfinished">GPS</translation>
+      <translation>GPS</translation>
     </message>
     <message>
       <location filename="../src/FlyView/PreFlightGPSCheck.qml" line="10"/>
       <source>Waiting for 3D lock.</source>
-      <translation type="unfinished">Waiting for 3D lock.</translation>
+      <translation>等待3D定位中。</translation>
     </message>
     <message>
       <location filename="../src/FlyView/PreFlightGPSCheck.qml" line="21"/>
       <source>Warning - Sat count below %1.</source>
-      <translation type="unfinished">Warning - Sat count below %1.</translation>
+      <translation>警告 - 衛星數低於%1。</translation>
     </message>
     <message>
       <location filename="../src/FlyView/PreFlightGPSCheck.qml" line="21"/>
       <source>Waiting for sat count above %1.</source>
-      <translation type="unfinished">Waiting for sat count above %1.</translation>
+      <translation>等待衛星數升至 %1 以上。</translation>
     </message>
   </context>
   <context>
@@ -17220,17 +17363,17 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/FlyView/PreFlightRCCheck.qml" line="7"/>
       <source>Radio Control</source>
-      <translation type="unfinished">Radio Control</translation>
+      <translation>無線遙控</translation>
     </message>
     <message>
       <location filename="../src/FlyView/PreFlightRCCheck.qml" line="8"/>
       <source>Receiving signal. Perform range test &amp; confirm.</source>
-      <translation type="unfinished">Receiving signal. Perform range test &amp; confirm.</translation>
+      <translation>正在接收訊號。請執行距離測試並確認。</translation>
     </message>
     <message>
       <location filename="../src/FlyView/PreFlightRCCheck.qml" line="9"/>
       <source>No signal or invalid autopilot-RC config. Check RC and console.</source>
-      <translation type="unfinished">No signal or invalid autopilot-RC config. Check RC and console.</translation>
+      <translation>沒有訊號，或飛控與遙控器的設定無效。請檢查遙控器及主控台。</translation>
     </message>
   </context>
   <context>
