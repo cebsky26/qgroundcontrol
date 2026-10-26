@@ -10227,62 +10227,62 @@ VTOL</source>
     <message>
       <location filename="../src/Utilities/Geo/Formats/KMLHelper.cc" line="29"/>
       <source>File not found: %1</source>
-      <translation type="unfinished">File not found: %1</translation>
+      <translation>找不到檔案：%1</translation>
     </message>
     <message>
       <location filename="../src/Utilities/Geo/Formats/KMLHelper.cc" line="34"/>
       <source>Unable to open file: %1 error: %2</source>
-      <translation type="unfinished">Unable to open file: %1 error: %2</translation>
+      <translation>無法開啟檔案：%1，錯誤：%2</translation>
     </message>
     <message>
       <location filename="../src/Utilities/Geo/Formats/KMLHelper.cc" line="41"/>
       <source>Unable to parse KML file: %1 error: %2 line: %3</source>
-      <translation type="unfinished">Unable to parse KML file: %1 error: %2 line: %3</translation>
+      <translation>無法剖析 KML 檔案：%1，錯誤：%2，行：%3</translation>
     </message>
     <message>
       <location filename="../src/Utilities/Geo/Formats/KMLHelper.cc" line="53"/>
       <source>Empty coordinates string</source>
-      <translation type="unfinished">Empty coordinates string</translation>
+      <translation>座標字串為空</translation>
     </message>
     <message>
       <location filename="../src/Utilities/Geo/Formats/KMLHelper.cc" line="90"/>
       <source>No valid coordinates found</source>
-      <translation type="unfinished">No valid coordinates found</translation>
+      <translation>找不到有效座標</translation>
     </message>
     <message>
       <location filename="../src/Utilities/Geo/Formats/KMLHelper.cc" line="158"/>
       <source>No supported type found in KML file.</source>
-      <translation type="unfinished">No supported type found in KML file.</translation>
+      <translation>KML 檔案中找不到支援的類型。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/Geo/Formats/KMLHelper.cc" line="188"/>
       <source>Unable to find Polygon node in KML</source>
-      <translation type="unfinished">Unable to find Polygon node in KML</translation>
+      <translation>在 KML 中找不到 Polygon 節點</translation>
     </message>
     <message>
       <location filename="../src/Utilities/Geo/Formats/KMLHelper.cc" line="239"/>
       <source>No valid polygons found in KML file</source>
-      <translation type="unfinished">No valid polygons found in KML file</translation>
+      <translation>KML 檔案中找不到有效多邊形</translation>
     </message>
     <message>
       <location filename="../src/Utilities/Geo/Formats/KMLHelper.cc" line="292"/>
       <source>No valid polylines found in KML file</source>
-      <translation type="unfinished">No valid polylines found in KML file</translation>
+      <translation>KML 檔案中找不到有效折線</translation>
     </message>
     <message>
       <location filename="../src/Utilities/Geo/Formats/KMLHelper.cc" line="311"/>
       <source>Unable to find Point node in KML</source>
-      <translation type="unfinished">Unable to find Point node in KML</translation>
+      <translation>在 KML 中找不到 Point 節點</translation>
     </message>
     <message>
       <location filename="../src/Utilities/Geo/Formats/KMLHelper.cc" line="340"/>
       <source>No valid points found in KML file</source>
-      <translation type="unfinished">No valid points found in KML file</translation>
+      <translation>KML 檔案中找不到有效點位</translation>
     </message>
     <message>
       <location filename="../src/Utilities/Geo/Formats/KMLHelper.cc" line="258"/>
       <source>Unable to find LineString node in KML</source>
-      <translation type="unfinished">Unable to find LineString node in KML</translation>
+      <translation>在 KML 中找不到 LineString 節點</translation>
     </message>
   </context>
   <context>
@@ -10290,7 +10290,7 @@ VTOL</source>
     <message>
       <location filename="../src/Utilities/Geo/Formats/KMLHelper.cc" line="20"/>
       <source>KML file load failed. %1</source>
-      <translation type="unfinished">KML file load failed. %1</translation>
+      <translation>KML 檔案載入失敗。 %1</translation>
     </message>
   </context>
   <context>
@@ -10298,7 +10298,7 @@ VTOL</source>
     <message>
       <location filename="../src/QmlControls/KMLOrSHPFileDialog.qml" line="10"/>
       <source>Select File</source>
-      <translation type="unfinished">Select File</translation>
+      <translation>選擇檔案</translation>
     </message>
   </context>
   <context>
@@ -10306,12 +10306,12 @@ VTOL</source>
     <message>
       <location filename="../src/FactSystem/FactControls/LabelledFactBrowse.qml" line="25"/>
       <source>&lt;not set&gt;</source>
-      <translation type="unfinished">&lt;not set&gt;</translation>
+      <translation>&lt;未設定&gt;</translation>
     </message>
     <message>
       <location filename="../src/FactSystem/FactControls/LabelledFactBrowse.qml" line="48"/>
       <source>Browse</source>
-      <translation type="unfinished">Browse</translation>
+      <translation>瀏覽</translation>
     </message>
   </context>
   <context>
@@ -10319,12 +10319,12 @@ VTOL</source>
     <message>
       <location filename="../src/MissionManager/LandingComplexItem.cc" line="762"/>
       <source>%1 does not support loading this complex mission item type: %2:%3</source>
-      <translation type="unfinished">%1 does not support loading this complex mission item type: %2:%3</translation>
+      <translation>%1 不支援載入此複合任務項目類型：%2:%3</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/LandingComplexItem.cc" line="782"/>
       <source>Fixed Wing Landing Pattern: Setting the loiter and landing altitudes with different settings for altitude relative is no longer supported. Both have been set to relative altitude. Be sure to adjust/check your plan prior to flight.</source>
-      <translation type="unfinished">Fixed Wing Landing Pattern: Setting the loiter and landing altitudes with different settings for altitude relative is no longer supported. Both have been set to relative altitude. Be sure to adjust/check your plan prior to flight.</translation>
+      <translation>固定翼降落航線：已不再支援為盤旋與降落高度設定不同的相對高度基準。兩者皆已設為相對高度。飛行前請務必調整並檢查您的計畫。</translation>
     </message>
   </context>
   <context>
@@ -10332,68 +10332,68 @@ VTOL</source>
     <message>
       <location filename="../src/AppSettings/LinkConfigurationManager.qml" line="11"/>
       <source>Links</source>
-      <translation type="unfinished">Links</translation>
+      <translation>連線</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/LinkConfigurationManager.qml" line="69"/>
       <source>Delete Link</source>
-      <translation type="unfinished">Delete Link</translation>
+      <translation>刪除連線</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/LinkConfigurationManager.qml" line="70"/>
       <source>Are you sure you want to delete &apos;%1&apos;?</source>
-      <translation type="unfinished">Are you sure you want to delete &apos;%1&apos;?</translation>
+      <translation>確定要刪除「%1」嗎？</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/LinkConfigurationManager.qml" line="78"/>
       <source>Disconnect</source>
-      <translation type="unfinished">Disconnect</translation>
+      <translation>中斷連線</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/LinkConfigurationManager.qml" line="78"/>
       <source>Connect</source>
-      <translation type="unfinished">Connect</translation>
+      <translation>連線</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/LinkConfigurationManager.qml" line="91"/>
       <location filename="../src/AppSettings/LinkConfigurationManager.qml" line="110"/>
       <source>Add New Link</source>
-      <translation type="unfinished">Add New Link</translation>
+      <translation>新增連線</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/LinkConfigurationManager.qml" line="92"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>新增</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/LinkConfigurationManager.qml" line="110"/>
       <source>Edit Link</source>
-      <translation type="unfinished">Edit Link</translation>
+      <translation>編輯連線</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/LinkConfigurationManager.qml" line="137"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名稱</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/LinkConfigurationManager.qml" line="142"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>輸入名稱</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/LinkConfigurationManager.qml" line="148"/>
       <source>Automatically Connect on Start</source>
-      <translation type="unfinished">Automatically Connect on Start</translation>
+      <translation>啟動時自動連線</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/LinkConfigurationManager.qml" line="155"/>
       <source>High Latency</source>
-      <translation type="unfinished">High Latency</translation>
+      <translation>高延遲</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/LinkConfigurationManager.qml" line="161"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>類型</translation>
     </message>
   </context>
   <context>
@@ -10401,7 +10401,7 @@ VTOL</source>
     <message>
       <location filename="../src/Comms/LinkInterface.cc" line="141"/>
       <source>MAVLink v1 traffic detected on link &apos;%1&apos;. %2 only supports MAVLink v2. Please ensure your vehicle is configured to use MAVLink v2.</source>
-      <translation type="unfinished">MAVLink v1 traffic detected on link &apos;%1&apos;. %2 only supports MAVLink v2. Please ensure your vehicle is configured to use MAVLink v2.</translation>
+      <translation>在連線「%1」偵測到 MAVLink v1 資料。%2 僅支援 MAVLink v2。請確認載具已設定為使用 MAVLink v2。</translation>
     </message>
   </context>
   <context>
@@ -10409,50 +10409,50 @@ VTOL</source>
     <message>
       <location filename="../src/Comms/LinkManager.cc" line="321"/>
       <source>Connect not allowed: %1</source>
-      <translation type="unfinished">Connect not allowed: %1</translation>
+      <translation>不允許連線：%1</translation>
     </message>
     <message>
       <location filename="../src/Comms/LinkManager.cc" line="882"/>
       <location filename="../src/Comms/LinkManager.cc" line="886"/>
       <location filename="../src/Comms/LinkManager.cc" line="889"/>
       <source>%1 on %2 (AutoConnect)</source>
-      <translation type="unfinished">%1 on %2 (AutoConnect)</translation>
+      <translation>%2上的%1（自動連線）</translation>
     </message>
     <message>
       <location filename="../src/Comms/LinkManager.cc" line="538"/>
       <source>Shutdown</source>
-      <translation type="unfinished">Shutdown</translation>
+      <translation>關機</translation>
     </message>
     <message>
       <location filename="../src/Comms/LinkManager.cc" line="556"/>
       <source>Serial</source>
-      <translation type="unfinished">Serial</translation>
+      <translation>序列埠</translation>
     </message>
     <message>
       <location filename="../src/Comms/LinkManager.cc" line="558"/>
       <source>UDP</source>
-      <translation type="unfinished">UDP</translation>
+      <translation>UDP</translation>
     </message>
     <message>
       <location filename="../src/Comms/LinkManager.cc" line="559"/>
       <source>TCP</source>
-      <translation type="unfinished">TCP</translation>
+      <translation>TCP</translation>
     </message>
     <message>
       <location filename="../src/Comms/LinkManager.cc" line="560"/>
       <source>Bluetooth</source>
-      <translation type="unfinished">Bluetooth</translation>
+      <translation>藍牙</translation>
     </message>
     <message>
       <location filename="../src/Comms/LinkManager.cc" line="562"/>
       <source>Mock Link</source>
-      <translation type="unfinished">Mock Link</translation>
+      <translation>模擬連線</translation>
     </message>
     <message>
       <location filename="../src/Comms/LinkManager.cc" line="564"/>
       <location filename="../src/Comms/LinkManager.cc" line="731"/>
       <source>Log Replay</source>
-      <translation type="unfinished">Log Replay</translation>
+      <translation>記錄重播</translation>
     </message>
   </context>
   <context>
@@ -10460,586 +10460,586 @@ VTOL</source>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="97"/>
       <source>Main</source>
-      <translation type="unfinished">Main</translation>
+      <translation>主要</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="98"/>
       <source>Radio</source>
-      <translation type="unfinished">Radio</translation>
+      <translation>遙控器</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="99"/>
       <source>Compass</source>
-      <translation type="unfinished">Compass</translation>
+      <translation>羅盤</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="100"/>
       <source>Optflow</source>
-      <translation type="unfinished">Optflow</translation>
+      <translation>光流</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="101"/>
       <source>Radio Failsafe</source>
-      <translation type="unfinished">Radio Failsafe</translation>
+      <translation>遙控失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="102"/>
       <source>Battery Failsafe</source>
-      <translation type="unfinished">Battery Failsafe</translation>
+      <translation>電池失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="103"/>
       <source>GPS Failsafe</source>
-      <translation type="unfinished">GPS Failsafe</translation>
+      <translation>GPS 失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="104"/>
       <source>GCS Failsafe</source>
-      <translation type="unfinished">GCS Failsafe</translation>
+      <translation>地面站失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="105"/>
       <source>Fence Failsafe</source>
-      <translation type="unfinished">Fence Failsafe</translation>
+      <translation>圍籬失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="106"/>
       <source>Flight mode</source>
-      <translation type="unfinished">Flight mode</translation>
+      <translation>飛行模式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="107"/>
       <source>GPS</source>
-      <translation type="unfinished">GPS</translation>
+      <translation>GPS</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="108"/>
       <source>Crash Check</source>
-      <translation type="unfinished">Crash Check</translation>
+      <translation>墜毀檢查</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="109"/>
       <source>Flip</source>
-      <translation type="unfinished">Flip</translation>
+      <translation>翻轉</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="110"/>
       <source>Autotune</source>
-      <translation type="unfinished">Autotune</translation>
+      <translation>自動調校</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="111"/>
       <source>Parachute</source>
-      <translation type="unfinished">Parachute</translation>
+      <translation>降落傘</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="112"/>
       <source>EKF Check</source>
-      <translation type="unfinished">EKF Check</translation>
+      <translation>EKF 檢查</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="113"/>
       <source>EKF Failsafe</source>
-      <translation type="unfinished">EKF Failsafe</translation>
+      <translation>EKF 失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="114"/>
       <source>Barometer</source>
-      <translation type="unfinished">Barometer</translation>
+      <translation>氣壓計</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="115"/>
       <source>CPU Load Watchdog</source>
-      <translation type="unfinished">CPU Load Watchdog</translation>
+      <translation>CPU 負載看門狗</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="116"/>
       <source>ADSB Failsafe</source>
-      <translation type="unfinished">ADSB Failsafe</translation>
+      <translation>ADSB 失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="117"/>
       <source>Terrain Data</source>
-      <translation type="unfinished">Terrain Data</translation>
+      <translation>地形資料</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="118"/>
       <source>Navigation</source>
-      <translation type="unfinished">Navigation</translation>
+      <translation>導航</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="119"/>
       <source>Terrain Failsafe</source>
-      <translation type="unfinished">Terrain Failsafe</translation>
+      <translation>地形失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="120"/>
       <source>EKF Primary</source>
-      <translation type="unfinished">EKF Primary</translation>
+      <translation>主要 EKF</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="121"/>
       <source>Thrust Loss Check</source>
-      <translation type="unfinished">Thrust Loss Check</translation>
+      <translation>推力損失檢查</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="122"/>
       <source>Sensor Failsafe</source>
-      <translation type="unfinished">Sensor Failsafe</translation>
+      <translation>感測器失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="123"/>
       <source>Leak Failsafe</source>
-      <translation type="unfinished">Leak Failsafe</translation>
+      <translation>漏水失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="124"/>
       <source>Pilot Input</source>
-      <translation type="unfinished">Pilot Input</translation>
+      <translation>駕駛員輸入</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="125"/>
       <source>Vibration Failsafe</source>
-      <translation type="unfinished">Vibration Failsafe</translation>
+      <translation>振動失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="126"/>
       <source>Internal Error</source>
-      <translation type="unfinished">Internal Error</translation>
+      <translation>內部錯誤</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="127"/>
       <source>Deadreckon Failsafe</source>
-      <translation type="unfinished">Deadreckon Failsafe</translation>
+      <translation>航位推算失效保護</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="128"/>
       <source>Subsystem %1</source>
-      <translation type="unfinished">Subsystem %1</translation>
+      <translation>子系統 %1</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="136"/>
       <source>Armed</source>
-      <translation type="unfinished">Armed</translation>
+      <translation>已解鎖</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="137"/>
       <source>Disarmed</source>
-      <translation type="unfinished">Disarmed</translation>
+      <translation>已上鎖</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="138"/>
       <source>Auto Armed</source>
-      <translation type="unfinished">Auto Armed</translation>
+      <translation>已自動解鎖</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="139"/>
       <source>Land Complete Maybe</source>
-      <translation type="unfinished">Land Complete Maybe</translation>
+      <translation>可能已完成降落</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="140"/>
       <source>Land Complete</source>
-      <translation type="unfinished">Land Complete</translation>
+      <translation>已完成降落</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="141"/>
       <source>Lost GPS</source>
-      <translation type="unfinished">Lost GPS</translation>
+      <translation>GPS 訊號遺失</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="142"/>
       <source>Flip Start</source>
-      <translation type="unfinished">Flip Start</translation>
+      <translation>開始翻轉</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="143"/>
       <source>Flip End</source>
-      <translation type="unfinished">Flip End</translation>
+      <translation>結束翻轉</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="144"/>
       <source>Set Home</source>
-      <translation type="unfinished">Set Home</translation>
+      <translation>設定返航點</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="145"/>
       <source>Simple Mode Enabled</source>
-      <translation type="unfinished">Simple Mode Enabled</translation>
+      <translation>已啟用簡易模式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="146"/>
       <source>Simple Mode Disabled</source>
-      <translation type="unfinished">Simple Mode Disabled</translation>
+      <translation>已停用簡易模式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="147"/>
       <source>Not Landed</source>
-      <translation type="unfinished">Not Landed</translation>
+      <translation>尚未著陸</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="148"/>
       <source>Super Simple Mode Enabled</source>
-      <translation type="unfinished">Super Simple Mode Enabled</translation>
+      <translation>已啟用超級簡易模式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="149"/>
       <source>AutoTune Initialised</source>
-      <translation type="unfinished">AutoTune Initialised</translation>
+      <translation>自動調校已初始化</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="150"/>
       <source>AutoTune Off</source>
-      <translation type="unfinished">AutoTune Off</translation>
+      <translation>自動調校已關閉</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="151"/>
       <source>AutoTune Restart</source>
-      <translation type="unfinished">AutoTune Restart</translation>
+      <translation>重新啟動自動調校</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="152"/>
       <source>AutoTune Success</source>
-      <translation type="unfinished">AutoTune Success</translation>
+      <translation>自動調校成功</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="153"/>
       <source>AutoTune Failed</source>
-      <translation type="unfinished">AutoTune Failed</translation>
+      <translation>自動調校失敗</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="154"/>
       <source>AutoTune Reached Limit</source>
-      <translation type="unfinished">AutoTune Reached Limit</translation>
+      <translation>自動調校已達限制</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="155"/>
       <source>AutoTune Pilot Testing</source>
-      <translation type="unfinished">AutoTune Pilot Testing</translation>
+      <translation>自動調校駕駛員測試</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="156"/>
       <source>AutoTune Saved Gains</source>
-      <translation type="unfinished">AutoTune Saved Gains</translation>
+      <translation>自動調校增益已儲存</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="157"/>
       <source>Save Trim</source>
-      <translation type="unfinished">Save Trim</translation>
+      <translation>儲存微調值</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="158"/>
       <source>Save Waypoint Add</source>
-      <translation type="unfinished">Save Waypoint Add</translation>
+      <translation>新增並儲存航點</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="159"/>
       <source>Fence Enabled</source>
-      <translation type="unfinished">Fence Enabled</translation>
+      <translation>已啟用圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="160"/>
       <source>Fence Disabled</source>
-      <translation type="unfinished">Fence Disabled</translation>
+      <translation>已停用圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="161"/>
       <source>Acro Trainer Off</source>
-      <translation type="unfinished">Acro Trainer Off</translation>
+      <translation>已關閉特技訓練模式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="162"/>
       <source>Acro Trainer Leveling</source>
-      <translation type="unfinished">Acro Trainer Leveling</translation>
+      <translation>特技訓練自動回平</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="163"/>
       <source>Acro Trainer Limited</source>
-      <translation type="unfinished">Acro Trainer Limited</translation>
+      <translation>特技訓練角度限制</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="164"/>
       <source>Gripper Grab</source>
-      <translation type="unfinished">Gripper Grab</translation>
+      <translation>夾爪夾取</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="165"/>
       <source>Gripper Release</source>
-      <translation type="unfinished">Gripper Release</translation>
+      <translation>夾爪釋放</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="166"/>
       <source>Parachute Disabled</source>
-      <translation type="unfinished">Parachute Disabled</translation>
+      <translation>已停用降落傘</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="167"/>
       <source>Parachute Enabled</source>
-      <translation type="unfinished">Parachute Enabled</translation>
+      <translation>已啟用降落傘</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="168"/>
       <source>Parachute Released</source>
-      <translation type="unfinished">Parachute Released</translation>
+      <translation>降落傘已釋放</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="169"/>
       <source>Landing Gear Deployed</source>
-      <translation type="unfinished">Landing Gear Deployed</translation>
+      <translation>起落架已放下</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="170"/>
       <source>Landing Gear Retracted</source>
-      <translation type="unfinished">Landing Gear Retracted</translation>
+      <translation>起落架已收起</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="171"/>
       <source>Motors Emergency Stopped</source>
-      <translation type="unfinished">Motors Emergency Stopped</translation>
+      <translation>馬達已緊急停止</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="172"/>
       <source>Motors Emergency Stop Cleared</source>
-      <translation type="unfinished">Motors Emergency Stop Cleared</translation>
+      <translation>馬達緊急停止已解除</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="173"/>
       <source>Motors Interlock Disabled</source>
-      <translation type="unfinished">Motors Interlock Disabled</translation>
+      <translation>已停用馬達互鎖</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="174"/>
       <source>Motors Interlock Enabled</source>
-      <translation type="unfinished">Motors Interlock Enabled</translation>
+      <translation>已啟用馬達互鎖</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="175"/>
       <source>Rotor Runup Complete</source>
-      <translation type="unfinished">Rotor Runup Complete</translation>
+      <translation>旋翼加速完成</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="176"/>
       <source>Rotor Speed Below Critical</source>
-      <translation type="unfinished">Rotor Speed Below Critical</translation>
+      <translation>旋翼轉速低於臨界值</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="177"/>
       <source>EKF Altitude Reset</source>
-      <translation type="unfinished">EKF Altitude Reset</translation>
+      <translation>EKF 高度已重設</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="178"/>
       <source>Land Cancelled By Pilot</source>
-      <translation type="unfinished">Land Cancelled By Pilot</translation>
+      <translation>駕駛員已取消降落</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="179"/>
       <source>EKF Yaw Reset</source>
-      <translation type="unfinished">EKF Yaw Reset</translation>
+      <translation>EKF 偏航已重設</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="180"/>
       <source>ADSB Avoidance Enabled</source>
-      <translation type="unfinished">ADSB Avoidance Enabled</translation>
+      <translation>已啟用 ADSB 避讓</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="181"/>
       <source>ADSB Avoidance Disabled</source>
-      <translation type="unfinished">ADSB Avoidance Disabled</translation>
+      <translation>已停用 ADSB 避讓</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="182"/>
       <source>Proximity Avoidance Enabled</source>
-      <translation type="unfinished">Proximity Avoidance Enabled</translation>
+      <translation>已啟用近接避障</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="183"/>
       <source>Proximity Avoidance Disabled</source>
-      <translation type="unfinished">Proximity Avoidance Disabled</translation>
+      <translation>已停用近接避障</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="184"/>
       <source>GPS Primary Changed</source>
-      <translation type="unfinished">GPS Primary Changed</translation>
+      <translation>主要 GPS 已變更</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="185"/>
       <source>ZigZag Store A</source>
-      <translation type="unfinished">ZigZag Store A</translation>
+      <translation>之字形航線 A 點已儲存</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="186"/>
       <source>ZigZag Store B</source>
-      <translation type="unfinished">ZigZag Store B</translation>
+      <translation>之字形航線 B 點已儲存</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="187"/>
       <source>Land Repo Active</source>
-      <translation type="unfinished">Land Repo Active</translation>
+      <translation>已啟用降落位置調整</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="188"/>
       <source>Standby Enabled</source>
-      <translation type="unfinished">Standby Enabled</translation>
+      <translation>已啟用待命模式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="189"/>
       <source>Standby Disabled</source>
-      <translation type="unfinished">Standby Disabled</translation>
+      <translation>已停用待命模式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="190"/>
       <source>Fence Alt Max Enabled</source>
-      <translation type="unfinished">Fence Alt Max Enabled</translation>
+      <translation>已啟用最高高度圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="191"/>
       <source>Fence Alt Max Disabled</source>
-      <translation type="unfinished">Fence Alt Max Disabled</translation>
+      <translation>已停用最高高度圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="192"/>
       <source>Fence Circle Enabled</source>
-      <translation type="unfinished">Fence Circle Enabled</translation>
+      <translation>已啟用圓形圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="193"/>
       <source>Fence Circle Disabled</source>
-      <translation type="unfinished">Fence Circle Disabled</translation>
+      <translation>已停用圓形圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="194"/>
       <source>Fence Alt Min Enabled</source>
-      <translation type="unfinished">Fence Alt Min Enabled</translation>
+      <translation>已啟用最低高度圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="195"/>
       <source>Fence Alt Min Disabled</source>
-      <translation type="unfinished">Fence Alt Min Disabled</translation>
+      <translation>已停用最低高度圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="196"/>
       <source>Fence Polygon Enabled</source>
-      <translation type="unfinished">Fence Polygon Enabled</translation>
+      <translation>已啟用多邊形圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="197"/>
       <source>Fence Polygon Disabled</source>
-      <translation type="unfinished">Fence Polygon Disabled</translation>
+      <translation>已停用多邊形圍籬</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="198"/>
       <source>EK3 Source Set: Primary</source>
-      <translation type="unfinished">EK3 Source Set: Primary</translation>
+      <translation>EK3 來源組：第一組</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="199"/>
       <source>EK3 Source Set: Secondary</source>
-      <translation type="unfinished">EK3 Source Set: Secondary</translation>
+      <translation>EK3 來源組：第二組</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="200"/>
       <source>EK3 Source Set: Tertiary</source>
-      <translation type="unfinished">EK3 Source Set: Tertiary</translation>
+      <translation>EK3 來源組：第三組</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="201"/>
       <source>Airspeed Primary Changed</source>
-      <translation type="unfinished">Airspeed Primary Changed</translation>
+      <translation>主要空速來源已變更</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="202"/>
       <source>Surfaced</source>
-      <translation type="unfinished">Surfaced</translation>
+      <translation>已浮出水面</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="203"/>
       <source>Not Surfaced</source>
-      <translation type="unfinished">Not Surfaced</translation>
+      <translation>尚未浮出水面</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="204"/>
       <source>Bottomed</source>
-      <translation type="unfinished">Bottomed</translation>
+      <translation>已觸底</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="205"/>
       <source>Not Bottomed</source>
-      <translation type="unfinished">Not Bottomed</translation>
+      <translation>尚未觸底</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="206"/>
       <source>Event %1</source>
-      <translation type="unfinished">Event %1</translation>
+      <translation>事件 %1</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="247"/>
       <location filename="../src/AnalyzeView/LogViewer/PX4ULog/LogViewerULogParser.cc" line="22"/>
       <source>Failed to open file</source>
-      <translation type="unfinished">Failed to open file</translation>
+      <translation>無法開啟檔案</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="253"/>
       <location filename="../src/AnalyzeView/LogViewer/PX4ULog/LogViewerULogParser.cc" line="28"/>
       <source>File is empty</source>
-      <translation type="unfinished">File is empty</translation>
+      <translation>檔案為空</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="257"/>
       <location filename="../src/AnalyzeView/LogViewer/PX4ULog/LogViewerULogParser.cc" line="32"/>
       <source>File is too large to parse</source>
-      <translation type="unfinished">File is too large to parse</translation>
+      <translation>檔案過大，無法剖析</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="263"/>
       <location filename="../src/AnalyzeView/LogViewer/PX4ULog/LogViewerULogParser.cc" line="38"/>
       <source>Failed to memory-map file</source>
-      <translation type="unfinished">Failed to memory-map file</translation>
+      <translation>無法對檔案建立記憶體對映</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="279"/>
       <source>File does not appear to be a DataFlash log (invalid header)</source>
-      <translation type="unfinished">File does not appear to be a DataFlash log (invalid header)</translation>
+      <translation>此檔案似乎不是 DataFlash 記錄（標頭無效）</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="287"/>
       <source>No valid FMT messages were found</source>
-      <translation type="unfinished">No valid FMT messages were found</translation>
+      <translation>找不到有效的 FMT 訊息</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="380"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>未知</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/APMDataFlash/LogViewerDataFlashParser.cc" line="383"/>
       <source>Mode: %1</source>
-      <translation type="unfinished">Mode: %1</translation>
+      <translation>模式：%1</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogFileParser.cc" line="35"/>
       <source>no extension</source>
-      <translation type="unfinished">no extension</translation>
+      <translation>無副檔名</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogFileParser.cc" line="39"/>
       <source>Unsupported file type (%1) for file &apos;%2&apos;. Expected .bin, .log, or .ulg.</source>
-      <translation type="unfinished">Unsupported file type (%1) for file &apos;%2&apos;. Expected .bin, .log, or .ulg.</translation>
+      <translation>檔案「%2」的類型（%1）不受支援。預期為 .bin、.log 或 .ulg。</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/PX4ULog/LogViewerULogParser.cc" line="52"/>
       <source>File does not appear to be a ULog file (invalid header)</source>
-      <translation type="unfinished">File does not appear to be a ULog file (invalid header)</translation>
+      <translation>此檔案似乎不是 ULog 檔案（標頭無效）</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/PX4ULog/LogViewerULogParser.cc" line="76"/>
       <source>Fatal error while parsing ULog file</source>
-      <translation type="unfinished">Fatal error while parsing ULog file</translation>
+      <translation>剖析 ULog 檔案時發生致命錯誤</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/PX4ULog/LogViewerULogParser.cc" line="82"/>
       <source>ULog file header is incomplete or corrupt</source>
-      <translation type="unfinished">ULog file header is incomplete or corrupt</translation>
+      <translation>ULog 檔案標頭不完整或已損毀</translation>
     </message>
   </context>
   <context>
@@ -11047,7 +11047,7 @@ VTOL</source>
     <message>
       <location filename="../src/Comms/LogReplayLink.h" line="33"/>
       <source>Log Replay Link Settings</source>
-      <translation type="unfinished">Log Replay Link Settings</translation>
+      <translation>記錄重播連線設定</translation>
     </message>
   </context>
   <context>
@@ -11055,12 +11055,12 @@ VTOL</source>
     <message>
       <location filename="../src/Comms/LogReplayLink.cc" line="477"/>
       <source>Log Replay Link Error</source>
-      <translation type="unfinished">Log Replay Link Error</translation>
+      <translation>記錄重播連線錯誤</translation>
     </message>
     <message>
       <location filename="../src/Comms/LogReplayLink.cc" line="477"/>
       <source>Link: %1, %2.</source>
-      <translation type="unfinished">Link: %1, %2.</translation>
+      <translation>連線：%1，%2。</translation>
     </message>
   </context>
   <context>
@@ -11068,27 +11068,27 @@ VTOL</source>
     <message>
       <location filename="../src/AppSettings/LogReplaySettings.qml" line="16"/>
       <source>Log File</source>
-      <translation type="unfinished">Log File</translation>
+      <translation>記錄檔</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/LogReplaySettings.qml" line="25"/>
       <source>Browse</source>
-      <translation type="unfinished">Browse</translation>
+      <translation>瀏覽</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/LogReplaySettings.qml" line="31"/>
       <source>Select Telemetery Log</source>
-      <translation type="unfinished">Select Telemetery Log</translation>
+      <translation>選擇遙測記錄</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/LogReplaySettings.qml" line="32"/>
       <source>Telemetry Logs (*.%1)</source>
-      <translation type="unfinished">Telemetry Logs (*.%1)</translation>
+      <translation>遙測記錄 (*.%1)</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/LogReplaySettings.qml" line="32"/>
       <source>All Files (*)</source>
-      <translation type="unfinished">All Files (*)</translation>
+      <translation>所有檔案 (*)</translation>
     </message>
   </context>
   <context>
@@ -11096,47 +11096,47 @@ VTOL</source>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="19"/>
       <source>Log Replay</source>
-      <translation type="unfinished">Log Replay</translation>
+      <translation>記錄重播</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="19"/>
       <source>You must close all connections prior to replaying a log.</source>
-      <translation type="unfinished">You must close all connections prior to replaying a log.</translation>
+      <translation>回放記錄前必須關閉所有連線。</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="30"/>
       <source>Select Telemetery Log</source>
-      <translation type="unfinished">Select Telemetery Log</translation>
+      <translation>選擇遙測記錄</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="31"/>
       <source>Telemetry Logs (*.%1)</source>
-      <translation type="unfinished">Telemetry Logs (*.%1)</translation>
+      <translation>遙測記錄 (*.%1)</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="31"/>
       <source>All Files (*)</source>
-      <translation type="unfinished">All Files (*)</translation>
+      <translation>所有檔案 (*)</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="58"/>
       <source>Pause</source>
-      <translation type="unfinished">Pause</translation>
+      <translation>暫停</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="58"/>
       <source>Play</source>
-      <translation type="unfinished">Play</translation>
+      <translation>播放</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="106"/>
       <source>Load Telemetry Log</source>
-      <translation type="unfinished">Load Telemetry Log</translation>
+      <translation>載入遙測記錄</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="112"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>關閉</translation>
     </message>
   </context>
   <context>
@@ -11144,33 +11144,33 @@ VTOL</source>
     <message>
       <location filename="../src/Comms/LogReplayLink.cc" line="108"/>
       <source>You must close all connections prior to replaying a log.</source>
-      <translation type="unfinished">You must close all connections prior to replaying a log.</translation>
+      <translation>回放記錄前必須關閉所有連線。</translation>
     </message>
     <message>
       <location filename="../src/Comms/LogReplayLink.cc" line="151"/>
       <source>Connect not allowed during Flight Data replay.</source>
-      <translation type="unfinished">Connect not allowed during Flight Data replay.</translation>
+      <translation>飛行資料重播期間不允許連線。</translation>
     </message>
     <message>
       <location filename="../src/Comms/LogReplayLink.cc" line="196"/>
       <location filename="../src/Comms/LogReplayLink.cc" line="208"/>
       <source>Unable to seek to new position</source>
-      <translation type="unfinished">Unable to seek to new position</translation>
+      <translation>無法跳至新位置</translation>
     </message>
     <message>
       <location filename="../src/Comms/LogReplayLink.cc" line="271"/>
       <source>Attempt to load new log while log being played</source>
-      <translation type="unfinished">Attempt to load new log while log being played</translation>
+      <translation>嘗試在播放記錄時載入新記錄</translation>
     </message>
     <message>
       <location filename="../src/Comms/LogReplayLink.cc" line="278"/>
       <source>Unable to open log file: &apos;%1&apos;, error: %2</source>
-      <translation type="unfinished">Unable to open log file: &apos;%1&apos;, error: %2</translation>
+      <translation>無法開啟記錄檔：「%1」，錯誤：%2</translation>
     </message>
     <message>
       <location filename="../src/Comms/LogReplayLink.cc" line="290"/>
       <source>The log file &apos;%1&apos; is corrupt or empty.</source>
-      <translation type="unfinished">The log file &apos;%1&apos; is corrupt or empty.</translation>
+      <translation>記錄檔「%1」已損毀或為空。</translation>
     </message>
   </context>
   <context>
@@ -11178,22 +11178,22 @@ VTOL</source>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerAltChart.qml" line="151"/>
       <source>Alt (m)</source>
-      <translation type="unfinished">Alt (m)</translation>
+      <translation>高度（公尺）</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerAltChart.qml" line="165"/>
       <source>Current</source>
-      <translation type="unfinished">Current</translation>
+      <translation>目前高度</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerAltChart.qml" line="170"/>
       <source>Min</source>
-      <translation type="unfinished">Min</translation>
+      <translation>最小</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerAltChart.qml" line="175"/>
       <source>Max</source>
-      <translation type="unfinished">Max</translation>
+      <translation>最大</translation>
     </message>
   </context>
   <context>
@@ -11201,12 +11201,12 @@ VTOL</source>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerBaseChart.qml" line="213"/>
       <source>Time (local)</source>
-      <translation type="unfinished">Time (local)</translation>
+      <translation>時間（本地）</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerBaseChart.qml" line="213"/>
       <source>Elapsed</source>
-      <translation type="unfinished">Elapsed</translation>
+      <translation>經過時間</translation>
     </message>
   </context>
   <context>
@@ -11214,82 +11214,82 @@ VTOL</source>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerChart.qml" line="96"/>
       <source>Mode</source>
-      <translation type="unfinished">Mode</translation>
+      <translation>模式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerChart.qml" line="97"/>
       <source>Event</source>
-      <translation type="unfinished">Event</translation>
+      <translation>事件</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerChart.qml" line="98"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>錯誤</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerChart.qml" line="99"/>
       <source>Warning</source>
-      <translation type="unfinished">Warning</translation>
+      <translation>警告</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerChart.qml" line="344"/>
       <source>Modes</source>
-      <translation type="unfinished">Modes</translation>
+      <translation>模式</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerChart.qml" line="374"/>
       <source>Dropouts</source>
-      <translation type="unfinished">Dropouts</translation>
+      <translation>資料遺漏</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerChart.qml" line="404"/>
       <source>Events</source>
-      <translation type="unfinished">Events</translation>
+      <translation>事件</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerChart.qml" line="438"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>值</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerChart.qml" line="451"/>
       <source>Mode:</source>
-      <translation type="unfinished">Mode:</translation>
+      <translation>模式：</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerChart.qml" line="482"/>
       <source>Current</source>
-      <translation type="unfinished">Current</translation>
+      <translation>目前值</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerChart.qml" line="487"/>
       <source>Min</source>
-      <translation type="unfinished">Min</translation>
+      <translation>最小</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerChart.qml" line="492"/>
       <source>Max</source>
-      <translation type="unfinished">Max</translation>
+      <translation>最大</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerChart.qml" line="529"/>
       <source>Modes:</source>
-      <translation type="unfinished">Modes:</translation>
+      <translation>模式：</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerChart.qml" line="554"/>
       <source>Events:</source>
-      <translation type="unfinished">Events:</translation>
+      <translation>事件：</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerChart.qml" line="588"/>
       <source>Click to place cursor. Shift+drag to move cursor. Drag to zoom X-axis. Double-click to reset zoom.</source>
-      <translation type="unfinished">Click to place cursor. Shift+drag to move cursor. Drag to zoom X-axis. Double-click to reset zoom.</translation>
+      <translation>按一下放置游標。按住 Shift 並拖曳可移動游標。拖曳可縮放 X 軸。按兩下可重設縮放。</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerChart.qml" line="592"/>
       <source>Reset Zoom</source>
-      <translation type="unfinished">Reset Zoom</translation>
+      <translation>重設縮放</translation>
     </message>
   </context>
   <context>
@@ -11297,7 +11297,7 @@ VTOL</source>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerController.cc" line="148"/>
       <source>Other</source>
-      <translation type="unfinished">Other</translation>
+      <translation>其他</translation>
     </message>
   </context>
   <context>
@@ -11305,13 +11305,13 @@ VTOL</source>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerCursorPopup.qml" line="87"/>
       <source> (local)  /  </source>
-      <translation type="unfinished"> (local)  /  </translation>
+      <translation> （本地） / </translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerCursorPopup.qml" line="87"/>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerCursorPopup.qml" line="90"/>
       <source> (elapsed)</source>
-      <translation type="unfinished"> (elapsed)</translation>
+      <translation> （經過時間）</translation>
     </message>
   </context>
   <context>
@@ -11319,42 +11319,42 @@ VTOL</source>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerFieldsPanel.qml" line="64"/>
       <source>Other</source>
-      <translation type="unfinished">Other</translation>
+      <translation>其他</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerFieldsPanel.qml" line="184"/>
       <source>Fields: %1  Parameters: %2  Events: %3</source>
-      <translation type="unfinished">Fields: %1  Parameters: %2  Events: %3</translation>
+      <translation>欄位：%1  參數：%2  事件：%3</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerFieldsPanel.qml" line="197"/>
       <source>X axis:</source>
-      <translation type="unfinished">X axis:</translation>
+      <translation>X 軸：</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerFieldsPanel.qml" line="202"/>
       <source>Elapsed</source>
-      <translation type="unfinished">Elapsed</translation>
+      <translation>經過時間</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerFieldsPanel.qml" line="209"/>
       <source>Local time</source>
-      <translation type="unfinished">Local time</translation>
+      <translation>本地時間</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerFieldsPanel.qml" line="221"/>
       <source>Fields</source>
-      <translation type="unfinished">Fields</translation>
+      <translation>欄位</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerFieldsPanel.qml" line="230"/>
       <source>Search fields</source>
-      <translation type="unfinished">Search fields</translation>
+      <translation>搜尋欄位</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerFieldsPanel.qml" line="250"/>
       <source>Clear Selected</source>
-      <translation type="unfinished">Clear Selected</translation>
+      <translation>清除所選項目</translation>
     </message>
   </context>
   <context>
@@ -11362,114 +11362,114 @@ VTOL</source>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="15"/>
       <source>Open and inspect DataFlash (.bin), PX4 ULog (.ulg), and telemetry (.tlog) logs in a unified workflow.</source>
-      <translation type="unfinished">Open and inspect DataFlash (.bin), PX4 ULog (.ulg), and telemetry (.tlog) logs in a unified workflow.</translation>
+      <translation>使用同一套流程開啟並檢視 DataFlash（.bin）、PX4 ULog（.ulg）與遙測（.tlog）記錄。</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="80"/>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="132"/>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="488"/>
       <source>Log Viewer</source>
-      <translation type="unfinished">Log Viewer</translation>
+      <translation>記錄檢視器</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="111"/>
       <source>Open .bin</source>
-      <translation type="unfinished">Open .bin</translation>
+      <translation>開啟 .bin</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="120"/>
       <source>Open .ulg</source>
-      <translation type="unfinished">Open .ulg</translation>
+      <translation>開啟 .ulg</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="128"/>
       <source>Open .tlog</source>
-      <translation type="unfinished">Open .tlog</translation>
+      <translation>開啟 .tlog</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="132"/>
       <source>Close active vehicle connections before starting telemetry replay.</source>
-      <translation type="unfinished">Close active vehicle connections before starting telemetry replay.</translation>
+      <translation>開始遙測重播前，請先關閉目前的載具連線。</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="141"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>清除</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="151"/>
       <source>No log selected</source>
-      <translation type="unfinished">No log selected</translation>
+      <translation>未選擇記錄</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="156"/>
       <source>Start time:</source>
-      <translation type="unfinished">Start time:</translation>
+      <translation>開始時間：</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="166"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>不適用</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="171"/>
       <source>Vehicle:</source>
-      <translation type="unfinished">Vehicle:</translation>
+      <translation>載具：</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="186"/>
       <source>Loading...</source>
-      <translation type="unfinished">Loading...</translation>
+      <translation>載入中…</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="204"/>
       <source>Pause</source>
-      <translation type="unfinished">Pause</translation>
+      <translation>暫停</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="204"/>
       <source>Play</source>
-      <translation type="unfinished">Play</translation>
+      <translation>播放</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="258"/>
       <source>Charting</source>
-      <translation type="unfinished">Charting</translation>
+      <translation>圖表</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="259"/>
       <source>Map</source>
-      <translation type="unfinished">Map</translation>
+      <translation>地圖</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="260"/>
       <source>Parameters</source>
-      <translation type="unfinished">Parameters</translation>
+      <translation>參數</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="261"/>
       <source>Messages</source>
-      <translation type="unfinished">Messages</translation>
+      <translation>訊息</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="418"/>
       <source>No GPS data found in this log</source>
-      <translation type="unfinished">No GPS data found in this log</translation>
+      <translation>此記錄中找不到 GPS 資料</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="425"/>
       <source>Load a log file to view the flight path</source>
-      <translation type="unfinished">Load a log file to view the flight path</translation>
+      <translation>載入記錄檔以檢視飛行路徑</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="474"/>
       <source>Select log file</source>
-      <translation type="unfinished">Select log file</translation>
+      <translation>選擇記錄檔</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="489"/>
       <source>Failed to start telemetry replay for the selected .tlog file.</source>
-      <translation type="unfinished">Failed to start telemetry replay for the selected .tlog file.</translation>
+      <translation>無法開始重播所選 .tlog 檔案的遙測資料。</translation>
     </message>
   </context>
   <context>
@@ -11477,22 +11477,22 @@ VTOL</source>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerParametersTab.qml" line="68"/>
       <source>Search parameters</source>
-      <translation type="unfinished">Search parameters</translation>
+      <translation>搜尋參數</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerParametersTab.qml" line="88"/>
       <source>Changed only</source>
-      <translation type="unfinished">Changed only</translation>
+      <translation>僅顯示已變更項目</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerParametersTab.qml" line="119"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>不適用</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerParametersTab.qml" line="159"/>
       <source> (default: %1)</source>
-      <translation type="unfinished"> (default: %1)</translation>
+      <translation> （預設：%1）</translation>
     </message>
   </context>
   <context>
@@ -11500,47 +11500,47 @@ VTOL</source>
     <message>
       <location filename="../src/LogManager/LoggingCategoriesDialog.qml" line="13"/>
       <source>Logging Categories</source>
-      <translation type="unfinished">Logging Categories</translation>
+      <translation>記錄類別</translation>
     </message>
     <message>
       <location filename="../src/LogManager/LoggingCategoriesDialog.qml" line="25"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>搜尋</translation>
     </message>
     <message>
       <location filename="../src/LogManager/LoggingCategoriesDialog.qml" line="34"/>
       <source>Filter categories…</source>
-      <translation type="unfinished">Filter categories…</translation>
+      <translation>篩選類別…</translation>
     </message>
     <message>
       <location filename="../src/LogManager/LoggingCategoriesDialog.qml" line="47"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>清除</translation>
     </message>
     <message>
       <location filename="../src/LogManager/LoggingCategoriesDialog.qml" line="55"/>
       <source>Active Categories</source>
-      <translation type="unfinished">Active Categories</translation>
+      <translation>使用中的類別</translation>
     </message>
     <message>
       <location filename="../src/LogManager/LoggingCategoriesDialog.qml" line="76"/>
       <source>Reset All</source>
-      <translation type="unfinished">Reset All</translation>
+      <translation>全部重設</translation>
     </message>
     <message>
       <location filename="../src/LogManager/LoggingCategoriesDialog.qml" line="85"/>
       <source>Categories</source>
-      <translation type="unfinished">Categories</translation>
+      <translation>類別</translation>
     </message>
     <message>
       <location filename="../src/LogManager/LoggingCategoriesDialog.qml" line="167"/>
       <source>Search Results</source>
-      <translation type="unfinished">Search Results</translation>
+      <translation>搜尋結果</translation>
     </message>
     <message>
       <location filename="../src/LogManager/LoggingCategoriesDialog.qml" line="203"/>
       <source>No matching categories</source>
-      <translation type="unfinished">No matching categories</translation>
+      <translation>沒有相符的類別</translation>
     </message>
   </context>
   <context>
@@ -11548,157 +11548,157 @@ VTOL</source>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="336"/>
       <source>Gyro</source>
-      <translation type="unfinished">Gyro</translation>
+      <translation>陀螺儀</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="337"/>
       <source>Accelerometer</source>
-      <translation type="unfinished">Accelerometer</translation>
+      <translation>加速度計</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="338"/>
       <source>Magnetometer</source>
-      <translation type="unfinished">Magnetometer</translation>
+      <translation>磁力計</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="339"/>
       <source>Absolute pressure</source>
-      <translation type="unfinished">Absolute pressure</translation>
+      <translation>絕對壓力</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="340"/>
       <source>Differential pressure</source>
-      <translation type="unfinished">Differential pressure</translation>
+      <translation>差壓</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="341"/>
       <source>GPS</source>
-      <translation type="unfinished">GPS</translation>
+      <translation>GPS</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="342"/>
       <source>Optical flow</source>
-      <translation type="unfinished">Optical flow</translation>
+      <translation>光流</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="343"/>
       <source>Computer vision position</source>
-      <translation type="unfinished">Computer vision position</translation>
+      <translation>電腦視覺定位</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="344"/>
       <source>Laser based position</source>
-      <translation type="unfinished">Laser based position</translation>
+      <translation>雷射定位</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="345"/>
       <source>External ground truth</source>
-      <translation type="unfinished">External ground truth</translation>
+      <translation>外部真值參考</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="346"/>
       <source>Angular rate control</source>
-      <translation type="unfinished">Angular rate control</translation>
+      <translation>角速度控制</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="347"/>
       <source>Attitude stabilization</source>
-      <translation type="unfinished">Attitude stabilization</translation>
+      <translation>姿態穩定</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="348"/>
       <source>Yaw position</source>
-      <translation type="unfinished">Yaw position</translation>
+      <translation>偏航角位置</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="349"/>
       <source>Z/altitude control</source>
-      <translation type="unfinished">Z/altitude control</translation>
+      <translation>Z 軸／高度控制</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="350"/>
       <source>X/Y position control</source>
-      <translation type="unfinished">X/Y position control</translation>
+      <translation>X／Y 位置控制</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="351"/>
       <source>Motor outputs / control</source>
-      <translation type="unfinished">Motor outputs / control</translation>
+      <translation>馬達輸出／控制</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="352"/>
       <source>RC receiver</source>
-      <translation type="unfinished">RC receiver</translation>
+      <translation>遙控接收器</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="353"/>
       <source>Gyro 2</source>
-      <translation type="unfinished">Gyro 2</translation>
+      <translation>陀螺儀 2</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="354"/>
       <source>Accelerometer 2</source>
-      <translation type="unfinished">Accelerometer 2</translation>
+      <translation>加速度計 2</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="355"/>
       <source>Magnetometer 2</source>
-      <translation type="unfinished">Magnetometer 2</translation>
+      <translation>磁力計 2</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="356"/>
       <source>GeoFence</source>
-      <translation type="unfinished">GeoFence</translation>
+      <translation>地理圍籬</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="357"/>
       <source>AHRS</source>
-      <translation type="unfinished">AHRS</translation>
+      <translation>AHRS</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="358"/>
       <source>Terrain</source>
-      <translation type="unfinished">Terrain</translation>
+      <translation>地形</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="359"/>
       <source>Motors reversed</source>
-      <translation type="unfinished">Motors reversed</translation>
+      <translation>馬達反轉</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="360"/>
       <source>Logging</source>
-      <translation type="unfinished">Logging</translation>
+      <translation>記錄</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="361"/>
       <source>Battery</source>
-      <translation type="unfinished">Battery</translation>
+      <translation>電池</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="362"/>
       <source>Proximity</source>
-      <translation type="unfinished">Proximity</translation>
+      <translation>近接感測</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="363"/>
       <source>Satellite Communication</source>
-      <translation type="unfinished">Satellite Communication</translation>
+      <translation>衛星通訊</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="364"/>
       <source>Pre-Arm Check</source>
-      <translation type="unfinished">Pre-Arm Check</translation>
+      <translation>解鎖前檢查</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="365"/>
       <source>Avoidance/collision prevention</source>
-      <translation type="unfinished">Avoidance/collision prevention</translation>
+      <translation>避障／防碰撞</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="366"/>
       <source>Propulsion</source>
-      <translation type="unfinished">Propulsion</translation>
+      <translation>推進系統</translation>
     </message>
   </context>
   <context>
@@ -11706,7 +11706,7 @@ VTOL</source>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="378"/>
       <source>Unknown sensor</source>
-      <translation type="unfinished">Unknown sensor</translation>
+      <translation>未知感測器</translation>
     </message>
   </context>
   <context>
@@ -11714,12 +11714,12 @@ VTOL</source>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkChart.qml" line="69"/>
       <source>Scale</source>
-      <translation type="unfinished">Scale</translation>
+      <translation>縮放比例</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkChart.qml" line="76"/>
       <source>Range</source>
-      <translation type="unfinished">Range</translation>
+      <translation>範圍</translation>
     </message>
   </context>
   <context>
@@ -11727,17 +11727,17 @@ VTOL</source>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkConsole/MAVLinkConsolePage.qml" line="11"/>
       <source>Provides a connection to the vehicle&apos;s system shell.</source>
-      <translation type="unfinished">Provides a connection to the vehicle&apos;s system shell.</translation>
+      <translation>提供載具系統命令殼層的連線。</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkConsole/MAVLinkConsolePage.qml" line="235"/>
       <source>Enter Commands here...</source>
-      <translation type="unfinished">Enter Commands here...</translation>
+      <translation>在此輸入命令…</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkConsole/MAVLinkConsolePage.qml" line="248"/>
       <source>Send</source>
-      <translation type="unfinished">Send</translation>
+      <translation>傳送</translation>
     </message>
   </context>
   <context>
@@ -11745,87 +11745,87 @@ VTOL</source>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="53"/>
       <source>5 Sec</source>
-      <translation type="unfinished">5 Sec</translation>
+      <translation>5 秒</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="54"/>
       <source>10 Sec</source>
-      <translation type="unfinished">10 Sec</translation>
+      <translation>10 秒</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="55"/>
       <source>30 Sec</source>
-      <translation type="unfinished">30 Sec</translation>
+      <translation>30 秒</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="56"/>
       <source>60 Sec</source>
-      <translation type="unfinished">60 Sec</translation>
+      <translation>60 秒</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="57"/>
       <source>2 Min</source>
-      <translation type="unfinished">2 Min</translation>
+      <translation>2 分鐘</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="58"/>
       <source>5 Min</source>
-      <translation type="unfinished">5 Min</translation>
+      <translation>5 分鐘</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="60"/>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>自動</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="61"/>
       <source>10,000</source>
-      <translation type="unfinished">10,000</translation>
+      <translation>10,000</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="62"/>
       <source>1,000</source>
-      <translation type="unfinished">1,000</translation>
+      <translation>1,000</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="63"/>
       <source>100</source>
-      <translation type="unfinished">100</translation>
+      <translation>100</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="64"/>
       <source>10</source>
-      <translation type="unfinished">10</translation>
+      <translation>10</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="65"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="66"/>
       <source>0.1</source>
-      <translation type="unfinished">0.1</translation>
+      <translation>0.1</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="67"/>
       <source>0.01</source>
-      <translation type="unfinished">0.01</translation>
+      <translation>0.01</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="68"/>
       <source>0.001</source>
-      <translation type="unfinished">0.001</translation>
+      <translation>0.001</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="69"/>
       <source>0.0001</source>
-      <translation type="unfinished">0.0001</translation>
+      <translation>0.0001</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorController.cc" line="87"/>
       <source>System %1</source>
-      <translation type="unfinished">System %1</translation>
+      <translation>系統 %1</translation>
     </message>
   </context>
   <context>
