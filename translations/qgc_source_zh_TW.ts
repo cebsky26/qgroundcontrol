@@ -6743,7 +6743,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FactSystem/FactControls/FactTextFieldSlider2.qml" line="62"/>
       <source>Value: </source>
-      <translation type="unfinished">Value: </translation>
+      <translation>數值： </translation>
     </message>
   </context>
   <context>
@@ -6751,32 +6751,32 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/QmlControls/FactValueGrid.cc" line="21"/>
       <source>Default</source>
-      <translation type="unfinished">Default</translation>
+      <translation>預設</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/FactValueGrid.cc" line="22"/>
       <source>Small</source>
-      <translation type="unfinished">Small</translation>
+      <translation>小</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/FactValueGrid.cc" line="23"/>
       <source>Medium</source>
-      <translation type="unfinished">Medium</translation>
+      <translation>中</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/FactValueGrid.cc" line="24"/>
       <source>Large</source>
-      <translation type="unfinished">Large</translation>
+      <translation>大</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/FactValueGrid.cc" line="323"/>
       <source>Settings version %1 for %2 is not supported. Setup will be reset to defaults.</source>
-      <translation type="unfinished">Settings version %1 for %2 is not supported. Setup will be reset to defaults.</translation>
+      <translation>不支援 %2 的設定版本 %1。設定將重設為預設值。</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/FactValueGrid.cc" line="323"/>
       <source>Load Settings</source>
-      <translation type="unfinished">Load Settings</translation>
+      <translation>載入設定</translation>
     </message>
   </context>
   <context>
@@ -6784,7 +6784,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FactSystem/FactControls/FactValueSlider.qml" line="104"/>
       <source>Value Details</source>
-      <translation type="unfinished">Value Details</translation>
+      <translation>數值詳細資料</translation>
     </message>
   </context>
   <context>
@@ -6792,22 +6792,22 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="122"/>
       <source>PX4 Pro</source>
-      <translation type="unfinished">PX4 Pro</translation>
+      <translation>PX4 Pro</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="124"/>
       <source>ArduPilot</source>
-      <translation type="unfinished">ArduPilot</translation>
+      <translation>ArduPilot</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="126"/>
       <source>Generic</source>
-      <translation type="unfinished">Generic</translation>
+      <translation>通用</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/QGCMAVLink.cc" line="128"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>未知</translation>
     </message>
   </context>
   <context>
@@ -6815,97 +6815,97 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="125"/>
       <source>Incorrectly formatted line in .ihx file, line too short</source>
-      <translation type="unfinished">Incorrectly formatted line in .ihx file, line too short</translation>
+      <translation>.ihx檔案中有格式錯誤的行，行太短了</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="130"/>
       <source>Unsupported record type in file: %1</source>
-      <translation type="unfinished">Unsupported record type in file: %1</translation>
+      <translation>檔案中有不支援的記錄類型：%1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="200"/>
       <source>Unable to open firmware file %1, error: %2</source>
-      <translation type="unfinished">Unable to open firmware file %1, error: %2</translation>
+      <translation>無法開啟韌體檔案%1，錯誤：%2</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="209"/>
       <source>Supplied file is not a valid JSON document</source>
-      <translation type="unfinished">Supplied file is not a valid JSON document</translation>
+      <translation>提供的檔案不是有效的 JSON 文件</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="220"/>
       <source>Firmware file missing required key: %1</source>
-      <translation type="unfinished">Firmware file missing required key: %1</translation>
+      <translation>韌體檔案缺少必要索引鍵：%1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="230"/>
       <source>Firmware file has invalid key: %1</source>
-      <translation type="unfinished">Firmware file has invalid key: %1</translation>
+      <translation>韌體檔案的索引鍵無效：%1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="236"/>
       <source>Downloaded firmware board id does not match hardware board id: %1 != %2</source>
-      <translation type="unfinished">Downloaded firmware board id does not match hardware board id: %1 != %2</translation>
+      <translation>下載韌體的電路板 ID 與硬體電路板 ID 不符：%1 != %2</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="263"/>
       <source>Write failed for parameter meta data file, error: %1</source>
-      <translation type="unfinished">Write failed for parameter meta data file, error: %1</translation>
+      <translation>參數中繼資料檔案寫入失敗，錯誤：%1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="270"/>
       <source>Unable to open parameter meta data file %1 for writing, error: %2</source>
-      <translation type="unfinished">Unable to open parameter meta data file %1 for writing, error: %2</translation>
+      <translation>無法開啟參數中繼資料檔案 %1 以進行寫入，錯誤：%2</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="294"/>
       <source>Write failed for airframe meta data file, error: %1</source>
-      <translation type="unfinished">Write failed for airframe meta data file, error: %1</translation>
+      <translation>機架中繼資料檔案寫入失敗，錯誤：%1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="301"/>
       <source>Unable to open airframe meta data file %1 for writing, error: %2</source>
-      <translation type="unfinished">Unable to open airframe meta data file %1 for writing, error: %2</translation>
+      <translation>無法開啟機架中繼資料檔案 %1 以進行寫入，錯誤：%2</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="327"/>
       <source>Unable to open decompressed file %1 for writing, error: %2</source>
-      <translation type="unfinished">Unable to open decompressed file %1 for writing, error: %2</translation>
+      <translation>無法開啟解壓後的檔案 %1 用於寫入，錯誤：%2</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="333"/>
       <source>Write failed for decompressed image file, error: %1</source>
-      <translation type="unfinished">Write failed for decompressed image file, error: %1</translation>
+      <translation>解壓縮映像檔寫入失敗，錯誤：%1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="357"/>
       <source>Firmware file has invalid decompressed size for %1</source>
-      <translation type="unfinished">Firmware file has invalid decompressed size for %1</translation>
+      <translation>韌體檔案中 %1 的解壓縮大小無效</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="369"/>
       <source>Could not find compressed bytes for %1 in Firmware file</source>
-      <translation type="unfinished">Could not find compressed bytes for %1 in Firmware file</translation>
+      <translation>韌體檔案中找不到 %1 的壓縮位元組</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="374"/>
       <source>Incorrectly formed compressed bytes section for %1 in Firmware file</source>
-      <translation type="unfinished">Incorrectly formed compressed bytes section for %1 in Firmware file</translation>
+      <translation>韌體檔案中 %1 的壓縮位元組區段格式錯誤</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="390"/>
       <source>Firmware file has 0 length %1</source>
-      <translation type="unfinished">Firmware file has 0 length %1</translation>
+      <translation>韌體檔案中 %1 的長度為 0</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="394"/>
       <source>Size for decompressed %1 does not match stored size: Expected(%1) Actual(%2)</source>
-      <translation type="unfinished">Size for decompressed %1 does not match stored size: Expected(%1) Actual(%2)</translation>
+      <translation>解壓縮後的 %1 大小與儲存的大小不符：預期（%1），實際（%2）</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareImage.cc" line="424"/>
       <source>Unabled to open firmware file %1, %2</source>
-      <translation type="unfinished">Unabled to open firmware file %1, %2</translation>
+      <translation>無法開啟韌體檔案%1，%2</translation>
     </message>
   </context>
   <context>
@@ -6913,7 +6913,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="362"/>
       <source>Vehicle is not running latest stable firmware! Running %1, latest stable is %2.</source>
-      <translation type="unfinished">Vehicle is not running latest stable firmware! Running %1, latest stable is %2.</translation>
+      <translation>載具未使用最新穩定版韌體！目前為 %1，最新穩定版為 %2。</translation>
     </message>
   </context>
   <context>
@@ -6921,261 +6921,261 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="13"/>
       <source>Firmware</source>
-      <translation type="unfinished">Firmware</translation>
+      <translation>韌體</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="29"/>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="195"/>
       <source>Firmware Setup</source>
-      <translation type="unfinished">Firmware Setup</translation>
+      <translation>韌體設定</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="33"/>
       <source>Update the autopilot firmware to the latest version</source>
-      <translation type="unfinished">Update the autopilot firmware to the latest version</translation>
+      <translation>將飛控韌體更新至最新版本。</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="303"/>
       <source>Upgrade cancelled</source>
-      <translation type="unfinished">Upgrade cancelled</translation>
+      <translation>升級已取消</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="202"/>
       <source>Select Firmware File</source>
-      <translation type="unfinished">Select Firmware File</translation>
+      <translation>選擇韌體檔案</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="32"/>
       <source>%1 can upgrade the firmware on Pixhawk devices and SiK Radios.</source>
-      <translation type="unfinished">%1 can upgrade the firmware on Pixhawk devices and SiK Radios.</translation>
+      <translation>%1 可升級 Pixhawk 裝置與 SiK 無線電的韌體。</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="34"/>
       <source>Plug in your device</source>
-      <translation type="unfinished">Plug in your device</translation>
+      <translation>請插入您的裝置</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="36"/>
       <source>If upgrade failed, make sure to connect </source>
-      <translation type="unfinished">If upgrade failed, make sure to connect </translation>
+      <translation>若升級失敗，請務必將裝置</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="36"/>
       <source>directly</source>
-      <translation type="unfinished">directly</translation>
+      <translation>直接</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="36"/>
       <source> to a powered USB port on your computer, not through a USB hub. </source>
-      <translation type="unfinished"> to a powered USB port on your computer, not through a USB hub. </translation>
+      <translation>連接到電腦上可供電的 USB 連接埠，勿透過 USB 集線器。</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="37"/>
       <source>Also make sure you are only powered via USB </source>
-      <translation type="unfinished">Also make sure you are only powered via USB </translation>
+      <translation>也請確認僅透過 USB 供電，</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="37"/>
       <source>not battery</source>
-      <translation type="unfinished">not battery</translation>
+      <translation>不要使用電池</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="203"/>
       <source>Firmware Files (*.px4 *.apj *.bin *.ihx)</source>
-      <translation type="unfinished">Firmware Files (*.px4 *.apj *.bin *.ihx)</translation>
+      <translation>韌體檔案(*.px4 *.apj *.bin *.ihx)</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="203"/>
       <source>All Files (*)</source>
-      <translation type="unfinished">All Files (*)</translation>
+      <translation>所有檔案 (*)</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="164"/>
       <source>Found device</source>
-      <translation type="unfinished">Found device</translation>
+      <translation>發現裝置</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="237"/>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="370"/>
       <source>PX4 Pro </source>
-      <translation type="unfinished">PX4 Pro </translation>
+      <translation>PX4 Pro </translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="273"/>
       <source>Either firmware list is still downloading, or no firmware is available for current selection.</source>
-      <translation type="unfinished">Either firmware list is still downloading, or no firmware is available for current selection.</translation>
+      <translation>韌體清單仍在下載中，或目前的選擇沒有可用韌體。</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="278"/>
       <source>You must choose a board type.</source>
-      <translation type="unfinished">You must choose a board type.</translation>
+      <translation>您必須選擇電路板類型。</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="285"/>
       <source>No firmware was found for the current selection.</source>
-      <translation type="unfinished">No firmware was found for the current selection.</translation>
+      <translation>找不到符合目前選擇的韌體。</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="312"/>
       <source>Standard Version (stable)</source>
-      <translation type="unfinished">Standard Version (stable)</translation>
+      <translation>標準版本（穩定版）</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="316"/>
       <source>Beta Testing (beta)</source>
-      <translation type="unfinished">Beta Testing (beta)</translation>
+      <translation>Beta 測試版本（beta）</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="320"/>
       <source>Developer Build (master)</source>
-      <translation type="unfinished">Developer Build (master)</translation>
+      <translation>開發版本（master）</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="324"/>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="337"/>
       <source>Custom firmware file...</source>
-      <translation type="unfinished">Custom firmware file...</translation>
+      <translation>自訂韌體檔案...</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="382"/>
       <source>ArduPilot</source>
-      <translation type="unfinished">ArduPilot</translation>
+      <translation>ArduPilot</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="333"/>
       <source>Standard Version</source>
-      <translation type="unfinished">Standard Version</translation>
+      <translation>標準版</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="34"/>
       <source> via USB, then select it below and press </source>
-      <translation type="unfinished"> via USB, then select it below and press </translation>
+      <translation>透過 USB 連接，然後在下方選取裝置並按一下</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="34"/>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="538"/>
       <source>Flash</source>
-      <translation type="unfinished">Flash</translation>
+      <translation>燒錄</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="35"/>
       <source>Now unplug your device and plug it back in to enter bootloader mode.</source>
-      <translation type="unfinished">Now unplug your device and plug it back in to enter bootloader mode.</translation>
+      <translation>現在請拔除裝置再重新插入，以進入開機載入程式模式。</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="103"/>
       <source>Multiple devices detected. Make sure to select the correct one from the list.</source>
-      <translation type="unfinished">Multiple devices detected. Make sure to select the correct one from the list.</translation>
+      <translation>偵測到多個裝置。請務必從清單中選擇正確的裝置。</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="158"/>
       <source>Device disconnected — waiting for it to reappear in bootloader mode...</source>
-      <translation type="unfinished">Device disconnected — waiting for it to reappear in bootloader mode...</translation>
+      <translation>裝置已中斷連線，正在等待其以開機載入程式模式重新出現…</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="351"/>
       <source>Detected Pixhawk board. You can select from the following flight stacks:</source>
-      <translation type="unfinished">Detected Pixhawk board. You can select from the following flight stacks:</translation>
+      <translation>偵測到 Pixhawk 電路板。您可以選擇下列飛控軟體：</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="352"/>
       <source>Press Ok to upgrade your vehicle.</source>
-      <translation type="unfinished">Press Ok to upgrade your vehicle.</translation>
+      <translation>按“確定”升級您的載具。</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="419"/>
       <source>Downloading list of available firmwares...</source>
-      <translation type="unfinished">Downloading list of available firmwares...</translation>
+      <translation>正在下載可用韌體清單...</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="426"/>
       <source>No Firmware Available</source>
-      <translation type="unfinished">No Firmware Available</translation>
+      <translation>沒有可用的韌體</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="432"/>
       <source>Advanced settings</source>
-      <translation type="unfinished">Advanced settings</translation>
+      <translation>進階設定</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="446"/>
       <source>Select the standard version or one from the file system (previously downloaded):</source>
-      <translation type="unfinished">Select the standard version or one from the file system (previously downloaded):</translation>
+      <translation>選擇標準版本或者從（之前下載好的）檔案系統中選擇一個：</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="447"/>
       <source>Select which version of the above flight stack you would like to install:</source>
-      <translation type="unfinished">Select which version of the above flight stack you would like to install:</translation>
+      <translation>選擇要安裝的上述飛控軟體版本：</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="462"/>
       <source>WARNING: BETA FIRMWARE. </source>
-      <translation type="unfinished">WARNING: BETA FIRMWARE. </translation>
+      <translation>警告：BETA 韌體。 </translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="463"/>
       <source>This firmware version is ONLY intended for beta testers. </source>
-      <translation type="unfinished">This firmware version is ONLY intended for beta testers. </translation>
+      <translation>此韌體版本僅適用於 beta 測試人員！ </translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="464"/>
       <source>Although it has received FLIGHT TESTING, it represents actively changed code. </source>
-      <translation type="unfinished">Although it has received FLIGHT TESTING, it represents actively changed code. </translation>
+      <translation>雖然已經過飛行測試，但程式碼仍持續變動。 </translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="465"/>
       <source>Do NOT use for normal operation.</source>
-      <translation type="unfinished">Do NOT use for normal operation.</translation>
+      <translation>不可用於一般操作！</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="468"/>
       <source>WARNING: CONTINUOUS BUILD FIRMWARE. </source>
-      <translation type="unfinished">WARNING: CONTINUOUS BUILD FIRMWARE. </translation>
+      <translation>警告：持續建置韌體。 </translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="469"/>
       <source>This firmware has NOT BEEN FLIGHT TESTED. </source>
-      <translation type="unfinished">This firmware has NOT BEEN FLIGHT TESTED. </translation>
+      <translation>這個韌體“未經飛行測試”！ </translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="470"/>
       <source>It is only intended for DEVELOPERS. </source>
-      <translation type="unfinished">It is only intended for DEVELOPERS. </translation>
+      <translation>它只針對開發人員！ </translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="471"/>
       <source>Run bench tests without props first. </source>
-      <translation type="unfinished">Run bench tests without props first. </translation>
+      <translation>請先拆下螺旋槳進行台架測試。 </translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="472"/>
       <source>Do NOT fly this without additional safety precautions. </source>
-      <translation type="unfinished">Do NOT fly this without additional safety precautions. </translation>
+      <translation>不要在沒有額外安全措施的情況下飛行。 </translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="473"/>
       <source>Follow the forums actively when using it.</source>
-      <translation type="unfinished">Follow the forums actively when using it.</translation>
+      <translation>使用時請持續關注論壇動態。</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="532"/>
       <source>Flashing - %1</source>
-      <translation type="unfinished">Flashing - %1</translation>
+      <translation>正在燒錄－%1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="560"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>取消</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="568"/>
       <source>Cancelled. Select a port and press Flash to try again.</source>
-      <translation type="unfinished">Cancelled. Select a port and press Flash to try again.</translation>
+      <translation>已取消。請選擇連接埠並按一下「燒錄」再試一次。</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgrade.qml" line="581"/>
       <source>Flash ChibiOS Bootloader</source>
-      <translation type="unfinished">Flash ChibiOS Bootloader</translation>
+      <translation>燒錄 ChibiOS 開機載入程式</translation>
     </message>
   </context>
   <context>
@@ -7183,87 +7183,87 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="166"/>
       <source>Connect not allowed during Firmware Upgrade.</source>
-      <translation type="unfinished">Connect not allowed during Firmware Upgrade.</translation>
+      <translation>韌體升級期間不允許連線。</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="308"/>
       <source>Connected to bootloader:</source>
-      <translation type="unfinished">Connected to bootloader:</translation>
+      <translation>已連線至開機載入程式：</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="309"/>
       <source>  Version: %1</source>
-      <translation type="unfinished">  Version: %1</translation>
+      <translation>  版本： %1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="310"/>
       <source>  Board ID: %1</source>
-      <translation type="unfinished">  Board ID: %1</translation>
+      <translation>  飛控板ID：%1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="311"/>
       <source>  Flash size: %1</source>
-      <translation type="unfinished">  Flash size: %1</translation>
+      <translation>  快閃記憶體大小： %1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="366"/>
       <source>Custom firmware selected but no filename given.</source>
-      <translation type="unfinished">Custom firmware selected but no filename given.</translation>
+      <translation>自訂韌體已選，但沒有給出檔名。</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="371"/>
       <source>Unable to find specified firmware for board type</source>
-      <translation type="unfinished">Unable to find specified firmware for board type</translation>
+      <translation>找不到此電路板類型所指定的韌體</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="377"/>
       <source>No firmware file selected</source>
-      <translation type="unfinished">No firmware file selected</translation>
+      <translation>未選擇韌體檔案</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="392"/>
       <source>Downloading firmware from %1</source>
-      <translation type="unfinished">Downloading firmware from %1</translation>
+      <translation>正在從 %1 下載韌體</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="394"/>
       <source>Using firmware file %1</source>
-      <translation type="unfinished">Using firmware file %1</translation>
+      <translation>使用韌體檔案 %1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="432"/>
       <source>Download complete</source>
-      <translation type="unfinished">Download complete</translation>
+      <translation>下載完成</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="441"/>
       <source>Image load failed</source>
-      <translation type="unfinished">Image load failed</translation>
+      <translation>映像載入失敗</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="447"/>
       <source>Bootloader not found</source>
-      <translation type="unfinished">Bootloader not found</translation>
+      <translation>找不到開機載入程式</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="452"/>
       <source>Image size of %1 is too large for board flash size %2</source>
-      <translation type="unfinished">Image size of %1 is too large for board flash size %2</translation>
+      <translation>映像大小 %1 超過電路板快閃記憶體容量 %2</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="484"/>
       <source>Upgrade complete</source>
-      <translation type="unfinished">Upgrade complete</translation>
+      <translation>升級完成</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="539"/>
       <source>Upgrade cancelled</source>
-      <translation type="unfinished">Upgrade cancelled</translation>
+      <translation>升級已取消</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/FirmwareUpgradeController.cc" line="611"/>
       <source>Choose board type</source>
-      <translation type="unfinished">Choose board type</translation>
+      <translation>選擇電路板類型</translation>
     </message>
   </context>
   <context>
@@ -7271,87 +7271,87 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="14"/>
       <source>Fixed Wing Initial Checks</source>
-      <translation type="unfinished">Fixed Wing Initial Checks</translation>
+      <translation>固定翼初始檢查</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="17"/>
       <source>Hardware</source>
-      <translation type="unfinished">Hardware</translation>
+      <translation>硬體</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="18"/>
       <source>Props mounted? Wings secured? Tail secured?</source>
-      <translation type="unfinished">Props mounted? Wings secured? Tail secured?</translation>
+      <translation>螺旋槳已安裝？機翼已固定？尾翼已固定？</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="39"/>
       <source>Please arm the vehicle here</source>
-      <translation type="unfinished">Please arm the vehicle here</translation>
+      <translation>請在此解鎖載具</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="42"/>
       <source>Actuators</source>
-      <translation type="unfinished">Actuators</translation>
+      <translation>致動器</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="43"/>
       <source>Move all control surfaces. Did they work properly?</source>
-      <translation type="unfinished">Move all control surfaces. Did they work properly?</translation>
+      <translation>請嘗試移動所有舵面。它們都能正常工作嗎？</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="47"/>
       <source>Motors</source>
-      <translation type="unfinished">Motors</translation>
+      <translation>馬達</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="48"/>
       <source>Propellers free? Then throttle up gently. Working properly?</source>
-      <translation type="unfinished">Propellers free? Then throttle up gently. Working properly?</translation>
+      <translation>螺旋槳周圍是否有足夠的空間？輕推油門，觀察是否一切正常？</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="52"/>
       <source>Mission</source>
-      <translation type="unfinished">Mission</translation>
+      <translation>任務</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="53"/>
       <source>Please confirm mission is valid (waypoints valid, no terrain collision).</source>
-      <translation type="unfinished">Please confirm mission is valid (waypoints valid, no terrain collision).</translation>
+      <translation>請確認任務有效（航點有效，且不會撞上地形）。</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="61"/>
       <source>Last preparations before launch</source>
-      <translation type="unfinished">Last preparations before launch</translation>
+      <translation>起飛前的最後準備工作</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="65"/>
       <source>Payload</source>
-      <translation type="unfinished">Payload</translation>
+      <translation>酬載</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="66"/>
       <source>Configured and started? Payload lid closed?</source>
-      <translation type="unfinished">Configured and started? Payload lid closed?</translation>
+      <translation>已設定並啟動？酬載艙蓋已關閉？</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="70"/>
       <source>Wind &amp; weather</source>
-      <translation type="unfinished">Wind &amp; weather</translation>
+      <translation>風況與天氣</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="71"/>
       <source>OK for your platform? Lauching into the wind?</source>
-      <translation type="unfinished">OK for your platform? Lauching into the wind?</translation>
+      <translation>天氣適合您的載具？是否迎風起飛？</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="75"/>
       <source>Flight area</source>
-      <translation type="unfinished">Flight area</translation>
+      <translation>飛行區域</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FixedWingChecklist.qml" line="76"/>
       <source>Launch area and path free of obstacles/people?</source>
-      <translation type="unfinished">Launch area and path free of obstacles/people?</translation>
+      <translation>起飛區域與路徑是否沒有障礙物及人員？</translation>
     </message>
   </context>
   <context>
@@ -7359,17 +7359,17 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/MissionManager/FixedWingLandingComplexItem.h" line="35"/>
       <source>Fixed Wing Landing</source>
-      <translation type="unfinished">Fixed Wing Landing</translation>
+      <translation>固定翼降落</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/FixedWingLandingComplexItem.cc" line="50"/>
       <source>Alternate Landing</source>
-      <translation type="unfinished">Alternate Landing</translation>
+      <translation>備用降落</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/FixedWingLandingComplexItem.cc" line="89"/>
       <source>%1 complex item version %2 not supported</source>
-      <translation type="unfinished">%1 complex item version %2 not supported</translation>
+      <translation>不支援 %1 複合項目版本 %2</translation>
     </message>
   </context>
   <context>
@@ -7377,12 +7377,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlyView/FlightDisplayViewVideo.qml" line="63"/>
       <source>WAITING FOR VIDEO</source>
-      <translation type="unfinished">WAITING FOR VIDEO</translation>
+      <translation>等待影像中</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlightDisplayViewVideo.qml" line="63"/>
       <source>VIDEO DISABLED</source>
-      <translation type="unfinished">VIDEO DISABLED</translation>
+      <translation>影像已停用</translation>
     </message>
   </context>
   <context>
@@ -7390,7 +7390,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightMap/FlightMap.qml" line="64"/>
       <source>Specify Position</source>
-      <translation type="unfinished">Specify Position</translation>
+      <translation>指定位置</translation>
     </message>
   </context>
   <context>
@@ -7399,56 +7399,56 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/Toolbar/FlightModeIndicator.qml" line="44"/>
       <source>N/A</source>
       <comment>No data to display</comment>
-      <translation type="unfinished">N/A</translation>
+      <translation>不適用</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/FlightModeIndicator.qml" line="54"/>
       <source>FW
 VTOL</source>
-      <translation type="unfinished">FW
-VTOL</translation>
+      <translation>固定翼
+垂直起降</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/FlightModeIndicator.qml" line="54"/>
       <source>MR
 VTOL</source>
-      <translation type="unfinished">MR
-VTOL</translation>
+      <translation>多旋翼
+垂直起降</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/FlightModeIndicator.qml" line="139"/>
       <source>Transition to Multi-Rotor</source>
-      <translation type="unfinished">Transition to Multi-Rotor</translation>
+      <translation>轉換為多旋翼模式</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/FlightModeIndicator.qml" line="139"/>
       <source>Transition to Fixed Wing</source>
-      <translation type="unfinished">Transition to Fixed Wing</translation>
+      <translation>轉換為固定翼模式</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/FlightModeIndicator.qml" line="195"/>
       <source>Some Modes Hidden</source>
-      <translation type="unfinished">Some Modes Hidden</translation>
+      <translation>部分模式已隱藏</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/FlightModeIndicator.qml" line="229"/>
       <source>Click and Hold to Confirm Mode Change</source>
-      <translation type="unfinished">Click and Hold to Confirm Mode Change</translation>
+      <translation>長按以確認模式切換</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/FlightModeIndicator.qml" line="239"/>
       <source>Edit Displayed Flight Modes</source>
-      <translation type="unfinished">Edit Displayed Flight Modes</translation>
+      <translation>編輯顯示的飛行模式</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/FlightModeIndicator.qml" line="249"/>
       <source>Flight Modes</source>
-      <translation type="unfinished">Flight Modes</translation>
+      <translation>飛行模式</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/FlightModeIndicator.qml" line="250"/>
       <source>Configure</source>
-      <translation type="unfinished">Configure</translation>
+      <translation>設定</translation>
     </message>
   </context>
   <context>
@@ -7457,7 +7457,7 @@ VTOL</translation>
       <location filename="../src/QmlControls/FlightModeMenu.qml" line="10"/>
       <source>N/A</source>
       <comment>No data to display</comment>
-      <translation type="unfinished">N/A</translation>
+      <translation>不適用</translation>
     </message>
   </context>
   <context>
@@ -7466,22 +7466,22 @@ VTOL</translation>
       <location filename="../src/Toolbar/FlightModeMenuIndicator.qml" line="46"/>
       <source>N/A</source>
       <comment>No data to display</comment>
-      <translation type="unfinished">N/A</translation>
+      <translation>不適用</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/FlightModeMenuIndicator.qml" line="116"/>
       <source>RTL Altitude</source>
-      <translation type="unfinished">RTL Altitude</translation>
+      <translation>返航高度</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/FlightModeMenuIndicator.qml" line="127"/>
       <source>Land Descent Rate:</source>
-      <translation type="unfinished">Land Descent Rate:</translation>
+      <translation>降落下降速率：</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/FlightModeMenuIndicator.qml" line="138"/>
       <source>Precision Landing</source>
-      <translation type="unfinished">Precision Landing</translation>
+      <translation>精準降落</translation>
     </message>
   </context>
   <context>
@@ -7490,17 +7490,17 @@ VTOL</translation>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponent.cc" line="12"/>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponent.cc" line="43"/>
       <source>Flight Modes</source>
-      <translation type="unfinished">Flight Modes</translation>
+      <translation>飛行模式</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponent.cc" line="23"/>
       <source>Configure transmitter switch assignments and flight mode selection.</source>
-      <translation type="unfinished">Configure transmitter switch assignments and flight mode selection.</translation>
+      <translation>設定遙控器開關指派與飛行模式選擇。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponent.cc" line="43"/>
       <source>Switch Settings</source>
-      <translation type="unfinished">Switch Settings</translation>
+      <translation>開關設定</translation>
     </message>
   </context>
   <context>
@@ -7508,17 +7508,17 @@ VTOL</translation>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="24"/>
       <source>Mode switch</source>
-      <translation type="unfinished">Mode switch</translation>
+      <translation>模式切換開關</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="25"/>
       <source>Setup required</source>
-      <translation type="unfinished">Setup required</translation>
+      <translation>需要設定</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="30"/>
       <source>Flight Mode %1 </source>
-      <translation type="unfinished">Flight Mode %1 </translation>
+      <translation>飛行模式 %1 </translation>
     </message>
   </context>
   <context>
@@ -7526,7 +7526,7 @@ VTOL</translation>
     <message>
       <location filename="../src/FlyView/FlyViewAdditionalActionsButton.qml" line="11"/>
       <source>Actions</source>
-      <translation type="unfinished">Actions</translation>
+      <translation>動作</translation>
     </message>
   </context>
   <context>
@@ -7534,7 +7534,7 @@ VTOL</translation>
     <message>
       <location filename="../src/FlyView/FlyViewGripperButton.qml" line="6"/>
       <source>Gripper</source>
-      <translation type="unfinished">Gripper</translation>
+      <translation>夾爪</translation>
     </message>
   </context>
   <context>
@@ -7542,17 +7542,17 @@ VTOL</translation>
     <message>
       <location filename="../src/FlyView/FlyViewGripperDropPanel.qml" line="11"/>
       <source>Release</source>
-      <translation type="unfinished">Release</translation>
+      <translation>釋放</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewGripperDropPanel.qml" line="11"/>
       <source>Grab</source>
-      <translation type="unfinished">Grab</translation>
+      <translation>夾取</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewGripperDropPanel.qml" line="11"/>
       <source>Hold</source>
-      <translation type="unfinished">Hold</translation>
+      <translation>保持</translation>
     </message>
   </context>
   <context>
@@ -7561,80 +7561,80 @@ VTOL</translation>
       <location filename="../src/FlyView/FlyViewMap.qml" line="344"/>
       <source>R</source>
       <comment>rally point map item label</comment>
-      <translation type="unfinished">R</translation>
+      <translation>R</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMap.qml" line="441"/>
       <source>Go here</source>
       <comment>Go to location waypoint</comment>
-      <translation type="unfinished">Go here</translation>
+      <translation>到這裡</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMap.qml" line="581"/>
       <source>ROI here</source>
       <comment>Make this a Region Of Interest</comment>
-      <translation type="unfinished">ROI here</translation>
+      <translation>將此處設為興趣點</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMap.qml" line="608"/>
       <source>Orbit</source>
       <comment>Orbit waypoint</comment>
-      <translation type="unfinished">Orbit</translation>
+      <translation>盤旋</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMap.qml" line="677"/>
       <source>Go to location</source>
-      <translation type="unfinished">Go to location</translation>
+      <translation>前往此位置</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMap.qml" line="697"/>
       <source>Orbit at location</source>
-      <translation type="unfinished">Orbit at location</translation>
+      <translation>繞此位置飛行</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMap.qml" line="708"/>
       <source>ROI at location</source>
-      <translation type="unfinished">ROI at location</translation>
+      <translation>將此位置設為興趣點</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMap.qml" line="718"/>
       <source>Set home here</source>
-      <translation type="unfinished">Set home here</translation>
+      <translation>將此處設為返航點</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMap.qml" line="728"/>
       <source>Set Estimator Origin</source>
-      <translation type="unfinished">Set Estimator Origin</translation>
+      <translation>設定估測器原點</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMap.qml" line="738"/>
       <source>Set Heading</source>
-      <translation type="unfinished">Set Heading</translation>
+      <translation>設定航向</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMap.qml" line="748"/>
       <source>Lat: %1</source>
-      <translation type="unfinished">Lat: %1</translation>
+      <translation>緯度：%1</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMap.qml" line="749"/>
       <source>Lon: %1</source>
-      <translation type="unfinished">Lon: %1</translation>
+      <translation>經度：%1</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMap.qml" line="622"/>
       <source>Edit ROI Position</source>
-      <translation type="unfinished">Edit ROI Position</translation>
+      <translation>編輯興趣點位置</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMap.qml" line="643"/>
       <source>Cancel ROI</source>
-      <translation type="unfinished">Cancel ROI</translation>
+      <translation>取消興趣點</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMap.qml" line="652"/>
       <source>Edit Position</source>
-      <translation type="unfinished">Edit Position</translation>
+      <translation>編輯位置</translation>
     </message>
   </context>
   <context>
@@ -7642,37 +7642,37 @@ VTOL</translation>
     <message>
       <location filename="../src/FlyView/FlyViewMissionCompleteDialog.qml" line="58"/>
       <source>Flight Plan complete</source>
-      <translation type="unfinished">Flight Plan complete</translation>
+      <translation>飛行計畫已完成</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMissionCompleteDialog.qml" line="74"/>
       <source>%1 Images Taken</source>
-      <translation type="unfinished">%1 Images Taken</translation>
+      <translation>已拍攝 %1 張影像</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMissionCompleteDialog.qml" line="81"/>
       <source>Remove plan from vehicle</source>
-      <translation type="unfinished">Remove plan from vehicle</translation>
+      <translation>從載具上移除飛行計畫</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMissionCompleteDialog.qml" line="92"/>
       <source>Leave plan on vehicle</source>
-      <translation type="unfinished">Leave plan on vehicle</translation>
+      <translation>在載具上保留飛行計畫</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMissionCompleteDialog.qml" line="111"/>
       <source>Resume Mission From Waypoint %1</source>
-      <translation type="unfinished">Resume Mission From Waypoint %1</translation>
+      <translation>從航點 %1 繼續任務</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMissionCompleteDialog.qml" line="122"/>
       <source>Resume Mission will rebuild the current mission from the last flown waypoint and upload it to the vehicle for the next flight.</source>
-      <translation type="unfinished">Resume Mission will rebuild the current mission from the last flown waypoint and upload it to the vehicle for the next flight.</translation>
+      <translation>繼續任務會從最後飛過的航點重建目前任務，並上傳至載具，供下次飛行使用。</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMissionCompleteDialog.qml" line="130"/>
       <source>If you are changing batteries for Resume Mission do not disconnect from the vehicle.</source>
-      <translation type="unfinished">If you are changing batteries for Resume Mission do not disconnect from the vehicle.</translation>
+      <translation>若您正為了繼續任務而更換電池，請勿中斷與載具的連線。</translation>
     </message>
   </context>
   <context>
@@ -7680,7 +7680,7 @@ VTOL</translation>
     <message>
       <location filename="../src/FlyView/FlyViewPreFlightChecklistPopup.qml" line="11"/>
       <source>Pre-Flight Checklist</source>
-      <translation type="unfinished">Pre-Flight Checklist</translation>
+      <translation>飛行前檢查清單</translation>
     </message>
   </context>
   <context>
@@ -7688,7 +7688,7 @@ VTOL</translation>
     <message>
       <location filename="../src/Toolbar/FlyViewToolBar.qml" line="95"/>
       <source>Disconnect</source>
-      <translation type="unfinished">Disconnect</translation>
+      <translation>中斷連線</translation>
     </message>
   </context>
   <context>
@@ -7696,42 +7696,42 @@ VTOL</translation>
     <message>
       <location filename="../src/FlyView/FlyViewTopRightPanel.qml" line="119"/>
       <source>Vehicles Selected: </source>
-      <translation type="unfinished">Vehicles Selected: </translation>
+      <translation>已選載具： </translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewTopRightPanel.qml" line="129"/>
       <source>Select All</source>
-      <translation type="unfinished">Select All</translation>
+      <translation>全選</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewTopRightPanel.qml" line="135"/>
       <source>Deselect All</source>
-      <translation type="unfinished">Deselect All</translation>
+      <translation>取消全選</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewTopRightPanel.qml" line="144"/>
       <source>Multi Vehicle Actions</source>
-      <translation type="unfinished">Multi Vehicle Actions</translation>
+      <translation>多載具動作</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewTopRightPanel.qml" line="153"/>
       <source>Arm</source>
-      <translation type="unfinished">Arm</translation>
+      <translation>解鎖</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewTopRightPanel.qml" line="162"/>
       <source>Disarm</source>
-      <translation type="unfinished">Disarm</translation>
+      <translation>上鎖</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewTopRightPanel.qml" line="171"/>
       <source>Start</source>
-      <translation type="unfinished">Start</translation>
+      <translation>開始</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewTopRightPanel.qml" line="180"/>
       <source>Pause</source>
-      <translation type="unfinished">Pause</translation>
+      <translation>暫停</translation>
     </message>
   </context>
   <context>
@@ -7739,7 +7739,7 @@ VTOL</translation>
     <message>
       <location filename="../src/FlyView/FlyViewVideo.qml" line="51"/>
       <source>Double-click to exit full screen</source>
-      <translation type="unfinished">Double-click to exit full screen</translation>
+      <translation>按兩下以離開全螢幕</translation>
     </message>
   </context>
   <context>
@@ -7747,113 +7747,113 @@ VTOL</translation>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="106"/>
       <source>GCS </source>
-      <translation type="unfinished">GCS </translation>
+      <translation>地面站 </translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="106"/>
       <source> is requesting control</source>
-      <translation type="unfinished"> is requesting control</translation>
+      <translation> 正在要求控制權</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="111"/>
       <source>Allow &lt;br&gt; takeover</source>
-      <translation type="unfinished">Allow &lt;br&gt; takeover</translation>
+      <translation>允許&lt;br&gt;接管</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="128"/>
       <source>Ignoring automatically in </source>
-      <translation type="unfinished">Ignoring automatically in </translation>
+      <translation>將在 </translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="128"/>
       <source> seconds</source>
-      <translation type="unfinished"> seconds</translation>
+      <translation> 秒後自動忽略</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="132"/>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="189"/>
       <source>Ignore</source>
-      <translation type="unfinished">Ignore</translation>
+      <translation>忽略</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="183"/>
       <source>Reverting back to takeover not allowed if GCS </source>
-      <translation type="unfinished">Reverting back to takeover not allowed if GCS </translation>
+      <translation>若地面站 </translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="184"/>
       <source> doesn&apos;t take control in </source>
-      <translation type="unfinished"> doesn&apos;t take control in </translation>
+      <translation> 未在 </translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="185"/>
       <source> seconds ...</source>
-      <translation type="unfinished"> seconds ...</translation>
+      <translation> 秒內取得控制權，將恢復禁止接管…</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="234"/>
       <source>System in control: </source>
-      <translation type="unfinished">System in control: </translation>
+      <translation>目前控制系統： </translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="238"/>
       <source>This GCS</source>
-      <translation type="unfinished">This GCS</translation>
+      <translation>此地面站</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="246"/>
       <source>Takeover allowed</source>
-      <translation type="unfinished">Takeover allowed</translation>
+      <translation>允許接管</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="246"/>
       <source>Takeover NOT allowed</source>
-      <translation type="unfinished">Takeover NOT allowed</translation>
+      <translation>禁止接管</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="262"/>
       <source>Send Control Request:</source>
-      <translation type="unfinished">Send Control Request:</translation>
+      <translation>傳送控制權要求：</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="267"/>
       <source>Change takeover condition:</source>
-      <translation type="unfinished">Change takeover condition:</translation>
+      <translation>變更接管條件：</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="273"/>
       <source>Request sent: </source>
-      <translation type="unfinished">Request sent: </translation>
+      <translation>已傳送要求： </translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="278"/>
       <source>Allow takeover</source>
-      <translation type="unfinished">Allow takeover</translation>
+      <translation>允許接管</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="283"/>
       <source>Adquire Control</source>
-      <translation type="unfinished">Adquire Control</translation>
+      <translation>取得控制權</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="283"/>
       <source>Send Request</source>
-      <translation type="unfinished">Send Request</translation>
+      <translation>傳送要求</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="297"/>
       <source>Request Timeout (sec):</source>
-      <translation type="unfinished">Request Timeout (sec):</translation>
+      <translation>要求逾時（秒）：</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="307"/>
       <source>Change</source>
-      <translation type="unfinished">Change</translation>
+      <translation>變更</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GCSControlIndicator.qml" line="324"/>
       <source>This GCS Mavlink System ID: </source>
-      <translation type="unfinished">This GCS Mavlink System ID: </translation>
+      <translation>此地面站的 MAVLink 系統 ID： </translation>
     </message>
   </context>
   <context>
@@ -7861,7 +7861,7 @@ VTOL</translation>
     <message>
       <location filename="../src/Toolbar/GPSIndicator.qml" line="34"/>
       <source>RTK</source>
-      <translation type="unfinished">RTK</translation>
+      <translation>RTK</translation>
     </message>
   </context>
   <context>
