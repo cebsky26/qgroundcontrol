@@ -1,5 +1,6 @@
 #include "VehicleConfigUITestBase.h"
 
+#include <QtCore/QCoreApplication>
 #include <QtCore/QElapsedTimer>
 #include <QtCore/QLocale>
 #include <QtCore/QPointer>
@@ -40,6 +41,20 @@ bool hasVisibleContent(QQuickItem *item)
         }
     }
     return false;
+}
+
+/// The restart prompt is worded in the UI language that is active when the setting changes (the new
+/// language loads right after), so with a translated catalog it is not always English. Accept the
+/// current translation as well as English.
+QRegularExpression restartRequiredPattern()
+{
+    const QString english = QStringLiteral("Restart application for changes to take effect");
+    const QString translated = QCoreApplication::translate("Fact", "Restart application for changes to take effect.");
+    QString pattern = QRegularExpression::escape(english);
+    if (!translated.startsWith(english)) {
+        pattern += QStringLiteral("|") + QRegularExpression::escape(translated);
+    }
+    return QRegularExpression(pattern);
 }
 
 } // namespace
@@ -215,7 +230,7 @@ void VehicleConfigUITestBase::clickThroughAllComponentsAllLocales(Vehicle *vehic
     // Language is a reboot-required setting: each change announces a restart via
     // an app message dialog which must be dismissed before clicking the UI.
     if (languageFact->rawValue().toInt() != QLocale::English) {
-        expectAppMessage(QRegularExpression(QStringLiteral("Restart application for changes to take effect")));
+        expectAppMessage(restartRequiredPattern());
         languageFact->setRawValue(QLocale::English);
         QVERIFY2(acceptDialog(5000), "Restart-required dialog never shown after switching language to English");
         verifyExpectedLogMessage();
@@ -234,7 +249,7 @@ void VehicleConfigUITestBase::clickThroughAllComponentsAllLocales(Vehicle *vehic
     const QString englishAnchorText = anchor->property("text").toString();
 
     qgcApp()->resetRebootMessageDebounce();
-    expectAppMessage(QRegularExpression(QStringLiteral("Restart application for changes to take effect")));
+    expectAppMessage(restartRequiredPattern());
     languageFact->setRawValue(QLocale::Chinese);
     QVERIFY2(acceptDialog(5000), "Restart-required dialog never shown after switching language to Chinese");
     verifyExpectedLogMessage();
@@ -245,7 +260,7 @@ void VehicleConfigUITestBase::clickThroughAllComponentsAllLocales(Vehicle *vehic
              qPrintable(QStringLiteral("UI text did not change after switching to Chinese (still '%1')")
                             .arg(englishAnchorText)));
 
-    const QString zhPrefix = vehicleName.isEmpty() ? QStringLiteral("zh_CN") : vehicleName + QStringLiteral(" zh_CN");
+    const QString zhPrefix = vehicleName.isEmpty() ? QStringLiteral("zh_TW") : vehicleName + QStringLiteral(" zh_TW");
     clickThroughAllComponents(vehicle, zhPrefix);
     if (QTest::currentTestFailed()) return;
 
@@ -253,7 +268,7 @@ void VehicleConfigUITestBase::clickThroughAllComponentsAllLocales(Vehicle *vehic
     if (languageFact->rawValue() != savedLanguage) {
         // showRebootAppMessage() debounces repeats: reset so the restore change shows its own dialog
         qgcApp()->resetRebootMessageDebounce();
-        expectAppMessage(QRegularExpression(QStringLiteral("Restart application for changes to take effect")));
+        expectAppMessage(restartRequiredPattern());
         languageFact->setRawValue(savedLanguage);
         QVERIFY2(acceptDialog(5000), "Restart-required dialog never shown after restoring language");
         verifyExpectedLogMessage();
