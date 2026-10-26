@@ -20628,6 +20628,59 @@ If a vehicle still has this key configured, you will no longer be able to commun
     </message>
   </context>
   <context>
+    <name>StandardModes</name>
+    <message>
+      <location filename="../src/Vehicle/StandardModes.cc" line="39"/>
+      <source>Position</source>
+      <translation>定點</translation>
+    </message>
+    <message>
+      <location filename="../src/Vehicle/StandardModes.cc" line="42"/>
+      <source>Orbit</source>
+      <translation>盤旋</translation>
+    </message>
+    <message>
+      <location filename="../src/Vehicle/StandardModes.cc" line="46"/>
+      <source>Cruise</source>
+      <translation>巡航</translation>
+    </message>
+    <message>
+      <location filename="../src/Vehicle/StandardModes.cc" line="49"/>
+      <source>Altitude</source>
+      <translation>高度</translation>
+    </message>
+    <message>
+      <location filename="../src/Vehicle/StandardModes.cc" line="52"/>
+      <source>Safe Recovery</source>
+      <translation>安全恢復</translation>
+    </message>
+    <message>
+      <location filename="../src/Vehicle/StandardModes.cc" line="55"/>
+      <source>Mission</source>
+      <translation>任務</translation>
+    </message>
+    <message>
+      <location filename="../src/Vehicle/StandardModes.cc" line="58"/>
+      <source>Land</source>
+      <translation>降落</translation>
+    </message>
+    <message>
+      <location filename="../src/Vehicle/StandardModes.cc" line="61"/>
+      <source>Takeoff</source>
+      <translation>起飛</translation>
+    </message>
+    <message>
+      <location filename="../src/Vehicle/StandardModes.cc" line="12"/>
+      <source>Precision Landing</source>
+      <translation>精準降落</translation>
+    </message>
+    <message>
+      <location filename="../src/Vehicle/StandardModes.cc" line="13"/>
+      <source>Follow Target</source>
+      <translation>跟隨目標</translation>
+    </message>
+  </context>
+  <context>
     <name>StatusTextHandler</name>
     <message>
       <location filename="../src/MAVLink/StatusTextHandler.cc" line="186"/>
@@ -21733,6 +21786,26 @@ If a vehicle still has this key configured, you will no longer be able to commun
       <location filename="../src/Settings/UnitsSettings.cc" line="189"/>
       <source>Weight</source>
       <translation>重量</translation>
+    </message>
+    <message>
+      <location filename="../src/Settings/UnitsSettings.cc" line="113"/>
+      <source>Feet/second</source>
+      <translation>英尺／秒</translation>
+    </message>
+    <message>
+      <location filename="../src/Settings/UnitsSettings.cc" line="113"/>
+      <source>Meters/second</source>
+      <translation>公尺／秒</translation>
+    </message>
+    <message>
+      <location filename="../src/Settings/UnitsSettings.cc" line="113"/>
+      <source>Miles/hour</source>
+      <translation>英里／小時</translation>
+    </message>
+    <message>
+      <location filename="../src/Settings/UnitsSettings.cc" line="114"/>
+      <source>Kilometers/hour</source>
+      <translation>公里／小時</translation>
     </message>
   </context>
   <context>
