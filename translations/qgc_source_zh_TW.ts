@@ -20065,7 +20065,7 @@ ROTATION_NONE 表示元件指向飛行方向。</translation>
     <message>
       <location filename="../src/Comms/SerialLink.h" line="43"/>
       <source>Serial Link Settings</source>
-      <translation type="unfinished">Serial Link Settings</translation>
+      <translation>序列連線設定</translation>
     </message>
   </context>
   <context>
@@ -20073,12 +20073,12 @@ ROTATION_NONE 表示元件指向飛行方向。</translation>
     <message>
       <location filename="../src/Comms/SerialLink.cc" line="472"/>
       <source>Serial Link Error</source>
-      <translation type="unfinished">Serial Link Error</translation>
+      <translation>序列連線錯誤</translation>
     </message>
     <message>
       <location filename="../src/Comms/SerialLink.cc" line="472"/>
       <source>Link %1: (Port: %2) %3</source>
-      <translation type="unfinished">Link %1: (Port: %2) %3</translation>
+      <translation>連線 %1：（連接埠：%2）%3</translation>
     </message>
   </context>
   <context>
@@ -20086,72 +20086,72 @@ ROTATION_NONE 表示元件指向飛行方向。</translation>
     <message>
       <location filename="../src/AppSettings/SerialSettings.qml" line="131"/>
       <source>Enable Flow Control</source>
-      <translation type="unfinished">Enable Flow Control</translation>
+      <translation>啟用流量控制</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SerialSettings.qml" line="25"/>
       <source>Serial Port</source>
-      <translation type="unfinished">Serial Port</translation>
+      <translation>序列埠</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SerialSettings.qml" line="59"/>
       <source>None Available</source>
-      <translation type="unfinished">None Available</translation>
+      <translation>無可用項目</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SerialSettings.qml" line="67"/>
       <source>Baud Rate</source>
-      <translation type="unfinished">Baud Rate</translation>
+      <translation>鮑率</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SerialSettings.qml" line="72"/>
       <source>Custom</source>
-      <translation type="unfinished">Custom</translation>
+      <translation>自訂</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SerialSettings.qml" line="98"/>
       <source>Custom Baud Rate</source>
-      <translation type="unfinished">Custom Baud Rate</translation>
+      <translation>自訂鮑率</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SerialSettings.qml" line="119"/>
       <source>Advanced Settings</source>
-      <translation type="unfinished">Advanced Settings</translation>
+      <translation>進階設定</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SerialSettings.qml" line="138"/>
       <source>Force DTR Low</source>
-      <translation type="unfinished">Force DTR Low</translation>
+      <translation>強制 DTR 為低電位</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SerialSettings.qml" line="143"/>
       <source>Parity</source>
-      <translation type="unfinished">Parity</translation>
+      <translation>同位檢查</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SerialSettings.qml" line="146"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>無</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SerialSettings.qml" line="146"/>
       <source>Even</source>
-      <translation type="unfinished">Even</translation>
+      <translation>偶同位</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SerialSettings.qml" line="146"/>
       <source>Odd</source>
-      <translation type="unfinished">Odd</translation>
+      <translation>奇同位</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SerialSettings.qml" line="181"/>
       <source>Data Bits</source>
-      <translation type="unfinished">Data Bits</translation>
+      <translation>資料位元</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SerialSettings.qml" line="189"/>
       <source>Stop Bits</source>
-      <translation type="unfinished">Stop Bits</translation>
+      <translation>停止位元</translation>
     </message>
   </context>
   <context>
@@ -20159,37 +20159,37 @@ ROTATION_NONE 表示元件指向飛行方向。</translation>
     <message>
       <location filename="../src/Comms/SerialLink.cc" line="233"/>
       <source>Not connecting to a bootloader</source>
-      <translation type="unfinished">Not connecting to a bootloader</translation>
+      <translation>不連線至開機載入程式</translation>
     </message>
     <message>
       <location filename="../src/Comms/SerialLink.cc" line="246"/>
       <source>Could not open port: %1</source>
-      <translation type="unfinished">Could not open port: %1</translation>
+      <translation>無法開啟連接埠：%1</translation>
     </message>
     <message>
       <location filename="../src/Comms/SerialLink.cc" line="273"/>
       <source>Data to Send is Empty</source>
-      <translation type="unfinished">Data to Send is Empty</translation>
+      <translation>要傳送的資料為空</translation>
     </message>
     <message>
       <location filename="../src/Comms/SerialLink.cc" line="278"/>
       <source>Port is not Connected</source>
-      <translation type="unfinished">Port is not Connected</translation>
+      <translation>連接埠未連線</translation>
     </message>
     <message>
       <location filename="../src/Comms/SerialLink.cc" line="283"/>
       <source>Port is not Writable</source>
-      <translation type="unfinished">Port is not Writable</translation>
+      <translation>連接埠無法寫入</translation>
     </message>
     <message>
       <location filename="../src/Comms/SerialLink.cc" line="291"/>
       <source>Could Not Send Data - Write Failed: %1</source>
-      <translation type="unfinished">Could Not Send Data - Write Failed: %1</translation>
+      <translation>無法傳送資料－寫入失敗：%1</translation>
     </message>
     <message>
       <location filename="../src/Comms/SerialLink.cc" line="294"/>
       <source>Could Not Send Data - Write Returned 0 Bytes</source>
-      <translation type="unfinished">Could Not Send Data - Write Returned 0 Bytes</translation>
+      <translation>無法傳送資料－寫入回傳 0 位元組</translation>
     </message>
   </context>
   <context>
@@ -20197,22 +20197,22 @@ ROTATION_NONE 表示元件指向飛行方向。</translation>
     <message>
       <location filename="../src/QmlControls/SetupPage.qml" line="43"/>
       <source>armed</source>
-      <translation type="unfinished">armed</translation>
+      <translation>已解鎖</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/SetupPage.qml" line="43"/>
       <source>flying</source>
-      <translation type="unfinished">flying</translation>
+      <translation>飛行中</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/SetupPage.qml" line="88"/>
       <source>Disabled while the vehicle is %1</source>
-      <translation type="unfinished">Disabled while the vehicle is %1</translation>
+      <translation>載具處於 %1 狀態時停用</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/SetupPage.qml" line="70"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>進階</translation>
     </message>
   </context>
   <context>
@@ -20220,22 +20220,22 @@ ROTATION_NONE 表示元件指向飛行方向。</translation>
     <message>
       <location filename="../src/Utilities/Geo/Formats/ShapeFileHelper.cc" line="9"/>
       <source>Shape file load failed. %1</source>
-      <translation type="unfinished">Shape file load failed. %1</translation>
+      <translation>形狀檔案載入失敗。 %1</translation>
     </message>
     <message>
       <location filename="../src/Utilities/Geo/Formats/ShapeFileHelper.cc" line="24"/>
       <source>Unsupported file type. Only %1 and %2 are supported.</source>
-      <translation type="unfinished">Unsupported file type. Only %1 and %2 are supported.</translation>
+      <translation>不支援的檔案類型。僅支援 %1 與 %2。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/Geo/Formats/ShapeFileHelper.cc" line="110"/>
       <source>KML Files (*%1)</source>
-      <translation type="unfinished">KML Files (*%1)</translation>
+      <translation>KML 檔案 (*%1)</translation>
     </message>
     <message>
       <location filename="../src/Utilities/Geo/Formats/ShapeFileHelper.cc" line="116"/>
       <source>KML/SHP Files (*%1 *%2)</source>
-      <translation type="unfinished">KML/SHP Files (*%1 *%2)</translation>
+      <translation>KML/SHP 檔案 (*%1 *%2)</translation>
     </message>
   </context>
   <context>
@@ -20243,78 +20243,78 @@ ROTATION_NONE 表示元件指向飛行方向。</translation>
     <message>
       <location filename="../src/MAVLink/Signing/SigningController.cc" line="110"/>
       <source>Configuring…</source>
-      <translation type="unfinished">Configuring…</translation>
+      <translation>設定中…</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/Signing/SigningController.cc" line="113"/>
       <source>Disabling…</source>
-      <translation type="unfinished">Disabling…</translation>
+      <translation>停用中…</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/Signing/SigningController.cc" line="116"/>
       <source>Off</source>
-      <translation type="unfinished">Off</translation>
+      <translation>關閉</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/Signing/SigningController.cc" line="120"/>
       <source>On</source>
-      <translation type="unfinished">On</translation>
+      <translation>開啟</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/Signing/SigningController.cc" line="154"/>
       <location filename="../src/MAVLink/Signing/SigningController.cc" line="192"/>
       <source>Signing operation already pending</source>
-      <translation type="unfinished">Signing operation already pending</translation>
+      <translation>已有簽章作業待處理</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/Signing/SigningController.cc" line="165"/>
       <source>Failed to install signing for pending verification</source>
-      <translation type="unfinished">Failed to install signing for pending verification</translation>
+      <translation>無法為待處理的驗證安裝簽章設定</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/Signing/SigningController.cc" line="198"/>
       <source>Channel not signing — cannot disable</source>
-      <translation type="unfinished">Channel not signing — cannot disable</translation>
+      <translation>通道未啟用簽章，無法停用</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/Signing/SigningController.cc" line="236"/>
       <source>MAVLink signing: %1 consecutive bad signatures while enabling — the chosen key likely does not match the vehicle&apos;s stored key. Verify the key on the vehicle, then retry.</source>
-      <translation type="unfinished">MAVLink signing: %1 consecutive bad signatures while enabling — the chosen key likely does not match the vehicle&apos;s stored key. Verify the key on the vehicle, then retry.</translation>
+      <translation>MAVLink 簽章：啟用期間連續出現 %1 次無效簽章，所選金鑰可能與載具儲存的金鑰不符。請確認載具上的金鑰後再試一次。</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/Signing/SigningController.cc" line="239"/>
       <source>MAVLink signing: %1 consecutive bad signatures on this link — wrong key or vehicle clock drift</source>
-      <translation type="unfinished">MAVLink signing: %1 consecutive bad signatures on this link — wrong key or vehicle clock drift</translation>
+      <translation>MAVLink 簽章：此連線連續出現 %1 次無效簽章，可能是金鑰錯誤或載具時鐘漂移</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/Signing/SigningController.cc" line="294"/>
       <source>Vehicle rejected signing change: %1</source>
-      <translation type="unfinished">Vehicle rejected signing change: %1</translation>
+      <translation>載具拒絕簽章變更：%1</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/Signing/SigningController.cc" line="328"/>
       <source>Signing confirmation received but local activation failed</source>
-      <translation type="unfinished">Signing confirmation received but local activation failed</translation>
+      <translation>已收到簽章確認，但本機啟用失敗</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/Signing/SigningController.cc" line="370"/>
       <source>Signing disable not confirmed — vehicle is unreachable or still requires signed messages. Local signing remains enabled.</source>
-      <translation type="unfinished">Signing disable not confirmed — vehicle is unreachable or still requires signed messages. Local signing remains enabled.</translation>
+      <translation>停用簽章未獲確認，載具可能無法連線或仍要求使用簽章訊息。本機簽章將維持啟用。</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/Signing/SigningController.cc" line="391"/>
       <source>Signing operation cancelled — primary link changed before vehicle confirmation</source>
-      <translation type="unfinished">Signing operation cancelled — primary link changed before vehicle confirmation</translation>
+      <translation>簽章作業已取消，因為在載具確認前主要連線已變更</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/Signing/SigningController.cc" line="404"/>
       <source>Signing setup not confirmed by vehicle (timeout)</source>
-      <translation type="unfinished">Signing setup not confirmed by vehicle (timeout)</translation>
+      <translation>載具未確認簽章設定（逾時）</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/Signing/SigningController.cc" line="405"/>
       <source>Signing disable not confirmed by vehicle (timeout)</source>
-      <translation type="unfinished">Signing disable not confirmed by vehicle (timeout)</translation>
+      <translation>載具未確認停用簽章（逾時）</translation>
     </message>
   </context>
   <context>
@@ -20322,175 +20322,175 @@ ROTATION_NONE 表示元件指向飛行方向。</translation>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="14"/>
       <source>MAVLink 2 Signing</source>
-      <translation type="unfinished">MAVLink 2 Signing</translation>
+      <translation>MAVLink 2 簽章</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="37"/>
       <source>Add Signing Key</source>
-      <translation type="unfinished">Add Signing Key</translation>
+      <translation>新增簽章金鑰</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="63"/>
       <source>Key Name</source>
-      <translation type="unfinished">Key Name</translation>
+      <translation>金鑰名稱</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="68"/>
       <source>Enter a friendly name</source>
-      <translation type="unfinished">Enter a friendly name</translation>
+      <translation>輸入易於辨識的名稱</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="75"/>
       <source>Passphrase</source>
-      <translation type="unfinished">Passphrase</translation>
+      <translation>通關片語</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="15"/>
       <source>Signing keys should only be sent to the vehicle over secure links (e.g. USB).</source>
-      <translation type="unfinished">Signing keys should only be sent to the vehicle over secure links (e.g. USB).</translation>
+      <translation>簽章金鑰僅應透過安全連線（例如 USB）傳送至載具。</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="56"/>
       <source>Could not add key. Name may already exist or input is invalid.</source>
-      <translation type="unfinished">Could not add key. Name may already exist or input is invalid.</translation>
+      <translation>無法新增金鑰。名稱可能已存在，或輸入無效。</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="80"/>
       <source>Raw Key (hex)</source>
-      <translation type="unfinished">Raw Key (hex)</translation>
+      <translation>原始金鑰（十六進位）</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="91"/>
       <source>Enter passphrase (min %1 chars)</source>
-      <translation type="unfinished">Enter passphrase (min %1 chars)</translation>
+      <translation>輸入通關片語（至少 %1 個字元）</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="98"/>
       <source>Passphrase too short (%1/%2)</source>
-      <translation type="unfinished">Passphrase too short (%1/%2)</translation>
+      <translation>通關片語過短（%1/%2）</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="111"/>
       <source>64 hex characters</source>
-      <translation type="unfinished">64 hex characters</translation>
+      <translation>64 個十六進位字元</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="118"/>
       <source>Generate</source>
-      <translation type="unfinished">Generate</translation>
+      <translation>產生</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="125"/>
       <source>%1/64 hex characters</source>
-      <translation type="unfinished">%1/64 hex characters</translation>
+      <translation>%1/64 個十六進位字元</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="144"/>
       <source>Active Key</source>
-      <translation type="unfinished">Active Key</translation>
+      <translation>使用中的金鑰</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="147"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>無</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="177"/>
       <source>(another key active)</source>
-      <translation type="unfinished">(another key active)</translation>
+      <translation>（另一把金鑰使用中）</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="184"/>
       <source>Enable</source>
-      <translation type="unfinished">Enable</translation>
+      <translation>啟用</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="184"/>
       <source>Configuring…</source>
-      <translation type="unfinished">Configuring…</translation>
+      <translation>設定中…</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="193"/>
       <source>active link</source>
-      <translation type="unfinished">active link</translation>
+      <translation>使用中的連線</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="196"/>
       <source>Send Signing Key</source>
-      <translation type="unfinished">Send Signing Key</translation>
+      <translation>傳送簽章金鑰</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="197"/>
       <source>This will transmit key &apos;%1&apos; to the vehicle over &apos;%2&apos;. Only proceed if this link is secure (USB or trusted local network).</source>
-      <translation type="unfinished">This will transmit key &apos;%1&apos; to the vehicle over &apos;%2&apos;. Only proceed if this link is secure (USB or trusted local network).</translation>
+      <translation>這會透過「%2」將金鑰「%1」傳送至載具。僅在此連線安全時才可繼續（USB 或受信任的區域網路）。</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="208"/>
       <source>Disable</source>
-      <translation type="unfinished">Disable</translation>
+      <translation>停用</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="208"/>
       <source>Disabling…</source>
-      <translation type="unfinished">Disabling…</translation>
+      <translation>停用中…</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="219"/>
       <source>Disable Signing While Armed?</source>
-      <translation type="unfinished">Disable Signing While Armed?</translation>
+      <translation>要在解鎖時停用簽章嗎？</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="220"/>
       <source>Vehicle is armed. ArduPilot will refuse to disable signing while armed and PX4 will not accept the disable packet without a valid signature. The disable attempt will likely time out and leave the link in an inconsistent state.
 
 Disarm the vehicle first.</source>
-      <translation type="unfinished">Vehicle is armed. ArduPilot will refuse to disable signing while armed and PX4 will not accept the disable packet without a valid signature. The disable attempt will likely time out and leave the link in an inconsistent state.
+      <translation>載具已解鎖。ArduPilot 會拒絕在解鎖時停用簽章，而 PX4 不會接受沒有有效簽章的停用封包。停用嘗試很可能逾時，並使連線處於不一致的狀態。
 
-Disarm the vehicle first.</translation>
+請先將載具上鎖。</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="229"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>匯出</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="238"/>
       <source>Export Key: %1</source>
-      <translation type="unfinished">Export Key: %1</translation>
+      <translation>匯出金鑰：%1</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="239"/>
       <source>Key copied to clipboard. Store it securely — it will be cleared from the clipboard in 30 seconds.</source>
-      <translation type="unfinished">Key copied to clipboard. Store it securely — it will be cleared from the clipboard in 30 seconds.</translation>
+      <translation>金鑰已複製到剪貼簿。請妥善安全保管，30 秒後會從剪貼簿清除。</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="246"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>刪除</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="250"/>
       <source>Delete Signing Key</source>
-      <translation type="unfinished">Delete Signing Key</translation>
+      <translation>刪除簽章金鑰</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="251"/>
       <source>Are you sure you want to delete &apos;%1&apos;?
 
 If a vehicle still has this key configured, you will no longer be able to communicate with it over a signed connection. Raw or generated keys cannot be recovered — Export the hex first if you may need it later.</source>
-      <translation type="unfinished">Are you sure you want to delete &apos;%1&apos;?
+      <translation>確定要刪除「%1」嗎？
 
-If a vehicle still has this key configured, you will no longer be able to communicate with it over a signed connection. Raw or generated keys cannot be recovered — Export the hex first if you may need it later.</translation>
+若載具仍設定使用此金鑰，您將無法再透過簽章連線與其通訊。原始金鑰或產生的金鑰無法復原；若日後可能需要，請先匯出十六進位金鑰。</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="259"/>
       <source>No keys configured</source>
-      <translation type="unfinished">No keys configured</translation>
+      <translation>尚未設定金鑰</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/SigningKeyManager.qml" line="264"/>
       <source>Add Key</source>
-      <translation type="unfinished">Add Key</translation>
+      <translation>新增金鑰</translation>
     </message>
   </context>
   <context>
@@ -20498,82 +20498,82 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="49"/>
       <source>Move &apos;%1&apos; %2 to the %3 location. %4</source>
-      <translation type="unfinished">Move &apos;%1&apos; %2 to the %3 location. %4</translation>
+      <translation>將「%1」%2移至%3位置。%4</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="50"/>
       <source>T</source>
-      <translation type="unfinished">T</translation>
+      <translation>T</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="51"/>
       <source>Transition Direction</source>
-      <translation type="unfinished">Transition Direction</translation>
+      <translation>轉換方向</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="51"/>
       <source>Takeoff</source>
-      <translation type="unfinished">Takeoff</translation>
+      <translation>起飛</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="52"/>
       <source>desired</source>
-      <translation type="unfinished">desired</translation>
+      <translation>目標</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="52"/>
       <source>climbout</source>
-      <translation type="unfinished">climbout</translation>
+      <translation>爬升離場</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="53"/>
       <source>Ensure distance from launch to transition direction is far enough to complete transition.</source>
-      <translation type="unfinished">Ensure distance from launch to transition direction is far enough to complete transition.</translation>
+      <translation>請確認起飛點至轉換方向點的距離足夠完成模式轉換。</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="60"/>
       <source>Ensure clear of obstacles and into the wind.</source>
-      <translation type="unfinished">Ensure clear of obstacles and into the wind.</translation>
+      <translation>請確認沒有障礙物，並迎風起飛。</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="67"/>
       <source>Done</source>
-      <translation type="unfinished">Done</translation>
+      <translation>完成</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="78"/>
       <source>Click in map to set planned Takeoff location.</source>
-      <translation type="unfinished">Click in map to set planned Takeoff location.</translation>
+      <translation>按一下地圖來設定計畫的起飛位置。</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="79"/>
       <source>Click in map to set planned Launch location.</source>
-      <translation type="unfinished">Click in map to set planned Launch location.</translation>
+      <translation>在地圖上按一下以設定預定起飛位置。</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="159"/>
       <source>Alt Frame</source>
-      <translation type="unfinished">Alt Frame</translation>
+      <translation>高度參考系</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="172"/>
       <source>Altitude%1</source>
-      <translation type="unfinished">Altitude%1</translation>
+      <translation>高度%1</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="176"/>
       <source> (%1)</source>
-      <translation type="unfinished"> (%1)</translation>
+      <translation> (%1)</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="182"/>
       <source>Actual AMSL alt sent: %1 %2</source>
-      <translation type="unfinished">Actual AMSL alt sent: %1 %2</translation>
+      <translation>實際傳送的平均海平面以上高度：%1 %2</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="243"/>
       <source>Flight Speed</source>
-      <translation type="unfinished">Flight Speed</translation>
+      <translation>飛行速度</translation>
     </message>
   </context>
   <context>
@@ -20581,42 +20581,42 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/MissionManager/SimpleMissionItem.cc" line="369"/>
       <source>Unknown: %1</source>
-      <translation type="unfinished">Unknown: %1</translation>
+      <translation>未知：%1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SimpleMissionItem.cc" line="376"/>
       <source>L</source>
-      <translation type="unfinished">L</translation>
+      <translation>L</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SimpleMissionItem.cc" line="380"/>
       <source>Takeoff</source>
-      <translation type="unfinished">Takeoff</translation>
+      <translation>起飛</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SimpleMissionItem.cc" line="382"/>
       <source>Land</source>
-      <translation type="unfinished">Land</translation>
+      <translation>降落</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SimpleMissionItem.cc" line="384"/>
       <source>Transition Direction</source>
-      <translation type="unfinished">Transition Direction</translation>
+      <translation>轉換方向</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SimpleMissionItem.cc" line="386"/>
       <source>VTOL Land</source>
-      <translation type="unfinished">VTOL Land</translation>
+      <translation>垂直起降載具降落</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SimpleMissionItem.cc" line="389"/>
       <source>ROI</source>
-      <translation type="unfinished">ROI</translation>
+      <translation>興趣點（ROI）</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SimpleMissionItem.cc" line="394"/>
       <source>Loiter</source>
-      <translation type="unfinished">Loiter</translation>
+      <translation>盤旋</translation>
     </message>
   </context>
   <context>
@@ -20624,7 +20624,7 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/Camera/SimulatedCameraControl.cc" line="152"/>
       <source>Time lapse capture not supported by this camera</source>
-      <translation type="unfinished">Time lapse capture not supported by this camera</translation>
+      <translation>此相機不支援縮時拍攝</translation>
     </message>
   </context>
   <context>
@@ -20632,48 +20632,48 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/MAVLink/StatusTextHandler.cc" line="186"/>
       <source>EMERGENCY</source>
-      <translation type="unfinished">EMERGENCY</translation>
+      <translation>緊急狀況</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/StatusTextHandler.cc" line="190"/>
       <source>ALERT</source>
-      <translation type="unfinished">ALERT</translation>
+      <translation>警報</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/StatusTextHandler.cc" line="194"/>
       <source>Critical</source>
-      <translation type="unfinished">Critical</translation>
+      <translation>嚴重</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/StatusTextHandler.cc" line="198"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>錯誤</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/StatusTextHandler.cc" line="202"/>
       <source>Warning</source>
-      <translation type="unfinished">Warning</translation>
+      <translation>警告</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/StatusTextHandler.cc" line="206"/>
       <source>Notice</source>
-      <translation type="unfinished">Notice</translation>
+      <translation>通知</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/StatusTextHandler.cc" line="210"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>資訊</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/StatusTextHandler.cc" line="214"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>偵錯</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/StatusTextHandler.cc" line="324"/>
       <source> ... </source>
       <comment>Indicates missing chunk from chunked STATUS_TEXT</comment>
-      <translation type="unfinished"> ... </translation>
+      <translation> ... </translation>
     </message>
   </context>
   <context>
@@ -20681,19 +20681,19 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/MissionManager/StructureScanComplexItem.cc" line="215"/>
       <source>%1 does not support loading this complex mission item type: %2:%3</source>
-      <translation type="unfinished">%1 does not support loading this complex mission item type: %2:%3</translation>
+      <translation>%1 不支援載入此複合任務項目類型：%2:%3</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/StructureScanComplexItem.cc" line="221"/>
       <source>%1 version %2 not supported</source>
-      <translation type="unfinished">%1 version %2 not supported</translation>
+      <translation>不支援 %1 版本 %2</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/StructureScanComplexItem.h" line="65"/>
       <location filename="../src/MissionManager/StructureScanComplexItem.h" line="66"/>
       <location filename="../src/MissionManager/StructureScanComplexItem.h" line="91"/>
       <source>Structure Scan</source>
-      <translation type="unfinished">Structure Scan</translation>
+      <translation>結構物掃描</translation>
     </message>
   </context>
   <context>
@@ -20701,119 +20701,119 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="58"/>
       <source>Use the Polygon Tools to create the polygon which outlines the structure.</source>
-      <translation type="unfinished">Use the Polygon Tools to create the polygon which outlines the structure.</translation>
+      <translation>使用多邊形工具建立沿結構物外緣的多邊形。</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="73"/>
       <source>Grid</source>
-      <translation type="unfinished">Grid</translation>
+      <translation>網格</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="74"/>
       <source>Camera</source>
-      <translation type="unfinished">Camera</translation>
+      <translation>相機</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="84"/>
       <source>Note: Polygon respresents structure surface not vehicle flight path.</source>
-      <translation type="unfinished">Note: Polygon respresents structure surface not vehicle flight path.</translation>
+      <translation>注意：多邊形代表結構物表面，而非載具飛行路徑。</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="91"/>
       <source>WARNING: Photo interval is below minimum interval (%1 secs) supported by camera.</source>
-      <translation type="unfinished">WARNING: Photo interval is below minimum interval (%1 secs) supported by camera.</translation>
+      <translation>警告：拍照間隔低於相機支援的最小間隔（%1秒）。</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="101"/>
       <source>Scan Distance</source>
-      <translation type="unfinished">Scan Distance</translation>
+      <translation>掃描距離</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="102"/>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="189"/>
       <source>Layer Height</source>
-      <translation type="unfinished">Layer Height</translation>
+      <translation>分層高度</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="103"/>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="204"/>
       <source>Trigger Distance</source>
-      <translation type="unfinished">Trigger Distance</translation>
+      <translation>觸發距離</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="109"/>
       <source>Scan</source>
-      <translation type="unfinished">Scan</translation>
+      <translation>掃描</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="126"/>
       <source>Start Scan From Bottom</source>
-      <translation type="unfinished">Start Scan From Bottom</translation>
+      <translation>從底部開始掃描</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="126"/>
       <source>Start Scan From Top</source>
-      <translation type="unfinished">Start Scan From Top</translation>
+      <translation>從頂部開始掃描</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="132"/>
       <source>Structure Height</source>
-      <translation type="unfinished">Structure Height</translation>
+      <translation>結構物高度</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="139"/>
       <source>Scan Bottom Alt</source>
-      <translation type="unfinished">Scan Bottom Alt</translation>
+      <translation>掃描底部高度</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="146"/>
       <source>Entrance/Exit Alt</source>
-      <translation type="unfinished">Entrance/Exit Alt</translation>
+      <translation>進入／離開高度</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="154"/>
       <source>Gimbal Pitch</source>
-      <translation type="unfinished">Gimbal Pitch</translation>
+      <translation>雲台俯仰</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="170"/>
       <source>Rotate entry point</source>
-      <translation type="unfinished">Rotate entry point</translation>
+      <translation>輪換進入點</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="178"/>
       <source>Statistics</source>
-      <translation type="unfinished">Statistics</translation>
+      <translation>統計</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="186"/>
       <source>Layers</source>
-      <translation type="unfinished">Layers</translation>
+      <translation>層</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="192"/>
       <source>Top Layer Alt</source>
-      <translation type="unfinished">Top Layer Alt</translation>
+      <translation>最上層高度</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="195"/>
       <source>Bottom Layer Alt</source>
-      <translation type="unfinished">Bottom Layer Alt</translation>
+      <translation>最下層高度</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="198"/>
       <source>Photo Count</source>
-      <translation type="unfinished">Photo Count</translation>
+      <translation>照片張數</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="201"/>
       <source>Photo Interval</source>
-      <translation type="unfinished">Photo Interval</translation>
+      <translation>拍攝間隔</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="202"/>
       <source>secs</source>
-      <translation type="unfinished">secs</translation>
+      <translation>秒</translation>
     </message>
   </context>
   <context>
@@ -20821,67 +20821,67 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/FlyView/SubChecklist.qml" line="14"/>
       <source>Submarine Initial checks</source>
-      <translation type="unfinished">Submarine Initial checks</translation>
+      <translation>潛水載具初始檢查</translation>
     </message>
     <message>
       <location filename="../src/FlyView/SubChecklist.qml" line="17"/>
       <source>Hardware</source>
-      <translation type="unfinished">Hardware</translation>
+      <translation>硬體</translation>
     </message>
     <message>
       <location filename="../src/FlyView/SubChecklist.qml" line="18"/>
       <source>All seals in place?</source>
-      <translation type="unfinished">All seals in place?</translation>
+      <translation>所有密封件均已就位？</translation>
     </message>
     <message>
       <location filename="../src/FlyView/SubChecklist.qml" line="39"/>
       <source>Please arm the vehicle here</source>
-      <translation type="unfinished">Please arm the vehicle here</translation>
+      <translation>請在此解鎖載具</translation>
     </message>
     <message>
       <location filename="../src/FlyView/SubChecklist.qml" line="42"/>
       <source>Actuators</source>
-      <translation type="unfinished">Actuators</translation>
+      <translation>致動器</translation>
     </message>
     <message>
       <location filename="../src/FlyView/SubChecklist.qml" line="43"/>
       <source>Move all control surfaces. Did they work properly?</source>
-      <translation type="unfinished">Move all control surfaces. Did they work properly?</translation>
+      <translation>請嘗試移動所有舵面。它們都能正常工作嗎？</translation>
     </message>
     <message>
       <location filename="../src/FlyView/SubChecklist.qml" line="47"/>
       <source>Motors</source>
-      <translation type="unfinished">Motors</translation>
+      <translation>馬達</translation>
     </message>
     <message>
       <location filename="../src/FlyView/SubChecklist.qml" line="48"/>
       <source>Propellers free? Then throttle up gently. Working properly?</source>
-      <translation type="unfinished">Propellers free? Then throttle up gently. Working properly?</translation>
+      <translation>螺旋槳周圍是否有足夠的空間？輕推油門，觀察是否一切正常？</translation>
     </message>
     <message>
       <location filename="../src/FlyView/SubChecklist.qml" line="52"/>
       <source>Mission</source>
-      <translation type="unfinished">Mission</translation>
+      <translation>任務</translation>
     </message>
     <message>
       <location filename="../src/FlyView/SubChecklist.qml" line="53"/>
       <source>Please confirm mission is valid (waypoints valid, no terrain collision).</source>
-      <translation type="unfinished">Please confirm mission is valid (waypoints valid, no terrain collision).</translation>
+      <translation>請確認任務有效（航點有效，且不會撞上地形）。</translation>
     </message>
     <message>
       <location filename="../src/FlyView/SubChecklist.qml" line="61"/>
       <source>Last preparations before launch</source>
-      <translation type="unfinished">Last preparations before launch</translation>
+      <translation>起飛前的最後準備工作</translation>
     </message>
     <message>
       <location filename="../src/FlyView/SubChecklist.qml" line="65"/>
       <source>Payload</source>
-      <translation type="unfinished">Payload</translation>
+      <translation>酬載</translation>
     </message>
     <message>
       <location filename="../src/FlyView/SubChecklist.qml" line="66"/>
       <source>Configured and started? Payload lid closed?</source>
-      <translation type="unfinished">Configured and started? Payload lid closed?</translation>
+      <translation>已設定並啟動？酬載艙蓋已關閉？</translation>
     </message>
   </context>
   <context>
@@ -20889,30 +20889,30 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/MissionManager/SurveyComplexItem.cc" line="121"/>
       <source>Survey items do not support version %1</source>
-      <translation type="unfinished">Survey items do not support version %1</translation>
+      <translation>測繪項目不支援版本 %1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SurveyComplexItem.cc" line="178"/>
       <location filename="../src/MissionManager/SurveyComplexItem.cc" line="234"/>
       <source>%1 does not support loading this complex mission item type: %2:%3</source>
-      <translation type="unfinished">%1 does not support loading this complex mission item type: %2:%3</translation>
+      <translation>%1 不支援載入此複合任務項目類型：%2:%3</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SurveyComplexItem.cc" line="282"/>
       <source>%1 but %2 object is missing</source>
-      <translation type="unfinished">%1 but %2 object is missing</translation>
+      <translation>%1，但缺少 %2 物件</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SurveyComplexItem.h" line="47"/>
       <location filename="../src/MissionManager/SurveyComplexItem.h" line="48"/>
       <location filename="../src/MissionManager/SurveyComplexItem.h" line="63"/>
       <source>Survey</source>
-      <translation type="unfinished">Survey</translation>
+      <translation>測繪</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SurveyComplexItem.h" line="49"/>
       <source>S</source>
-      <translation type="unfinished">S</translation>
+      <translation>S</translation>
     </message>
   </context>
   <context>
@@ -20920,47 +20920,47 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="13"/>
       <source>Use the Polygon Tools to create the polygon which outlines your survey area.</source>
-      <translation type="unfinished">Use the Polygon Tools to create the polygon which outlines your survey area.</translation>
+      <translation>使用多邊形工具建立測繪區域邊界的多邊形。</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="14"/>
       <source>Transects</source>
-      <translation type="unfinished">Transects</translation>
+      <translation>測線</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="30"/>
       <source>Angle</source>
-      <translation type="unfinished">Angle</translation>
+      <translation>航線角度</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="51"/>
       <source>Turnaround dist</source>
-      <translation type="unfinished">Turnaround dist</translation>
+      <translation>迴轉距離</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="67"/>
       <source>Hover and capture image</source>
-      <translation type="unfinished">Hover and capture image</translation>
+      <translation>懸停拍照</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="73"/>
       <source>Refly at 90 deg offset</source>
-      <translation type="unfinished">Refly at 90 deg offset</translation>
+      <translation>以90度偏移重飛</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="79"/>
       <source>Images in turnarounds</source>
-      <translation type="unfinished">Images in turnarounds</translation>
+      <translation>轉彎時拍照</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="85"/>
       <source>Fly alternate transects</source>
-      <translation type="unfinished">Fly alternate transects</translation>
+      <translation>交錯飛行測線</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="97"/>
       <source>Select Polygon File</source>
-      <translation type="unfinished">Select Polygon File</translation>
+      <translation>選擇多邊形檔案</translation>
     </message>
   </context>
   <context>
@@ -20968,17 +20968,17 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/MAVLink/SysStatusSensorInfo.cc" line="89"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>錯誤</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/SysStatusSensorInfo.cc" line="95"/>
       <source>Normal</source>
-      <translation type="unfinished">Normal</translation>
+      <translation>正常</translation>
     </message>
     <message>
       <location filename="../src/MAVLink/SysStatusSensorInfo.cc" line="101"/>
       <source>Disabled</source>
-      <translation type="unfinished">Disabled</translation>
+      <translation>已停用</translation>
     </message>
   </context>
   <context>
@@ -20986,42 +20986,42 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/AutoPilotPlugins/Common/SyslinkComponent.qml" line="30"/>
       <source>Radio Settings</source>
-      <translation type="unfinished">Radio Settings</translation>
+      <translation>遙控器設定</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/SyslinkComponent.qml" line="48"/>
       <source>Channel</source>
-      <translation type="unfinished">Channel</translation>
+      <translation>通道</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/SyslinkComponent.qml" line="73"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>位址</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/SyslinkComponent.qml" line="93"/>
       <source>Address in hex. Default is E7E7E7E7E7.</source>
-      <translation type="unfinished">Address in hex. Default is E7E7E7E7E7.</translation>
+      <translation>十六進位位址。預設為 E7E7E7E7E7。</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/SyslinkComponent.qml" line="99"/>
       <source>Data Rate</source>
-      <translation type="unfinished">Data Rate</translation>
+      <translation>資料速率</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/SyslinkComponent.qml" line="113"/>
       <source>Restore Defaults</source>
-      <translation type="unfinished">Restore Defaults</translation>
+      <translation>恢復預設值</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/SyslinkComponent.cc" line="5"/>
       <source>Syslink</source>
-      <translation type="unfinished">Syslink</translation>
+      <translation>Syslink</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/SyslinkComponent.h" line="13"/>
       <source>The Syslink Component is used to setup the radio connection on Crazyflies.</source>
-      <translation type="unfinished">The Syslink Component is used to setup the radio connection on Crazyflies.</translation>
+      <translation>Syslink 元件用於設定 Crazyflie 的無線電連線。</translation>
     </message>
   </context>
   <context>
@@ -21029,7 +21029,7 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/Comms/TCPLink.h" line="34"/>
       <source>TCP Link Settings</source>
-      <translation type="unfinished">TCP Link Settings</translation>
+      <translation>TCP連線設定</translation>
     </message>
   </context>
   <context>
@@ -21037,12 +21037,12 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/Comms/TCPLink.cc" line="320"/>
       <source>TCP Link Error</source>
-      <translation type="unfinished">TCP Link Error</translation>
+      <translation>TCP 連線錯誤</translation>
     </message>
     <message>
       <location filename="../src/Comms/TCPLink.cc" line="320"/>
       <source>Link %1: (Host: %2 Port: %3) %4</source>
-      <translation type="unfinished">Link %1: (Host: %2 Port: %3) %4</translation>
+      <translation>連線 %1：（主機：%2，連接埠：%3）%4</translation>
     </message>
   </context>
   <context>
@@ -21050,32 +21050,32 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/Comms/TCPLink.cc" line="143"/>
       <source>Connection Failed: Host address is empty</source>
-      <translation type="unfinished">Connection Failed: Host address is empty</translation>
+      <translation>連線失敗：主機位址為空</translation>
     </message>
     <message>
       <location filename="../src/Comms/TCPLink.cc" line="156"/>
       <source>Connection Failed: %1</source>
-      <translation type="unfinished">Connection Failed: %1</translation>
+      <translation>連線失敗：%1</translation>
     </message>
     <message>
       <location filename="../src/Comms/TCPLink.cc" line="184"/>
       <source>Data to Send is Empty</source>
-      <translation type="unfinished">Data to Send is Empty</translation>
+      <translation>要傳送的資料為空</translation>
     </message>
     <message>
       <location filename="../src/Comms/TCPLink.cc" line="189"/>
       <source>Socket is not connected</source>
-      <translation type="unfinished">Socket is not connected</translation>
+      <translation>通訊端未連線</translation>
     </message>
     <message>
       <location filename="../src/Comms/TCPLink.cc" line="197"/>
       <source>Could Not Send Data - Write Failed: %1</source>
-      <translation type="unfinished">Could Not Send Data - Write Failed: %1</translation>
+      <translation>無法傳送資料－寫入失敗：%1</translation>
     </message>
     <message>
       <location filename="../src/Comms/TCPLink.cc" line="200"/>
       <source>Could Not Send Data - Write Returned 0 Bytes</source>
-      <translation type="unfinished">Could Not Send Data - Write Returned 0 Bytes</translation>
+      <translation>無法傳送資料－寫入回傳 0 位元組</translation>
     </message>
   </context>
   <context>
@@ -21083,7 +21083,7 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/PlanView/TakeoffItemMapVisual.qml" line="121"/>
       <source>Home</source>
-      <translation type="unfinished">Home</translation>
+      <translation>返航點</translation>
     </message>
   </context>
   <context>
@@ -21091,27 +21091,27 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/AppSettings/TcpSettings.qml" line="18"/>
       <source>Server Address</source>
-      <translation type="unfinished">Server Address</translation>
+      <translation>伺服器位址</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/TcpSettings.qml" line="23"/>
       <source>localhost or 192.168.1.1</source>
-      <translation type="unfinished">localhost or 192.168.1.1</translation>
+      <translation>localhost 或 192.168.1.1</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/TcpSettings.qml" line="33"/>
       <source>Port</source>
-      <translation type="unfinished">Port</translation>
+      <translation>連接埠</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/TcpSettings.qml" line="39"/>
       <source>5760</source>
-      <translation type="unfinished">5760</translation>
+      <translation>5760</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/TcpSettings.qml" line="54"/>
       <source>You can enter an IP address (e.g. 192.168.1.1) or hostname (e.g. my-drone.local)</source>
-      <translation type="unfinished">You can enter an IP address (e.g. 192.168.1.1) or hostname (e.g. my-drone.local)</translation>
+      <translation>您可以輸入 IP 位址（例如 192.168.1.1）或主機名稱（例如 my-drone.local）</translation>
     </message>
   </context>
   <context>
@@ -21119,48 +21119,48 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/Toolbar/TelemetryRSSIIndicator.qml" line="45"/>
       <source>Telemetry RSSI Status</source>
-      <translation type="unfinished">Telemetry RSSI Status</translation>
+      <translation>數傳接收訊號強度（RSSI）狀態</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/TelemetryRSSIIndicator.qml" line="48"/>
       <source>Local RSSI:</source>
-      <translation type="unfinished">Local RSSI:</translation>
+      <translation>本地 RSSI：</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/TelemetryRSSIIndicator.qml" line="49"/>
       <location filename="../src/Toolbar/TelemetryRSSIIndicator.qml" line="54"/>
       <source>dBm</source>
-      <translation type="unfinished">dBm</translation>
+      <translation>dBm</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/TelemetryRSSIIndicator.qml" line="53"/>
       <source>Remote RSSI:</source>
-      <translation type="unfinished">Remote RSSI:</translation>
+      <translation>遠端 RSSI：</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/TelemetryRSSIIndicator.qml" line="58"/>
       <source>RX Errors:</source>
-      <translation type="unfinished">RX Errors:</translation>
+      <translation>接收錯誤：</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/TelemetryRSSIIndicator.qml" line="63"/>
       <source>Errors Fixed:</source>
-      <translation type="unfinished">Errors Fixed:</translation>
+      <translation>錯誤已修正：</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/TelemetryRSSIIndicator.qml" line="68"/>
       <source>TX Buffer:</source>
-      <translation type="unfinished">TX Buffer:</translation>
+      <translation>發射緩衝區：</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/TelemetryRSSIIndicator.qml" line="73"/>
       <source>Local Noise:</source>
-      <translation type="unfinished">Local Noise:</translation>
+      <translation>本地噪音：</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/TelemetryRSSIIndicator.qml" line="78"/>
       <source>Remote Noise:</source>
-      <translation type="unfinished">Remote Noise:</translation>
+      <translation>遠端噪音：</translation>
     </message>
   </context>
   <context>
@@ -21168,12 +21168,12 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/FlyView/TerrainProgress.qml" line="58"/>
       <source>Terrain Load Progress</source>
-      <translation type="unfinished">Terrain Load Progress</translation>
+      <translation>地形載入進度</translation>
     </message>
     <message>
       <location filename="../src/FlyView/TerrainProgress.qml" line="76"/>
       <source>Done</source>
-      <translation type="unfinished">Done</translation>
+      <translation>完成</translation>
     </message>
   </context>
   <context>
@@ -21181,7 +21181,7 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/Vehicle/TerrainQueryCoordinator.cc" line="80"/>
       <source>Set Home failed, terrain data not available for selected coordinate</source>
-      <translation type="unfinished">Set Home failed, terrain data not available for selected coordinate</translation>
+      <translation>設定返航點失敗，所選座標沒有可用的地形資料</translation>
     </message>
   </context>
   <context>
@@ -21189,7 +21189,7 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/PlanView/TerrainStatus.qml" line="34"/>
       <source>Height AMSL (%1)</source>
-      <translation type="unfinished">Height AMSL (%1)</translation>
+      <translation>AMSL 高度(%1)</translation>
     </message>
   </context>
   <context>
