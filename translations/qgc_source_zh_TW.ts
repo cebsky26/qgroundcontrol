@@ -22399,62 +22399,62 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/Settings/VideoSettings.h" line="53"/>
       <source>No Video Available</source>
-      <translation type="unfinished">No Video Available</translation>
+      <translation>沒有可用影像</translation>
     </message>
     <message>
       <location filename="../src/Settings/VideoSettings.h" line="54"/>
       <source>Video Stream Disabled</source>
-      <translation type="unfinished">Video Stream Disabled</translation>
+      <translation>影像串流已停用</translation>
     </message>
     <message>
       <location filename="../src/Settings/VideoSettings.h" line="55"/>
       <source>RTSP Video Stream</source>
-      <translation type="unfinished">RTSP Video Stream</translation>
+      <translation>RTSP 影像串流</translation>
     </message>
     <message>
       <location filename="../src/Settings/VideoSettings.h" line="56"/>
       <source>UDP h.264 Video Stream</source>
-      <translation type="unfinished">UDP h.264 Video Stream</translation>
+      <translation>UDP h.264 影像串流</translation>
     </message>
     <message>
       <location filename="../src/Settings/VideoSettings.h" line="57"/>
       <source>UDP h.265 Video Stream</source>
-      <translation type="unfinished">UDP h.265 Video Stream</translation>
+      <translation>UDP h.265 影像串流</translation>
     </message>
     <message>
       <location filename="../src/Settings/VideoSettings.h" line="58"/>
       <source>TCP-MPEG2 Video Stream</source>
-      <translation type="unfinished">TCP-MPEG2 Video Stream</translation>
+      <translation>TCP-MPEG2 影像串流</translation>
     </message>
     <message>
       <location filename="../src/Settings/VideoSettings.h" line="59"/>
       <source>MPEG-TS Video Stream</source>
-      <translation type="unfinished">MPEG-TS Video Stream</translation>
+      <translation>MPEG-TS 影像串流</translation>
     </message>
     <message>
       <location filename="../src/Settings/VideoSettings.h" line="60"/>
       <source>3DR Solo (requires restart)</source>
-      <translation type="unfinished">3DR Solo (requires restart)</translation>
+      <translation>3DR Solo（需要重新啟動）</translation>
     </message>
     <message>
       <location filename="../src/Settings/VideoSettings.h" line="61"/>
       <source>Parrot Discovery</source>
-      <translation type="unfinished">Parrot Discovery</translation>
+      <translation>Parrot 裝置探索</translation>
     </message>
     <message>
       <location filename="../src/Settings/VideoSettings.h" line="62"/>
       <source>Yuneec Mantis G</source>
-      <translation type="unfinished">Yuneec Mantis G</translation>
+      <translation>Yuneec Mantis G</translation>
     </message>
     <message>
       <location filename="../src/Settings/VideoSettings.h" line="63"/>
       <source>Herelink AirUnit</source>
-      <translation type="unfinished">Herelink AirUnit</translation>
+      <translation>Herelink AirUnit</translation>
     </message>
     <message>
       <location filename="../src/Settings/VideoSettings.h" line="64"/>
       <source>Herelink Hotspot</source>
-      <translation type="unfinished">Herelink Hotspot</translation>
+      <translation>Herelink 熱點</translation>
     </message>
   </context>
   <context>
@@ -22462,7 +22462,7 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/Viewer3D/Viewer3DQml/Models3D/Viewer3DModel.qml" line="103"/>
       <source>Downloading Imageries: </source>
-      <translation type="unfinished">Downloading Imageries: </translation>
+      <translation>正在下載影像： </translation>
     </message>
   </context>
   <context>
@@ -22470,7 +22470,35 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/Viewer3D/Viewer3DQml/Viewer3DProgressBar.qml" line="7"/>
       <source>Progress</source>
-      <translation type="unfinished">Progress</translation>
+      <translation>進度</translation>
+    </message>
+  </context>
+  <context>
+    <name>Viewer3DScaleBar</name>
+    <message>
+      <location filename="../src/Viewer3D/Viewer3DQml/Models3D/Viewer3DScaleBar.qml" line="49"/>
+      <source> ft</source>
+      <translation> 英尺</translation>
+    </message>
+    <message>
+      <location filename="../src/Viewer3D/Viewer3DQml/Models3D/Viewer3DScaleBar.qml" line="32"/>
+      <source> km</source>
+      <translation> 公里</translation>
+    </message>
+    <message>
+      <location filename="../src/Viewer3D/Viewer3DQml/Models3D/Viewer3DScaleBar.qml" line="34"/>
+      <source> m</source>
+      <translation> 公尺</translation>
+    </message>
+    <message>
+      <location filename="../src/Viewer3D/Viewer3DQml/Models3D/Viewer3DScaleBar.qml" line="44"/>
+      <source> mile</source>
+      <translation> 英里</translation>
+    </message>
+    <message>
+      <location filename="../src/Viewer3D/Viewer3DQml/Models3D/Viewer3DScaleBar.qml" line="46"/>
+      <source> miles</source>
+      <translation> 英里</translation>
     </message>
   </context>
   <context>
@@ -22478,12 +22506,12 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/Viewer3D/Viewer3DQml/Viewer3DShowAction.qml" line="11"/>
       <source>Fly</source>
-      <translation type="unfinished">Fly</translation>
+      <translation>飛行</translation>
     </message>
     <message>
       <location filename="../src/Viewer3D/Viewer3DQml/Viewer3DShowAction.qml" line="11"/>
       <source>3D View</source>
-      <translation type="unfinished">3D View</translation>
+      <translation>3D 檢視</translation>
     </message>
   </context>
   <context>
@@ -22491,29 +22519,29 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/Viewer3D/Viewer3DQml/Models3D/Viewer3DVehicleItems.qml" line="108"/>
       <source>L</source>
-      <translation type="unfinished">L</translation>
+      <translation>L</translation>
     </message>
     <message>
       <location filename="../src/Viewer3D/Viewer3DQml/Models3D/Viewer3DVehicleItems.qml" line="112"/>
       <location filename="../src/Viewer3D/Viewer3DQml/Models3D/Viewer3DVehicleItems.qml" line="120"/>
       <source>T</source>
-      <translation type="unfinished">T</translation>
+      <translation>T</translation>
     </message>
     <message>
       <location filename="../src/Viewer3D/Viewer3DQml/Models3D/Viewer3DVehicleItems.qml" line="118"/>
       <source>W</source>
-      <translation type="unfinished">W</translation>
+      <translation>W</translation>
     </message>
     <message>
       <location filename="../src/Viewer3D/Viewer3DQml/Models3D/Viewer3DVehicleItems.qml" line="122"/>
       <location filename="../src/Viewer3D/Viewer3DQml/Models3D/Viewer3DVehicleItems.qml" line="124"/>
       <source>R</source>
-      <translation type="unfinished">R</translation>
+      <translation>R</translation>
     </message>
     <message>
       <location filename="../src/Viewer3D/Viewer3DQml/Models3D/Viewer3DVehicleItems.qml" line="127"/>
       <source>null</source>
-      <translation type="unfinished">null</translation>
+      <translation>null</translation>
     </message>
   </context>
   <context>
@@ -22521,167 +22549,172 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/Utilities/Platform/Platform.cc" line="245"/>
       <source>You are running %1 as root. You should not do this since it will cause other issues with %1. %1 will now exit.</source>
-      <translation type="unfinished">You are running %1 as root. You should not do this since it will cause other issues with %1. %1 will now exit.</translation>
+      <translation>您正在以 root 身分執行 %1。這會導致 %1 發生其他問題，因此不應如此執行。%1 即將結束。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/Platform/Platform.cc" line="257"/>
       <source>A second instance of %1 is already running. Please close the other instance and try again.</source>
-      <translation type="unfinished">A second instance of %1 is already running. Please close the other instance and try again.</translation>
+      <translation>已有另一個 %1 執行個體正在執行。請先關閉該執行個體，再試一次。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="133"/>
       <source>MAVLink GCS system id.</source>
-      <translation type="unfinished">MAVLink GCS system id.</translation>
+      <translation>MAVLink 地面站系統 ID。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="134"/>
       <source>id</source>
-      <translation type="unfinished">id</translation>
+      <translation>id</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="139"/>
       <source>Clear stored application settings.</source>
-      <translation type="unfinished">Clear stored application settings.</translation>
+      <translation>清除已儲存的應用程式設定。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="144"/>
       <source>Clear parameter and airframe caches.</source>
-      <translation type="unfinished">Clear parameter and airframe caches.</translation>
+      <translation>清除參數與機架快取。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="149"/>
       <source>Enable logging with optional rules string.</source>
-      <translation type="unfinished">Enable logging with optional rules string.</translation>
+      <translation>啟用記錄，可選擇指定規則字串。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="150"/>
       <source>rules</source>
-      <translation type="unfinished">rules</translation>
+      <translation>rules</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="155"/>
       <source>Log to console.</source>
-      <translation type="unfinished">Log to console.</translation>
+      <translation>將記錄輸出至主控台。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="160"/>
       <source>Initialize subsystems and exit.</source>
-      <translation type="unfinished">Initialize subsystems and exit.</translation>
+      <translation>初始化子系統後結束。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="167"/>
       <source>Run unit tests (optional filter value).</source>
-      <translation type="unfinished">Run unit tests (optional filter value).</translation>
+      <translation>執行單元測試（可選擇指定篩選值）。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="168"/>
       <source>filter</source>
-      <translation type="unfinished">filter</translation>
+      <translation>filter</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="173"/>
       <source>Stress unit tests.</source>
-      <translation type="unfinished">Stress unit tests.</translation>
+      <translation>執行單元壓力測試。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="174"/>
       <source>count</source>
-      <translation type="unfinished">count</translation>
+      <translation>count</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="179"/>
       <source>Output test results to file (JUnit XML format).</source>
-      <translation type="unfinished">Output test results to file (JUnit XML format).</translation>
+      <translation>將測試結果輸出至檔案（JUnit XML 格式）。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="180"/>
       <source>file</source>
-      <translation type="unfinished">file</translation>
+      <translation>file</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="185"/>
       <source>Filter tests by label (unit, integration, vehicle, missionmanager, etc.).</source>
-      <translation type="unfinished">Filter tests by label (unit, integration, vehicle, missionmanager, etc.).</translation>
+      <translation>依標籤篩選測試（unit、integration、vehicle、missionmanager 等）。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="186"/>
       <source>labels</source>
-      <translation type="unfinished">labels</translation>
+      <translation>labels</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="191"/>
       <source>List available unit tests and exit.</source>
-      <translation type="unfinished">List available unit tests and exit.</translation>
+      <translation>列出可用的單元測試後結束。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="196"/>
       <source>Show test windows on screen instead of running offscreen.</source>
-      <translation type="unfinished">Show test windows on screen instead of running offscreen.</translation>
+      <translation>在螢幕上顯示測試視窗，而非於畫面外執行。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="204"/>
       <source>Run with mobile-style UI.</source>
-      <translation type="unfinished">Run with mobile-style UI.</translation>
+      <translation>以行動裝置風格的使用者介面執行。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="209"/>
       <source>Bypass single-instance guard.</source>
-      <translation type="unfinished">Bypass single-instance guard.</translation>
+      <translation>略過單一執行個體限制。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="217"/>
       <source>Force software OpenGL.</source>
-      <translation type="unfinished">Force software OpenGL.</translation>
+      <translation>強制使用軟體 OpenGL。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="225"/>
       <source>Force Desktop OpenGL.</source>
-      <translation type="unfinished">Force Desktop OpenGL.</translation>
+      <translation>強制使用桌面 OpenGL。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="230"/>
       <source>Disable Windows assert dialog boxes.</source>
-      <translation type="unfinished">Disable Windows assert dialog boxes.</translation>
+      <translation>停用 Windows 斷言對話方塊。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="250"/>
       <source>--unittest/--unittest-stress/--unittest-output/--list-tests options are only available in unittest builds.</source>
-      <translation type="unfinished">--unittest/--unittest-stress/--unittest-output/--list-tests options are only available in unittest builds.</translation>
+      <translation>--unittest/--unittest-stress/--unittest-output/--list-tests 選項僅適用於單元測試建置。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="262"/>
       <source>--fake-mobile/--allow-multiple are not supported on mobile platforms.</source>
-      <translation type="unfinished">--fake-mobile/--allow-multiple are not supported on mobile platforms.</translation>
+      <translation>行動平台不支援 --fake-mobile/--allow-multiple。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="274"/>
       <source>--desktop/--no-windows-assert-ui are only supported on Windows.</source>
-      <translation type="unfinished">--desktop/--no-windows-assert-ui are only supported on Windows.</translation>
+      <translation>--desktop/--no-windows-assert-ui 僅適用於 Windows。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="285"/>
       <source>--swrast is only supported on Windows and macOS.</source>
-      <translation type="unfinished">--swrast is only supported on Windows and macOS.</translation>
+      <translation>--swrast 僅適用於 Windows 與 macOS。</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="294"/>
       <source>Unknown options: %1</source>
-      <translation type="unfinished">Unknown options: %1</translation>
+      <translation>未知選項：%1</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="304"/>
       <source>Unexpected positional arguments: %1</source>
-      <translation type="unfinished">Unexpected positional arguments: %1</translation>
+      <translation>非預期的位置引數：%1</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="330"/>
       <source>Invalid System ID (must be 1-255): %1</source>
-      <translation type="unfinished">Invalid System ID (must be 1-255): %1</translation>
+      <translation>系統 ID 無效（必須為 1-255）：%1</translation>
     </message>
     <message>
       <location filename="../src/Utilities/QGCCommandLineParser.cc" line="373"/>
       <source>Invalid stress test count (must be &gt; 0): %1</source>
-      <translation type="unfinished">Invalid stress test count (must be &gt; 0): %1</translation>
+      <translation>壓力測試次數無效（必須 &gt; 0）：%1</translation>
+    </message>
+    <message>
+      <location filename="../src/Utilities/QGCCommandLineParser.cc" line="267"/>
+      <source>--no-windows-assert-ui is only supported on Windows.</source>
+      <translation>--no-windows-assert-ui 僅適用於 Windows。</translation>
     </message>
   </context>
 </TS>
