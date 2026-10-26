@@ -8,8 +8,8 @@ import QGroundControl.Controls
 //-- Mode Indicator
 QGCComboBox {
     anchors.verticalCenter: parent.verticalCenter
-    alternateText:          _activeVehicle ? _activeVehicle.flightMode : ""
-    model:                  _flightModes
+    alternateText:          _activeVehicle ? _activeVehicle.flightModeDisplayName(_activeVehicle.flightMode) : ""
+    model:                  _activeVehicle ? _flightModes.map(mode => _activeVehicle.flightModeDisplayName(mode)) : []   // display names; onActivated uses the untranslated list
     font.pointSize:         ScreenTools.mediumFontPointSize
     currentIndex:           -1
     sizeToContents:         true

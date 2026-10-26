@@ -43,7 +43,7 @@ RowLayout {
         }
 
         QGCLabel {
-            text:               activeVehicle ? activeVehicle.flightMode : qsTr("N/A", "No data to display")
+            text:               activeVehicle ? activeVehicle.flightModeDisplayName(activeVehicle.flightMode) : qsTr("N/A", "No data to display")
             font.pointSize:     fontPointSize
             Layout.alignment:   Qt.AlignCenter
 
@@ -93,11 +93,11 @@ RowLayout {
                         model: activeVehicle ? activeVehicle.flightModes : []
 
                         QGCButton {
-                            text:               modelData
+                            text:               activeVehicle ? activeVehicle.flightModeDisplayName(modelData) : modelData
                             Layout.fillWidth:   true
 
                             onClicked: {
-                                activeVehicle.flightMode = text
+                                activeVehicle.flightMode = modelData
                                 indicatorDrawer.close()
                             }
                         }

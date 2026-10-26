@@ -297,6 +297,9 @@ public:
     /// @return Minimum equivalent airspeed.
     Q_INVOKABLE double minimumEquivalentAirspeed();
 
+    /// Flight mode name to show the user; flightMode/flightModes stay untranslated because they are lookup keys
+    Q_INVOKABLE QString flightModeDisplayName(const QString& flightMode) const;
+
     /// Command vehicle to move to specified location (altitude is ignored)
     /// @return true: goto command accepted, false: goto failed
     Q_INVOKABLE bool guidedModeGotoLocation(const QGeoCoordinate& gotoCoord, double forwardFlightLoiterRadius = 0.0f);

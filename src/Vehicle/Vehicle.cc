@@ -1470,6 +1470,11 @@ QString Vehicle::flightMode() const
     return _firmwarePlugin->flightMode(_base_mode, _custom_mode);
 }
 
+QString Vehicle::flightModeDisplayName(const QString& flightMode) const
+{
+    return _firmwarePlugin ? _firmwarePlugin->flightModeDisplayName(flightMode) : flightMode;
+}
+
 bool Vehicle::setFlightModeCustom(const QString& flightMode, uint8_t* base_mode, uint32_t* custom_mode)
 {
     return _firmwarePlugin->setFlightMode(flightMode, base_mode, custom_mode);
@@ -1789,7 +1794,7 @@ void Vehicle::_handleFlightModeChanged(const QString& flightMode)
 {
     if (flightMode != _lastAnnouncedFlightMode) {
         _lastAnnouncedFlightMode = flightMode;
-        _say(tr("%1 %2 flight mode").arg(_vehicleIdSpeech()).arg(flightMode));
+        _say(tr("%1 %2 flight mode").arg(_vehicleIdSpeech()).arg(flightModeDisplayName(flightMode)));
     }
     emit guidedModeChanged(_firmwarePlugin->isGuidedMode(this));
 }

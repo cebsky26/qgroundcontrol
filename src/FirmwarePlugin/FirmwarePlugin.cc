@@ -18,6 +18,7 @@
 #include "QGCCompression.h"
 #include "QGCFileHelper.h"
 
+#include <QtCore/QCoreApplication>
 #include <QtCore/QDir>
 #include <QtCore/QFile>
 #include <QtCore/QRegularExpression>
@@ -78,6 +79,18 @@ QString FirmwarePlugin::flightMode(uint8_t base_mode, uint32_t custom_mode) cons
     }
 
     return flightMode;
+}
+
+QString FirmwarePlugin::flightModeDisplayName(const QString &flightMode) const
+{
+    // The firmware plugin's own tr() strings carry the translations of its mode names (the context is
+    // the plugin class name); names that only StandardModes assigns use the "StandardModes" context.
+    const QByteArray source = flightMode.toUtf8();
+    const QString pluginTranslation = QCoreApplication::translate(metaObject()->className(), source.constData());
+    if (pluginTranslation != flightMode) {
+        return pluginTranslation;
+    }
+    return QCoreApplication::translate("StandardModes", source.constData());
 }
 
 bool FirmwarePlugin::setFlightMode(const QString &flightMode, uint8_t *base_mode, uint32_t *custom_mode) const

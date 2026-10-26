@@ -41,7 +41,7 @@ Item {
 
         QGCLabel {
             id:                 flightModeLabel
-            text:               activeVehicle ? activeVehicle.flightMode : qsTr("N/A", "No data to display")
+            text:               activeVehicle ? activeVehicle.flightModeDisplayName(activeVehicle.flightMode) : qsTr("N/A", "No data to display")
             color:              qgcPal.text
             font.pointSize:     fontPointSize
 
@@ -155,7 +155,7 @@ Item {
 
                     QGCDelayButton {
                         id:                 modeButton
-                        text:               modelData
+                        text:               activeVehicle ? activeVehicle.flightModeDisplayName(modelData) : modelData
                         delay:              flightModeSettings.requireModeChangeConfirmation.rawValue ? defaultDelay : 0
                         Layout.fillWidth:   true
 

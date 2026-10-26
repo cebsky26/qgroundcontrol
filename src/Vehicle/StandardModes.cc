@@ -5,6 +5,14 @@
 
 QGC_LOGGING_CATEGORY(StandardModesLog, "Vehicle.StandardModes")
 
+// Mode names PX4 reports through AVAILABLE_MODES that differ from PX4FirmwarePlugin's own names.
+// Listed only so lupdate extracts them for FirmwarePlugin::flightModeDisplayName(); the names the
+// vehicle reports are never changed.
+[[maybe_unused]] static constexpr const char *kVehicleReportedModeNames[] = {
+    QT_TRANSLATE_NOOP("StandardModes", "Precision Landing"),
+    QT_TRANSLATE_NOOP("StandardModes", "Follow Target"),
+};
+
 static void requestMessageResultHandler(void *resultHandlerData, MAV_RESULT result,
                                         VehicleTypes::RequestMessageResultHandlerFailureCode_t failureCode,
                                         const mavlink_message_t &message)
@@ -36,29 +44,29 @@ void StandardModes::gotMessage(MAV_RESULT result, VehicleTypes::RequestMessageRe
         QString name = availableModes.mode_name;
         switch (availableModes.standard_mode) {
             case MAV_STANDARD_MODE_POSITION_HOLD:
-                name = "Position";
+                name = QT_TRANSLATE_NOOP("StandardModes", "Position");  // display-only translation, see FirmwarePlugin::flightModeDisplayName()
                 break;
             case MAV_STANDARD_MODE_ORBIT:
-                name = "Orbit";
+                name = QT_TRANSLATE_NOOP("StandardModes", "Orbit");
                 cannotBeSet = true; // These are exposed in the UI as separate buttons
                 break;
             case MAV_STANDARD_MODE_CRUISE:
-                name = "Cruise";
+                name = QT_TRANSLATE_NOOP("StandardModes", "Cruise");
                 break;
             case MAV_STANDARD_MODE_ALTITUDE_HOLD:
-                name = "Altitude";
+                name = QT_TRANSLATE_NOOP("StandardModes", "Altitude");
                 break;
             case MAV_STANDARD_MODE_SAFE_RECOVERY:
-                name = "Safe Recovery";
+                name = QT_TRANSLATE_NOOP("StandardModes", "Safe Recovery");
                 break;
             case MAV_STANDARD_MODE_MISSION:
-                name = "Mission";
+                name = QT_TRANSLATE_NOOP("StandardModes", "Mission");
                 break;
             case MAV_STANDARD_MODE_LAND:
-                name = "Land";
+                name = QT_TRANSLATE_NOOP("StandardModes", "Land");
                 break;
             case MAV_STANDARD_MODE_TAKEOFF:
-                name = "Takeoff";
+                name = QT_TRANSLATE_NOOP("StandardModes", "Takeoff");
                 break;
         }
 

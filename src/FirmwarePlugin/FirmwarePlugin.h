@@ -135,6 +135,11 @@ public:
     ///     @param custom_mode Custom mode from mavlink HEARTBEAT message
     virtual QString flightMode(uint8_t base_mode, uint32_t custom_mode) const;
 
+    /// Returns the flight mode name to show the user. Mode names are lookup keys and stay exactly as
+    /// the vehicle reports them (vehicles that support MAVLink AVAILABLE_MODES send English names),
+    /// so they are translated for display only.
+    virtual QString flightModeDisplayName(const QString &flightMode) const;
+
     /// Sets base_mode and custom_mode to specified flight mode.
     ///     @param[out] base_mode Base mode for SET_MODE mavlink message
     ///     @param[out] custom_mode Custom mode for SET_MODE mavlink message

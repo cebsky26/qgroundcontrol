@@ -7,7 +7,7 @@ import QGroundControl.Controls
 // Label control whichs pop up a flight mode change menu when clicked
 QGCLabel {
     id:     _root
-    text:   currentVehicle ? currentVehicle.flightMode : qsTr("N/A", "No data to display")
+    text:   currentVehicle ? currentVehicle.flightModeDisplayName(currentVehicle.flightMode) : qsTr("N/A", "No data to display")
 
     property var    currentVehicle:         QGroundControl.multiVehicleManager.activeVehicle
     property real   mouseAreaLeftMargin:    0
@@ -20,8 +20,9 @@ QGCLabel {
         id: flightModeMenuItemComponent
 
         MenuItem {
+            property string modeName    // untranslated mode name; text holds the display name
             enabled: true
-            onTriggered: currentVehicle.flightMode = text
+            onTriggered: currentVehicle.flightMode = modeName
         }
     }
 
@@ -37,7 +38,8 @@ QGCLabel {
             flightModesMenuItems.length = 0
             // Add new items
             for (i = 0; i < currentVehicle.flightModes.length; i++) {
-                var menuItem = flightModeMenuItemComponent.createObject(null, { "text": currentVehicle.flightModes[i] })
+                var modeName = currentVehicle.flightModes[i]
+                var menuItem = flightModeMenuItemComponent.createObject(null, { "text": currentVehicle.flightModeDisplayName(modeName), "modeName": modeName })
                 flightModesMenuItems.push(menuItem)
                 flightModesMenu.insertItem(i, menuItem)
             }
